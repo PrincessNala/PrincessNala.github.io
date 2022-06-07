@@ -24,12 +24,6 @@
     "version": null
   },
   {
-    "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "GeodesicDragon",
     "name": "MLP Music",
     "steamId": null,
@@ -116,12 +110,6 @@
   {
     "author": "ItsComcastic",
     "name": "Haul to Stack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -331,7 +319,7 @@
   },
   {
     "author": "Yanzihko",
-    "name": "Vulpes - Adorable Foxes! [1.3]",
+    "name": "Vulpes - Adorable Foxes! [1.2]",
     "steamId": null,
     "version": null
   },
@@ -450,8 +438,14 @@
     "version": null
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Invisible Animal Beds",
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andross",
+    "name": "Royal Thrumbos",
     "steamId": null,
     "version": null
   },
@@ -462,14 +456,26 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
+    "author": "Roolo",
+    "name": "RunAndGun",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Andross",
-    "name": "Royal Thrumbos",
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ramachandra",
+    "name": "The music of the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheCavan",
+    "name": "Identity",
     "steamId": null,
     "version": null
   }

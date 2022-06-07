@@ -1,7 +1,7 @@
 ﻿{
   "traits": [
     {
-      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. this pawn can handle clothing, but will be happier without it.",
       "stats": [
 
       ],
@@ -31,7 +31,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. this pawn is four times as likely to start a social fight as others.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
+      "description": "Timmy is an exceptionally agreeable and giving person. this pawn never insults others and will sometimes offer kind words to brighten the moods of those around them. this pawn also never judges people by their appearance. their agreeableness also makes them more likely to conform to prevailing opinions.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -93,7 +93,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
+      "description": "Timmy has no empathy. The suffering of others doesn't bother them at all. this pawn doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects them. this pawn also feels no mood boost from socializing.",
       "stats": [
         "Morbid meditation focus type allowed.",
         "x50% global certainty loss factor"
@@ -125,7 +125,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, this pawn tried it... and this pawn liked it.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -155,7 +155,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
+      "description": "Timmy always says exactly what's on their mind, especially if it's bugging them. That tends to rub people the wrong way.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -185,7 +185,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
+      "description": "Timmy is too smart for their own good. this pawn learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+75% global learning factor",
         "+12% mental break threshold",
@@ -227,7 +227,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
+      "description": "Timmy likes to fight up close and personal. their accuracy is greatly increased in melee combat, but this pawn'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
@@ -267,7 +267,7 @@
       "degree": 0
     },
     {
-      "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
+      "description": "For Timmy, there's something exciting about getting hurt. this pawn doesn't know why, this pawn's just wired differently.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -297,7 +297,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
+      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nthis pawn gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nthis pawn doesn't get a mood penalty for being in the dark.",
       "stats": [
 
       ],
@@ -327,7 +327,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
+      "description": "Timmy needs a really impressive bedroom. this pawn gets a mood loss if this pawn doesn't get what this pawn wants.",
       "stats": [
 
       ],
@@ -359,7 +359,7 @@
       "degree": 0
     },
     {
-      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. this pawn gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -391,7 +391,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. this pawn will become unhappy if this pawn has a bedroom that's too impressive. this pawn also dislikes fancy food and prefers to eat raw. this pawn never judges others by their appearance.",
       "stats": [
         "Artistic meditation focus type disabled.",
         "Minimal meditation focus type allowed.",
@@ -429,7 +429,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to people of his own gender.",
+      "description": "Timmy is romantically attracted to people of their own gender.",
       "stats": [
 
       ],
@@ -519,7 +519,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
+      "description": "Timmy's voice has a particularly grating, nasal quality to it, and this pawn tends to talk in barked, garbled phrases. This predisposes others to dislike them.",
       "stats": [
 
       ],
@@ -579,7 +579,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+      "description": "Timmy loves fire. this pawn will never extinguish fires. To relieve stress, this pawn will occasionally go on random fire starting sprees. This happens more often if their mood is low.",
       "stats": [
         "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -611,7 +611,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
+      "description": "Timmy is weak and cowardly. Even a little pain will immobilize them.",
       "stats": [
         "-60% pain shock threshold",
         "x200% global certainty loss factor"
@@ -645,7 +645,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "description": "Timmy has remarkable kinesthetic intelligence. this pawn seems to dance around danger with preternatural grace.",
       "stats": [
         "+15.0 melee dodge chance",
         "x10% trap spring chance"
@@ -677,7 +677,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a knack for learning. he picks things up much faster than others.",
+      "description": "Timmy has a knack for learning. this pawn picks things up much faster than others.",
       "stats": [
         "+75% global learning factor"
       ],
@@ -707,7 +707,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is slow on the uptake. he learns much slower than others.",
+      "description": "Timmy is slow on the uptake. this pawn learns much slower than others.",
       "stats": [
         "-75% global learning factor",
         "x50% global certainty loss factor"
@@ -739,7 +739,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. this pawn will never feel cooped up or get cabin fever, no matter how long this pawn stays inside, and is not bothered by darkness.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -769,7 +769,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in their feeble human body. this pawn often dreams of being enhanced by artificial body parts.",
       "stats": [
 
       ],
@@ -799,9 +799,9 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To them, artificial body parts are unethical and disgusting.",
       "stats": [
-
+        "-10.00% sex drive"
       ],
       "conflicts": [
         "bodymodder"
@@ -817,7 +817,7 @@
           "bodymodder"
         ],
         "stats": [
-
+          "-10.00% sex drive"
         ]
       },
       "defName": "BodyPurist",
@@ -889,7 +889,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. this pawn will learn new skills slightly faster than other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -919,7 +919,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
+      "description": "Timmy has thick skin, dense flesh, and durable bones. this pawn takes much less damage than other people from the same blows. this pawn is extremely hard to kill.",
       "stats": [
         "x50% incoming damage multiplier"
       ],
@@ -949,7 +949,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "description": "Timmy feels alienated and misunderstood by other human beings. this pawn will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -979,7 +979,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
+      "description": "Timmy's life revolves around food. this pawn gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+4 cooking"
@@ -1011,7 +1011,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
+      "description": "Timmy doesn't need as much sleep as the average person. Whether this pawn's sleeping on a bed or on the ground, this pawn will be fully rested in about two thirds the usual time.",
       "stats": [
         "+50% rest rate multiplier"
       ],
@@ -1041,7 +1041,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is always falling behind the group whenever he goes anywhere.",
+      "description": "Timmy is always falling behind the group whenever this pawn goes anywhere.",
       "stats": [
         "Go frenzy inspiration disabled.",
         "-0.20 move speed"
@@ -1073,7 +1073,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy likes to be where he's going. he walks quicker than most people.",
+      "description": "Timmy likes to be where this pawn's going. this pawn walks quicker than most people.",
       "stats": [
         "+0.20 move speed"
       ],
@@ -1133,7 +1133,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. this pawn will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
 
       ],
@@ -1163,7 +1163,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. this pawn will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
 
       ],
@@ -1193,7 +1193,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals. this pawn strictly avoids alcohol and recreational drugs.",
       "stats": [
         "Binging on drug mental state disabled.",
         "Binging on drug mental state disabled."
@@ -1225,7 +1225,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
+      "description": "Timmy is just naturally upbeat about their situation, pretty much all the time, no matter what it is.",
       "stats": [
 
       ],
@@ -1255,7 +1255,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
+      "description": "Timmy is naturally optimistic about life. It's hard to get them down.",
       "stats": [
 
       ],
@@ -1315,7 +1315,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
+      "description": "Timmy is perenially unhappy. this pawn has trouble sustaining a good mood even when everything is fine.",
       "stats": [
 
       ],
@@ -1345,7 +1345,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
+      "description": "Timmy's will is an iron shield. this pawn keeps going through thick and thin, when others broke down long before.",
       "stats": [
         "-18% mental break threshold",
         "x25% global certainty loss factor"
@@ -1441,7 +1441,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
+      "description": "Timmy is on a hair-trigger all the time. this pawn is the first to break in any tough situation.",
       "stats": [
         "+15% mental break threshold",
         "x300% global certainty loss factor"
@@ -1473,7 +1473,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
+      "description": "Timmy likes to have things squared away. this pawn will work harder than most to attain this state of affairs, but their nerves can get the better of them.",
       "stats": [
         "+20% global work speed",
         "+8% mental break threshold"
@@ -1505,7 +1505,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
+      "description": "Timmy feels constantly nervous about everything that has to get done. this pawn will work extremely hard to attain this state of affairs, but their nerves can easily get the better of them.",
       "stats": [
         "+40% global work speed",
         "+14% mental break threshold"
@@ -1627,7 +1627,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
+      "description": "Timmy loves idleness and hates anything productive. this pawn moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% global work speed"
       ],
@@ -1657,7 +1657,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
+      "description": "Timmy's mind is like a psychic tuning fork. this pawn is extremely sensitive to psychic phenomena.",
       "stats": [
         "+80% psychic sensitivity"
       ],
@@ -1717,7 +1717,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
+      "description": "Timmy's mind is psychically out of tune with others. this pawn isn't as affected by psychic phenomena.",
       "stats": [
         "-50% psychic sensitivity"
       ],
@@ -1747,7 +1747,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
+      "description": "Timmy's mind works on a psychic frequency different from everyone else. this pawn just isn't affected by psychic phenomena.",
       "stats": [
         "-100% psychic sensitivity"
       ],
@@ -1777,7 +1777,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "description": "Timmy takes more time to aim when shooting. this pawn shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
         "+5.0 shooting accuracy"
@@ -1809,7 +1809,7 @@
       "degree": 1
     },
     {
-      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
+      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. this pawn shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
         "-5.0 shooting accuracy"
@@ -1841,7 +1841,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to them before this pawn even opens their mouth.",
       "stats": [
         "+2.0 beauty"
       ],
@@ -1871,7 +1871,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has a pretty face, which predisposes people to like him.",
+      "description": "Timmy has a pretty face, which predisposes people to like them.",
       "stats": [
         "+1.0 beauty"
       ],
@@ -1931,7 +1931,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
+      "description": "Timmy is staggeringly ugly. their face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at them while conversing.",
       "stats": [
         "-2.0 beauty"
       ],
@@ -1961,7 +1961,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "description": "Timmy has a naturally powerful immune system. this pawn will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
         "+30% immunity gain speed"
       ],
@@ -1991,7 +1991,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "description": "Timmy has an awful immune system. this pawn gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
         "+4 medical"
       ],
@@ -2081,16 +2081,9 @@
       "degree": -1
     },
     {
-      "description": "Timmy is a Vulpian, and he is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by his adorable appearence. Even plants start to bloom around Timmy!",
+      "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
       "stats": [
-        "+5 social",
-        "+3 intellectual",
-        "+2 animals",
-        "+2 plants",
-        "+25.00% train animal chance",
-        "+10.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
+
       ],
       "conflicts": [
 
@@ -2100,28 +2093,171 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vulpes - Adorable Foxes! [1.3]",
+        "mod": "Identity",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+5 social",
-          "+3 intellectual",
-          "+2 animals",
-          "+2 plants",
-          "+25.00% train animal chance",
-          "+10.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
+
         ]
       },
-      "defName": "VAF_Vulpian",
-      "name": "vulpian",
+      "defName": "maleGender",
+      "name": "transmale",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy identifies strongly as a female. Physical traits related to the Female gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "femaleGender",
+      "name": "transfemale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy does not want to be identified as any gender. The closer to truly androgynous they are, the happier they are.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "androgyneGender",
+      "name": "trans:androgyne",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is content with their body, regardless of their identified gender. They will experience no form of dysphoria.",
+      "stats": [
+        "x0% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x0% dysphoria multiplier"
+        ]
+      },
+      "defName": "noGenderPref",
+      "name": "body-content",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is much more affected by dysphoria than normal.",
+      "stats": [
+        "x300% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x300% dysphoria multiplier"
+        ]
+      },
+      "defName": "bodySensitive",
+      "name": "body-sensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has thick skin, dense flesh, and durable bones. this pawn takes much less damage than other people from the same blows. this pawn is extremely hard to kill.",
+      "stats": [
+        "x30% incoming damage multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NakinRace",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x30% incoming damage multiplier"
+        ]
+      },
+      "defName": "Tough_Nakin",
+      "name": "tough",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2161,7 +2297,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2201,7 +2337,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2233,11 +2369,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is so rigid, it's almost like he is souless.",
+      "description": "Timmy is so rigid, it's almost like this pawn is souless.",
       "stats": [
         "-2.0 melee dodge chance",
         "-0.10 move speed"
@@ -2265,11 +2401,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy takes care of his personal hygiene.",
+      "description": "Timmy takes care of their personal hygiene.",
       "stats": [
         "-10.00% food poison chance"
       ],
@@ -2295,11 +2431,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy doesn't care about his hygiene, and sometimes get sick from bad food.",
+      "description": "Timmy doesn't care about their hygiene, and sometimes get sick from bad food.",
       "stats": [
         "+10.00% food poison chance"
       ],
@@ -2325,11 +2461,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy often gets his way with things.",
+      "description": "Timmy often gets their way with things.",
       "stats": [
         "+25.00% negotiation ability",
         "+25.00% Arrest success chance"
@@ -2357,11 +2493,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has never won a debate in his life.",
+      "description": "Timmy has never won a debate in their life.",
       "stats": [
         "-25.00% negotiation ability",
         "-25.00% Arrest success chance"
@@ -2389,11 +2525,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has been in plenty of fights since he was a kid, and had built up a tolerance to injury and pain as a result.",
+      "description": "Timmy has been in plenty of fights since this pawn was a kid, and had built up a tolerance to injury and pain as a result.",
       "stats": [
         "-10% incoming damage multiplier",
         "+5% pain shock threshold"
@@ -2423,7 +2559,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2459,7 +2595,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2491,7 +2627,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2523,7 +2659,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2553,7 +2689,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2583,7 +2719,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2615,7 +2751,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2647,11 +2783,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is brave, he would stand his where others would scramble and run.",
+      "description": "Timmy is brave, this pawn would stand their where others would scramble and run.",
       "stats": [
         "-5% mental break threshold",
         "+5% pain shock threshold"
@@ -2679,7 +2815,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2711,11 +2847,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy likes a good fight, he will sometimes start a fight just because he can.",
+      "description": "Timmy likes a good fight, this pawn will sometimes start a fight just because this pawn can.",
       "stats": [
         "+5% mental break threshold"
       ],
@@ -2741,7 +2877,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2771,7 +2907,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2801,7 +2937,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2831,7 +2967,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2861,7 +2997,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2891,11 +3027,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has a well built body, people around he find that rather attractive.",
+      "description": "Timmy has a well built body, people around this pawn find that rather attractive.",
       "stats": [
         "+5 carrying capacity",
         "+1.0 beauty"
@@ -2923,7 +3059,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2955,7 +3091,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2985,7 +3121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3015,7 +3151,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3045,7 +3181,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3075,7 +3211,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3105,7 +3241,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3135,7 +3271,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3165,11 +3301,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is naturally talented, he gets a headstart before everyone else.",
+      "description": "Timmy is naturally talented, this pawn gets a headstart before everyone else.",
       "stats": [
         "+4 shooting",
         "+4 melee",
@@ -3217,7 +3353,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3269,11 +3405,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy takes great care in the preparation of food, he never skip a step just to have an early meal.",
+      "description": "Timmy takes great care in the preparation of food, this pawn never skip a step just to have an early meal.",
       "stats": [
         "-0.8 cooking speed",
         "-10.00% food poison chance"
@@ -3301,11 +3437,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy couldn't care less about following the recipes as long as he can get food into his mouth in record time.",
+      "description": "Timmy couldn't care less about following the recipes as long as this pawn can get food into their mouth in record time.",
       "stats": [
         "+0.8 cooking speed",
         "+10.00% food poison chance"
@@ -3333,7 +3469,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3371,7 +3507,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3409,7 +3545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3441,7 +3577,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3473,11 +3609,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has good reaction time and finds physical activities less stressful than his peers.",
+      "description": "Timmy has good reaction time and finds physical activities less stressful than their peers.",
       "stats": [
         "+2.0 shooting accuracy",
         "+2.0 melee hit chance",
@@ -3507,7 +3643,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3541,7 +3677,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3581,11 +3717,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is so fragile, it doesn't take much to take him out of action.",
+      "description": "Timmy is so fragile, it doesn't take much to take them out of action.",
       "stats": [
         "+10% incoming damage multiplier",
         "-10% immunity gain speed",
@@ -3623,7 +3759,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3653,11 +3789,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Life to Timmy is an endless, boring joke that he just can't get away from.",
+      "description": "Life to Timmy is an endless, boring joke that this pawn just can't get away from.",
       "stats": [
         "-3 artistic"
       ],
@@ -3683,11 +3819,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has an interest in understanding the workings of the world, and is able to apply his knowledge in daily life.",
+      "description": "Timmy has an interest in understanding the workings of the world, and is able to apply their knowledge in daily life.",
       "stats": [
         "+4 intellectual",
         "-5% mental break threshold"
@@ -3715,11 +3851,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Gaps in Timmy's education and general lack of curiosity makes life often stressful for him.",
+      "description": "Gaps in Timmy's education and general lack of curiosity makes life often stressful for them.",
       "stats": [
         "-4 intellectual",
         "+5% mental break threshold"
@@ -3747,7 +3883,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3897,7 +4033,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3935,7 +4071,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3993,11 +4129,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy loves being outdoors, exploring new things. And he knows how to pack for whatever it takes him.",
+      "description": "Timmy loves being outdoors, exploring new things. And this pawn knows how to pack for whatever it takes them.",
       "stats": [
         "+3 plants",
         "+2 animals",
@@ -4041,7 +4177,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4107,11 +4243,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy loves all things growing. And he has a very good hand with them.",
+      "description": "Timmy loves all things growing. And this pawn has a very good hand with them.",
       "stats": [
         "+35% plant harvest yield",
         "+25% plant work speed",
@@ -4143,11 +4279,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy always talks about his own accomplishments. It's pretty tiresome, but has its uses.",
+      "description": "Timmy always talks about their own accomplishments. It's pretty tiresome, but has its uses.",
       "stats": [
         "+20.00% trade price improvement",
         "-60.00% social impact"
@@ -4187,11 +4323,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is almost over the edge. Dont push him.",
+      "description": "Timmy is almost over the edge. Dont push them.",
       "stats": [
         "-4 social",
         "+10% mental break threshold",
@@ -4243,7 +4379,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4297,7 +4433,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4419,7 +4555,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4501,7 +4637,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4589,7 +4725,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4675,7 +4811,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4731,11 +4867,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy's body just works a bit differently. he eats a lot, but has a lot of energy an strength in return.",
+      "description": "Timmy's body just works a bit differently. this pawn eats a lot, but has a lot of energy an strength in return.",
       "stats": [
         "+25% immunity gain speed",
         "+40 max hit points",
@@ -4777,11 +4913,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is the definition of 'head on'. Sometimes it's not to his benefit.",
+      "description": "Timmy is the definition of 'head on'. Sometimes it's not to their benefit.",
       "stats": [
         "+15% pain shock threshold",
         "-15% mental break threshold",
@@ -4841,7 +4977,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4901,7 +5037,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4985,7 +5121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5053,7 +5189,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5103,7 +5239,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5163,11 +5299,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy always takes a defensive stance when fighting. he takes and deals less damage.",
+      "description": "Timmy always takes a defensive stance when fighting. this pawn takes and deals less damage.",
       "stats": [
         "x60% incoming damage multiplier",
         "x60% blunt damage",
@@ -5211,11 +5347,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has a pretty bad habit of closing his eyes when something's coming at him.",
+      "description": "Timmy has a pretty bad habit of closing their eyes when something's coming at them.",
       "stats": [
         "-6 melee",
         "-6 shooting",
@@ -5273,7 +5409,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5327,7 +5463,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5385,11 +5521,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is the sort of person who does his job and let everybody else worry about the rest.",
+      "description": "Timmy is the sort of person who does their job and let everybody else worry about the rest.",
       "stats": [
         "+20% plant work speed",
         "+20% mining speed",
@@ -5487,7 +5623,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5561,7 +5697,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5619,7 +5755,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5673,11 +5809,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy likes to fight. And he's good at it.",
+      "description": "Timmy likes to fight. And this pawn's good at it.",
       "stats": [
         "x130% melee damage multiplier",
         "x130% damage multiplier",
@@ -5747,7 +5883,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5835,7 +5971,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5907,11 +6043,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is fighting in the name of his faith.",
+      "description": "Timmy is fighting in the name of their faith.",
       "stats": [
         "+4 shooting",
         "+4 melee",
@@ -5975,7 +6111,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6067,7 +6203,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6129,7 +6265,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6169,7 +6305,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6203,7 +6339,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6237,7 +6373,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6273,7 +6409,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6307,11 +6443,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has long arms and legs. he moves fast, but is a little frail and doesn't have perfect control of his limbs.",
+      "description": "Timmy has long arms and legs. this pawn moves fast, but is a little frail and doesn't have perfect control of their limbs.",
       "stats": [
         "+0.25 move speed",
         "-35 max hit points",
@@ -6361,7 +6497,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6401,11 +6537,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has a habit of hitting his enemies the right way.",
+      "description": "Timmy has a habit of hitting their enemies the right way.",
       "stats": [
         "+2 shooting",
         "+2 melee",
@@ -6439,11 +6575,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has a habit of hitting his enemies the wrong way.",
+      "description": "Timmy has a habit of hitting their enemies the wrong way.",
       "stats": [
         "-2 shooting",
         "-2 melee",
@@ -6495,11 +6631,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is doing all he can to not piss someone off.",
+      "description": "Timmy is doing all this pawn can to not piss someone off.",
       "stats": [
         "-60.00% social impact",
         "x140% rest rate multiplier",
@@ -6549,11 +6685,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is gonna be a wild child all his life.",
+      "description": "Timmy is gonna be a wild child all their life.",
       "stats": [
         "-100.00% social impact",
         "+30% plant harvest yield",
@@ -6653,11 +6789,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy knows what he wants and usually gets it.",
+      "description": "Timmy knows what this pawn wants and usually gets it.",
       "stats": [
         "+25.00% social impact",
         "+30.00% trade price improvement"
@@ -6691,7 +6827,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6757,7 +6893,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6827,7 +6963,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6865,7 +7001,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6895,11 +7031,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy strives for perfection in their work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
         "x65% global work speed"
       ],
@@ -6925,11 +7061,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
+      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and this pawn will try to hide or run as a first priority.",
       "stats": [
 
       ],
@@ -6959,7 +7095,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6993,7 +7129,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7023,7 +7159,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7053,7 +7189,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7083,7 +7219,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7113,7 +7249,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7143,7 +7279,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7173,11 +7309,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy has problems taking breaks or resting mid job. this pawn will continue to work even sacrificing their health or sleep.",
       "stats": [
 
       ],
@@ -7211,11 +7347,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
+      "description": "Timmy has never felt nausea in their life. Throwing up or food poisoning is foreign to them.",
       "stats": [
 
       ],
@@ -7241,11 +7377,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy can't stand mistreatment of animals. this pawn will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [
 
       ],
@@ -7271,7 +7407,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7303,7 +7439,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7333,7 +7469,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7363,7 +7499,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7393,7 +7529,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7423,7 +7559,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7453,7 +7589,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7483,7 +7619,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7521,7 +7657,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7551,7 +7687,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7581,11 +7717,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for them.",
       "stats": [
 
       ],
@@ -7613,7 +7749,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7643,11 +7779,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin' is enough lovin' for Timmy. this pawn will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [
 
       ],
@@ -7677,7 +7813,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7709,7 +7845,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7739,7 +7875,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7769,7 +7905,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7799,7 +7935,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7831,7 +7967,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7863,11 +7999,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Timmy. this pawn feels happier just being near the ocean or a deep river.",
       "stats": [
 
       ],
@@ -7893,11 +8029,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
+      "description": "The mountains call to Timmy. this pawn feels happier just being near a large mountain.",
       "stats": [
 
       ],
@@ -7923,11 +8059,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy has a twisted secret. this pawn treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -7953,7 +8089,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7983,7 +8119,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8013,11 +8149,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Timmy. this pawn absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [
 
       ],
@@ -8049,11 +8185,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Timmy. this pawn absolutely adores booze and would rather die before giving it up.",
       "stats": [
 
       ],
@@ -8085,7 +8221,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8115,11 +8251,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy is never really asleep or awake. this pawn is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
         "x50% global work speed",
         "x70% move speed"
@@ -8147,11 +8283,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. their bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [
 
       ],
@@ -8177,7 +8313,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8207,7 +8343,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8237,7 +8373,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8271,7 +8407,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8307,7 +8443,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8341,7 +8477,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8377,11 +8513,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
+      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and this pawn will likely convince you if given the chance.",
       "stats": [
         "+4 social",
         "+4 crafting",
@@ -8411,7 +8547,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8441,7 +8577,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8471,7 +8607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8507,7 +8643,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8544,36 +8680,6 @@
       },
       "defName": "Miraculous",
       "name": "mysteriousenergy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
-      "stats": [
-        "x30% incoming damage multiplier"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NakinRace",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x30% incoming damage multiplier"
-        ]
-      },
-      "defName": "Tough_Nakin",
-      "name": "tough",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -8639,6 +8745,50 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is adorable being with smooth and charming voice. There is something mysterious about them that attracts everyone around. Even plants start to bloom around Timmy...",
+      "stats": [
+        "+5 social",
+        "+5 animals",
+        "+5 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+2.0 beauty",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vulpes - Adorable Foxes! [1.2]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+5 animals",
+          "+5 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+2.0 beauty",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "Adorable",
+      "name": "adorable",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8663,746 +8813,6 @@
       "enabled": false,
       "name": "human",
       "price": 6969
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1900 Market value",
-          "+7.85 Move speed",
-          "-108.0F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+120% Research speed",
-          "+95% Mining speed",
-          "+120.00% Social impact",
-          "+1.3 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
-      "defName": "Alien_Orassan",
-      "enabled": false,
-      "name": "orassan",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1900 Market value",
-          "+6.23 Move speed",
-          "+0.0F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+110% Research speed",
-          "+98% Mining speed",
-          "+125.00% Social impact",
-          "+1.2 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
-      "defName": "Alien_OrassanHumanHybrid",
-      "enabled": true,
-      "name": "neko",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+70% Global work speed",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+39.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+50 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$3000 Market value",
-          "+8.00 Move speed",
-          "+150% Immunity gain speed",
-          "+45.0F Minimum comfortable temperature",
-          "+90.0F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+50 Meat amount",
-          "+200% Global work speed",
-          "+400% Research speed",
-          "+200% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+50% Mining speed",
-          "+200.00% Social impact",
-          "+75% Construction speed",
-          "+125% Animal gather speed",
-          "+125% Animal gather yield",
-          "+4.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.",
-      "defName": "Vulpes",
-      "enabled": true,
-      "name": "Vulpes",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1925 Market value",
-          "+3.3 Honor value",
-          "+0.5 Beauty",
-          "+5.50 Move speed",
-          "+21.6F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+70% Trap spring chance",
-          "+150.00% Negotiation ability",
-          "+150.00% Trade price improvement",
-          "+130.00% Drug sell price improvement",
-          "+130.00% Social impact",
-          "+150% Plant work speed",
-          "+130% Plant harvest yield",
-          "+150% General labor speed",
-          "+150% Mechanoid shredding speed",
-          "+150% Mechanoid shredding efficiency",
-          "+70% Mining speed",
-          "+80% Smoothing speed",
-          "+80% Construction speed",
-          "+150% Pruning speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race with rabbit-like ears and a tail.\n     They are generally fast. They are also dexterous, so they are good at cultivation and crafts.\n     Also, because of its adorable appearance, it is easy for humans to accept it favorably, and it seems that it is good at business and negotiations.\n     However, their body is fragile and they are not good at hard work. Be careful of serious injuries.",
-      "defName": "KRR_ArcamalianR",
-      "enabled": true,
-      "name": "Leporidia",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1925 Market value",
-          "+3.3 Honor value",
-          "+0.3 Beauty",
-          "+5.00 Move speed",
-          "+7.2F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+110% Hunger rate multiplier",
-          "+90% Rest rate multiplier",
-          "+100 Carrying capacity",
-          "+70.00% Negotiation ability",
-          "+150% Mining speed",
-          "+130% Mining yield",
-          "+150% Smoothing speed",
-          "+130% Construction speed",
-          "+70% Research speed",
-          "+70% Hacking speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race with bear-like ears and a tail.\n     Although they are strong and good at hard work, they tend to hungry and needs a little longer rest.\n     It's a good idea to assign construction, mining, and Hauling.\n     Be careful not to offend them too much, however, as they are not very forgiving when it comes to fisticuffs.",
-      "defName": "KRR_ArcamalianB",
-      "enabled": true,
-      "name": "Ursushang",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$2275 Market value",
-          "+3.9 Honor value",
-          "+0.7 Beauty",
-          "+4.60 Move speed",
-          "+21.6F Minimum comfortable temperature",
-          "+61.2F Maximum comfortable temperature",
-          "+40% Mental break threshold",
-          "+130% Psychic sensitivity",
-          "+130% Immunity gain speed",
-          "+130% Injury healing factor",
-          "+150.00% Social impact",
-          "+150% Research speed",
-          "+120% Drug crop harvest yield",
-          "+130% Medical tend speed",
-          "+130% Medical tend quality",
-          "+130% Medical operation speed",
-          "+105% Medical surgery success chance",
-          "+120% General labor speed",
-          "+150% Drug synthesis speed",
-          "+150% Drug cooking speed",
-          "+150% Hacking speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race with fox-like ears and a tail.\n     They are rarer than other Arcamalian and often live in closed communities in the mountains.\n     They are good at brain labor and medical techniques, and have a constitution that is resistant to illness and easily exerts paranormal power.\n     Perhaps because of that background, they are a little more prideful and often look down on humans and other Arcamalian.",
-      "defName": "KRR_ArcamalianF",
-      "enabled": true,
-      "name": "Vulpadie",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+6.50 Move speed",
-          "+85% Hunger rate multiplier",
-          "+1.0 Beauty",
-          "+32.4F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
-          "+40% Mental break threshold",
-          "+85% Global work speed",
-          "+3 Honor value",
-          "+75 Meat amount",
-          "+40 Leather amount",
-          "+$1750 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
-      "defName": "Alien_BunTribe",
-      "enabled": true,
-      "name": "Bun",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+$2000 Market value",
-          "+6.24 Move speed",
-          "+50% Flammability",
-          "-16.2F Minimum comfortable temperature",
-          "+43.2F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+120% Research speed",
-          "+75% Mining speed",
-          "+120.00% Social impact",
-          "+75% Construction speed",
-          "+120% Animal gather speed",
-          "+120% Animal gather yield",
-          "+115% Immunity gain speed",
-          "+150% Psychic sensitivity",
-          "+4.0 Shooting accuracy",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
-      "defName": "AFerian",
-      "enabled": true,
-      "name": "Ferian",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+40% Flammability",
-          "+$1500 Market value",
-          "+6.00 Move speed",
-          "-18.0F Minimum comfortable temperature",
-          "+63.0F Maximum comfortable temperature",
-          "+20 Leather amount",
-          "+105% Global work speed",
-          "+120% Animal gather speed",
-          "+120% Animal gather yield",
-          "+120% Butchery speed",
-          "+110% Hunting stealth",
-          "+105% Medical tend quality",
-          "+115% Immunity gain speed",
-          "+15.00% Food poison chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A fox-like species of Kobolds. Venerek are desert dwellers that are well suited to the heat, between their natural resistance and the light clothes they make. Venerek originate from a desert planet and rely heavily on their herds of Blehaws, a crossbreed of goat and donkey. Kobolds in general are a hardy race that will eat nearly anything without complaint. They are also known to be dilligent workers, unafraid of the dark, and unbothered by some of the other fiddly trifels that other races might winge about. The downside is that they are small, making them unsuited to heavy lifting and easy to kill in combat.",
-      "defName": "AFoxbold",
-      "enabled": true,
-      "name": "Venerek Kobold",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-18.0F Minimum comfortable temperature",
-          "+81.0F Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+20.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.5 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Catgirl",
-      "enabled": true,
-      "name": "Catgirl",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.10 Move speed",
-          "-36.0F Minimum comfortable temperature",
-          "+63.0F Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+25.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.3 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Wolfgirl",
-      "enabled": true,
-      "name": "Wolfgirl",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+120% Flammability",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "-72.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+20.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+5.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+40 Leather amount",
-          "+1.3 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Foxgirl",
-      "enabled": true,
-      "name": "Foxgirl",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.00 Move speed",
-          "+0.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+60 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Cowgirl that has developed a semblance of intelligence.",
-      "defName": "MG_Cowgirl",
-      "enabled": true,
-      "name": "Cowgirl",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+90% Flammability",
-          "+$1600 Market value",
-          "+4.80 Move speed",
-          "+0.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+45 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Harpy that has developed a semblance of intelligence.",
-      "defName": "MG_Harpy",
-      "enabled": false,
-      "name": "Harpy",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$1800 Market value",
-          "+4.00 Move speed",
-          "+0.0F Minimum comfortable temperature",
-          "+108.0F Maximum comfortable temperature",
-          "+200% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+25.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
-      "defName": "MG_Slime",
-      "enabled": false,
-      "name": "Slime",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+70% Flammability",
-          "+$1850 Market value",
-          "+4.60 Move speed",
-          "+18.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+10.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Heat",
-          "+10% Toxic sensitivity",
-          "+100% Eating speed",
-          "+50 Leather amount",
-          "+0.8 Melee dodge chance",
-          "+100% Aiming time",
-          "+120.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Baphomet that has developed a semblance of intelligence.",
-      "defName": "MG_Baphomet",
-      "enabled": true,
-      "name": "Baphomet",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+6.60 Move speed",
-          "+0.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+7.5% Armor - Blunt",
-          "+7.5% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+100% Eating speed",
-          "+75 Leather amount",
-          "+1.2 Melee dodge chance",
-          "+75% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A Centaur that has developed a semblance of intelligence.",
-      "defName": "MG_Centaur",
-      "enabled": true,
-      "name": "Centaur",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+80% Flammability",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "+18.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+500% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+500% Toxic sensitivity",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
-      "defName": "MG_ForestFairy",
-      "enabled": true,
-      "name": "ForestFairy",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+30.00 Mass",
-          "+50% Flammability",
-          "+$1800 Market value",
-          "+5.00 Move speed",
-          "-540.0F Minimum comfortable temperature",
-          "+0.0F Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+5.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+120% Toxic sensitivity",
-          "+110% Eating speed",
-          "+25 Leather amount",
-          "+5.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
-      "defName": "MG_IceFairy",
-      "enabled": true,
-      "name": "IceFairy",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+5% Flammability",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-36.0F Minimum comfortable temperature",
-          "+180.0F Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+40.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+100.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
-      "defName": "MG_Dragon",
-      "enabled": true,
-      "name": "Dragon",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+90.00 Mass",
-          "+120% Flammability",
-          "+$2200 Market value",
-          "+4.70 Move speed",
-          "-99.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+125% Immunity gain speed",
-          "+120 Carrying capacity",
-          "+15.0% Armor - Sharp",
-          "+15.0% Armor - Blunt",
-          "+10.0% Armor - Heat",
-          "+100% Toxic sensitivity",
-          "+110% Eating speed",
-          "+75 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+100% Aiming time",
-          "+80.00% Negotiation ability",
-          "+100% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
-      "defName": "MG_Thrumbogirl",
-      "enabled": true,
-      "name": "Thrumbogirl",
-      "price": 420
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+30% Flammability",
-          "+$3500 Market value",
-          "+5.00 Move speed",
-          "+40% Mental break threshold",
-          "+75.6F Maximum comfortable temperature",
-          "+18.0F Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+70 Carrying capacity",
-          "+55 Meat amount",
-          "+55 Leather amount",
-          "+80% Pain shock threshold",
-          "+130.00% Negotiation ability",
-          "+120% Sell price multiplier",
-          "+120.00% Social impact",
-          "+110% Mechanoid shredding efficiency",
-          "+110% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+90% Research speed",
-          "+70% Mining speed",
-          "+105% Butchery efficiency",
-          "+90% Butchery speed",
-          "+80.00% Food poison chance",
-          "+1.1 Cooking speed",
-          "+110% Rest rate multiplier",
-          "+80% Plant work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
-      "defName": "Kurin_Race",
-      "enabled": false,
-      "name": "Kurin",
-      "price": 420
     },
     {
       "data": {
@@ -9446,7 +8856,745 @@
       "defName": "NakinRace",
       "enabled": true,
       "name": "Nakin",
-      "price": 420
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+5 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+70% Global work speed",
+          "+0 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+82% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+39.6F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+5.20 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1925 Market value",
+          "+3.3 Honor value",
+          "+0.5 Beauty",
+          "+5.50 Move speed",
+          "+21.6F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+70% Trap spring chance",
+          "+150.00% Negotiation ability",
+          "+150.00% Trade price improvement",
+          "+130.00% Drug sell price improvement",
+          "+130.00% Social impact",
+          "+150% Plant work speed",
+          "+130% Plant harvest yield",
+          "+150% General labor speed",
+          "+150% Mechanoid shredding speed",
+          "+150% Mechanoid shredding efficiency",
+          "+70% Mining speed",
+          "+80% Smoothing speed",
+          "+80% Construction speed",
+          "+150% Pruning speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race with rabbit-like ears and a tail.\n     They are generally fast. They are also dexterous, so they are good at cultivation and crafts.\n     Also, because of its adorable appearance, it is easy for humans to accept it favorably, and it seems that it is good at business and negotiations.\n     However, their body is fragile and they are not good at hard work. Be careful of serious injuries.",
+      "defName": "KRR_ArcamalianR",
+      "enabled": true,
+      "name": "Leporidia",
+      "price": 3208
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1925 Market value",
+          "+3.3 Honor value",
+          "+0.3 Beauty",
+          "+5.00 Move speed",
+          "+7.2F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+110% Hunger rate multiplier",
+          "+90% Rest rate multiplier",
+          "+100 Carrying capacity",
+          "+70.00% Negotiation ability",
+          "+150% Mining speed",
+          "+130% Mining yield",
+          "+150% Smoothing speed",
+          "+130% Construction speed",
+          "+70% Research speed",
+          "+70% Hacking speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race with bear-like ears and a tail.\n     Although they are strong and good at hard work, they tend to hungry and needs a little longer rest.\n     It's a good idea to assign construction, mining, and Hauling.\n     Be careful not to offend them too much, however, as they are not very forgiving when it comes to fisticuffs.",
+      "defName": "KRR_ArcamalianB",
+      "enabled": true,
+      "name": "Ursushang",
+      "price": 3208
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2275 Market value",
+          "+3.9 Honor value",
+          "+0.7 Beauty",
+          "+4.60 Move speed",
+          "+21.6F Minimum comfortable temperature",
+          "+61.2F Maximum comfortable temperature",
+          "+40% Mental break threshold",
+          "+130% Psychic sensitivity",
+          "+130% Immunity gain speed",
+          "+130% Injury healing factor",
+          "+150.00% Social impact",
+          "+150% Research speed",
+          "+120% Drug crop harvest yield",
+          "+130% Medical tend speed",
+          "+130% Medical tend quality",
+          "+130% Medical operation speed",
+          "+105% Medical surgery success chance",
+          "+120% General labor speed",
+          "+150% Drug synthesis speed",
+          "+150% Drug cooking speed",
+          "+150% Hacking speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race with fox-like ears and a tail.\n     They are rarer than other Arcamalian and often live in closed communities in the mountains.\n     They are good at brain labor and medical techniques, and have a constitution that is resistant to illness and easily exerts paranormal power.\n     Perhaps because of that background, they are a little more prideful and often look down on humans and other Arcamalian.",
+      "defName": "KRR_ArcamalianF",
+      "enabled": true,
+      "name": "Vulpadie",
+      "price": 3792
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+$2000 Market value",
+          "+6.24 Move speed",
+          "+50% Flammability",
+          "-16.2F Minimum comfortable temperature",
+          "+43.2F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+120% Research speed",
+          "+75% Mining speed",
+          "+120.00% Social impact",
+          "+75% Construction speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+115% Immunity gain speed",
+          "+150% Psychic sensitivity",
+          "+4.0 Shooting accuracy",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "AFerian",
+      "enabled": true,
+      "name": "Ferian",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+6.50 Move speed",
+          "+85% Hunger rate multiplier",
+          "+1.0 Beauty",
+          "+32.4F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+40% Mental break threshold",
+          "+85% Global work speed",
+          "+3 Honor value",
+          "+75 Meat amount",
+          "+40 Leather amount",
+          "+$1750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "Bun",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+40% Flammability",
+          "+$1500 Market value",
+          "+6.00 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+105% Global work speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+120% Butchery speed",
+          "+110% Hunting stealth",
+          "+105% Medical tend quality",
+          "+115% Immunity gain speed",
+          "+15.00% Food poison chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A fox-like species of Kobolds. Venerek are desert dwellers that are well suited to the heat, between their natural resistance and the light clothes they make. Venerek originate from a desert planet and rely heavily on their herds of Blehaws, a crossbreed of goat and donkey. Kobolds in general are a hardy race that will eat nearly anything without complaint. They are also known to be dilligent workers, unafraid of the dark, and unbothered by some of the other fiddly trifels that other races might winge about. The downside is that they are small, making them unsuited to heavy lifting and easy to kill in combat.",
+      "defName": "AFoxbold",
+      "enabled": true,
+      "name": "Venerek Kobold",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+30% Flammability",
+          "+$3500 Market value",
+          "+5.00 Move speed",
+          "+40% Mental break threshold",
+          "+75.6F Maximum comfortable temperature",
+          "+18.0F Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+70 Carrying capacity",
+          "+55 Meat amount",
+          "+55 Leather amount",
+          "+80% Pain shock threshold",
+          "+130.00% Negotiation ability",
+          "+120% Sell price multiplier",
+          "+120.00% Social impact",
+          "+110% Mechanoid shredding efficiency",
+          "+110% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+90% Research speed",
+          "+70% Mining speed",
+          "+105% Butchery efficiency",
+          "+90% Butchery speed",
+          "+80.00% Food poison chance",
+          "+1.1 Cooking speed",
+          "+110% Rest rate multiplier",
+          "+80% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
+      "defName": "Kurin_Race",
+      "enabled": true,
+      "name": "Kurin",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-18.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.5 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.10 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+25.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+120% Flammability",
+          "+$1500 Market value",
+          "+5.00 Move speed",
+          "-72.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+20.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+5.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+40 Leather amount",
+          "+1.3 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+60 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Cowgirl that has developed a semblance of intelligence.",
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+90% Flammability",
+          "+$1600 Market value",
+          "+4.80 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+45 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Harpy that has developed a semblance of intelligence.",
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "price": 2667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$1800 Market value",
+          "+4.00 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+108.0F Maximum comfortable temperature",
+          "+200% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+70% Flammability",
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "+18.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "+10% Toxic sensitivity",
+          "+100% Eating speed",
+          "+50 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+100% Aiming time",
+          "+120.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Baphomet that has developed a semblance of intelligence.",
+      "defName": "MG_Baphomet",
+      "enabled": true,
+      "name": "Baphomet",
+      "price": 3083
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+6.60 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+7.5% Armor - Blunt",
+          "+7.5% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+100% Eating speed",
+          "+75 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+75% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Centaur that has developed a semblance of intelligence.",
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+80% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "+18.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+500% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+500% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+30.00 Mass",
+          "+50% Flammability",
+          "+$1800 Market value",
+          "+5.00 Move speed",
+          "-540.0F Minimum comfortable temperature",
+          "+0.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+5.0% Armor - Sharp",
+          "+5.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
+          "+110% Eating speed",
+          "+25 Leather amount",
+          "+5.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+5% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+180.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+100.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+120% Flammability",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "-99.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+125% Immunity gain speed",
+          "+120 Carrying capacity",
+          "+15.0% Armor - Sharp",
+          "+15.0% Armor - Blunt",
+          "+10.0% Armor - Heat",
+          "+100% Toxic sensitivity",
+          "+110% Eating speed",
+          "+75 Leather amount",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+100% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "price": 3667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+7.85 Move speed",
+          "-108.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+120% Research speed",
+          "+95% Mining speed",
+          "+120.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+6.23 Move speed",
+          "+0.0F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+110% Research speed",
+          "+98% Mining speed",
+          "+125.00% Social impact",
+          "+1.2 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+50% Pain shock threshold",
+          "+$3000 Market value",
+          "+9.00 Move speed",
+          "+150% Immunity gain speed",
+          "+45.0F Minimum comfortable temperature",
+          "+90.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+400% Research speed",
+          "+200% Global learning factor",
+          "+50% Mining speed",
+          "+200.00% Social impact",
+          "+75% Construction speed",
+          "+125% Animal gather speed",
+          "+125% Animal gather yield",
+          "+4.0 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.",
+      "defName": "Vulpes",
+      "enabled": true,
+      "name": "Vulpes",
+      "price": 5000
     },
     {
       "data": {
@@ -9471,7 +9619,7 @@
       "defName": "O21_FR_Chitine",
       "enabled": true,
       "name": "Chitine",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9495,7 +9643,7 @@
       "defName": "O21_FR_DarkElf",
       "enabled": true,
       "name": "Dark Elf",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9518,7 +9666,7 @@
       "defName": "O21_FR_Dwarf",
       "enabled": true,
       "name": "Dwarf",
-      "price": 420
+      "price": 2917
     },
     {
       "data": {
@@ -9543,7 +9691,7 @@
       "defName": "O21_FR_Firbolg",
       "enabled": true,
       "name": "Firbolg",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9566,7 +9714,7 @@
       "defName": "O21_FR_Gith",
       "enabled": true,
       "name": "Gith",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9590,7 +9738,7 @@
       "defName": "O21_FR_Goblin",
       "enabled": true,
       "name": "Goblin",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9614,7 +9762,7 @@
       "defName": "O21_FR_Halfling",
       "enabled": true,
       "name": "Halfling",
-      "price": 420
+      "price": 2917
     },
     {
       "data": {
@@ -9637,7 +9785,7 @@
       "defName": "O21_FR_HalfOrc",
       "enabled": true,
       "name": "Half-Orc",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9661,7 +9809,7 @@
       "defName": "O21_FR_Hobgoblin",
       "enabled": true,
       "name": "Hobgoblin",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9685,7 +9833,7 @@
       "defName": "O21_FR_Illithid",
       "enabled": true,
       "name": "Illithid",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9708,7 +9856,7 @@
       "defName": "O21_FR_Killoren",
       "enabled": true,
       "name": "Killoren",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9735,7 +9883,7 @@
       "defName": "O21_FR_Kobold",
       "enabled": true,
       "name": "Kobold",
-      "price": 420
+      "price": 2500
     },
     {
       "data": {
@@ -9759,7 +9907,7 @@
       "defName": "O21_FR_MoonElf",
       "enabled": true,
       "name": "Moon Elf",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9781,7 +9929,7 @@
       "defName": "O21_FR_Orc",
       "enabled": true,
       "name": "Orc",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9806,9 +9954,9 @@
       },
       "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
       "defName": "O21_FR_SunElf",
-      "enabled": false,
+      "enabled": true,
       "name": "Sun Elf",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9831,7 +9979,7 @@
       "defName": "O21_FR_Tabaxi",
       "enabled": true,
       "name": "Tabaxi",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9856,7 +10004,7 @@
       "defName": "O21_FR_Tiefling",
       "enabled": true,
       "name": "Tiefling",
-      "price": 420
+      "price": 3333
     },
     {
       "data": {
@@ -9884,9 +10032,9 @@
       },
       "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.",
       "defName": "O21_FR_Warforged",
-      "enabled": false,
+      "enabled": true,
       "name": "Warforged",
-      "price": 420
+      "price": 4167
     },
     {
       "data": {
@@ -9910,7 +10058,7 @@
       "defName": "O21_FR_WoodElf",
       "enabled": true,
       "name": "Wood Elf",
-      "price": 420
+      "price": 3333
     }
   ]
 }
