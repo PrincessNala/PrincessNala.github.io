@@ -38,7 +38,7 @@
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "snowgentle",
@@ -124,6 +124,11 @@
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "meteor",
+		"price": 150,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
@@ -218,27 +223,27 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
@@ -289,6 +294,11 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
@@ -367,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -424,182 +434,7 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "alphaasteroid",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "aeorofleetmigration",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "stalkingarcticlion",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingsnowclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingduneclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaliskwanderin",
-		"price": 700,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "cactipinedroppod",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "gallatrosswanderin",
-		"price": 1400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "bumbledroneswanderin",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "raidblackhive",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "raidmechanoidsappers",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fungalhuskwandersin",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "factionwar",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "factionsiege",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "factioncontention",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "factioncamp",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "iceage",
-		"price": 15000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "globalwarming",
-		"price": 15000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "psychicrain",
-		"price": 25000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "longnight",
-		"price": 25000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "psychicbloom",
-		"price": 10000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hailstorm",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "animalpodcrash",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "spacebattle",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "earthquake",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cargopodsweapons",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "cargopodsapparel",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "caravananimals",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "cropsprout",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "battleanimals",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drought",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "wildmen",
-		"price": 600,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 120
+	"total": 87
 }
