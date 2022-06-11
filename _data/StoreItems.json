@@ -6161,7 +6161,19 @@
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
       "price": 3333
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 642
     }
   ],
-  "total": 1027
+  "total": 1029
 }
