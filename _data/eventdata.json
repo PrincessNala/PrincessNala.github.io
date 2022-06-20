@@ -207,7 +207,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "meteor": {
+  "meowteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

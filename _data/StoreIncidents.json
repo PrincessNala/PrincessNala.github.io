@@ -116,19 +116,14 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
+		"abr": "meowteor",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
-		"karmatype": "Bad"
+		"price": 69,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "psychicdrone",
@@ -153,11 +148,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -213,7 +203,7 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "dropraid",
@@ -233,7 +223,7 @@
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -243,7 +233,7 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "predators",
@@ -293,7 +283,7 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "visitcolony",
@@ -426,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 83
 }

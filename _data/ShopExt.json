@@ -27,7 +27,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -57,11 +57,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -89,7 +89,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -121,7 +121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -151,7 +151,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -181,7 +181,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -223,7 +223,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -263,7 +263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -293,7 +293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -323,7 +323,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -355,7 +355,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -387,7 +387,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -425,7 +425,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -436,9 +436,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -455,7 +455,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -466,9 +466,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -485,7 +485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -496,9 +496,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -515,7 +515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -545,7 +545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -575,7 +575,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -607,7 +607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -641,7 +641,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -673,7 +673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -703,7 +703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -735,7 +735,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -765,7 +765,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -795,7 +795,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -825,7 +825,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -855,7 +855,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -885,7 +885,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -915,7 +915,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -945,7 +945,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -975,7 +975,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -1007,7 +1007,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -1037,7 +1037,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1099,7 +1099,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1129,7 +1129,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1159,7 +1159,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1189,7 +1189,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1221,7 +1221,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1251,7 +1251,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1281,7 +1281,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1311,7 +1311,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1343,7 +1343,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1375,7 +1375,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1407,7 +1407,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1439,7 +1439,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1471,7 +1471,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1503,7 +1503,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1535,7 +1535,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1565,7 +1565,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1595,7 +1595,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1625,7 +1625,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1655,7 +1655,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1685,7 +1685,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1715,7 +1715,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1745,7 +1745,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1775,7 +1775,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1807,7 +1807,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1839,7 +1839,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1869,7 +1869,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 2
     },
     {
@@ -1899,7 +1899,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -1929,7 +1929,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -1959,7 +1959,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -2
     },
     {
@@ -1989,7 +1989,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -2019,7 +2019,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -2049,7 +2049,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -2079,8 +2079,40 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
+    },
+    {
+      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "stats": [
+        "-25% aiming time",
+        "+2.5 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "-25% aiming time",
+          "+2.5 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "expertshooter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3500,
+      "degree": 2
     },
     {
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
@@ -2332,8 +2364,8 @@
       "description": "Timmy has been reanimated as an undead.",
       "stats": [
         "-2.00 move speed",
-        "-66.0C Minimum comfortable temperature",
-        "+58.0C Maximum comfortable temperature",
+        "-118.8F Minimum comfortable temperature",
+        "+104.4F Maximum comfortable temperature",
         "-100% toxic sensitivity",
         "+4900% immunity gain speed",
         "+90% pain shock threshold",
@@ -2448,8 +2480,8 @@
         ],
         "stats": [
           "-2.00 move speed",
-          "-66.0C Minimum comfortable temperature",
-          "+58.0C Maximum comfortable temperature",
+          "-118.8F Minimum comfortable temperature",
+          "+104.4F Maximum comfortable temperature",
           "-100% toxic sensitivity",
           "+4900% immunity gain speed",
           "+90% pain shock threshold",
@@ -2898,8 +2930,8 @@
         "+20% immunity gain speed",
         "+10% psychic sensitivity",
         "-3% mental break threshold",
-        "+3.0C Maximum comfortable temperature",
-        "-3.0C Minimum comfortable temperature"
+        "+5.4F Maximum comfortable temperature",
+        "-5.4F Minimum comfortable temperature"
       ],
       "conflicts": [
         "icemage",
@@ -3038,8 +3070,8 @@
           "+20% immunity gain speed",
           "+10% psychic sensitivity",
           "-3% mental break threshold",
-          "+3.0C Maximum comfortable temperature",
-          "-3.0C Minimum comfortable temperature"
+          "+5.4F Maximum comfortable temperature",
+          "-5.4F Minimum comfortable temperature"
         ]
       },
       "defName": "TM_Wanderer",
@@ -3059,8 +3091,8 @@
         "+20% psychic sensitivity",
         "+6% mental break threshold",
         "-5.0 shooting accuracy",
-        "+15.0C Maximum comfortable temperature",
-        "+7.0C Minimum comfortable temperature"
+        "+27.0F Maximum comfortable temperature",
+        "+12.6F Minimum comfortable temperature"
       ],
       "conflicts": [
         "icemage",
@@ -3200,8 +3232,8 @@
           "+20% psychic sensitivity",
           "+6% mental break threshold",
           "-5.0 shooting accuracy",
-          "+15.0C Maximum comfortable temperature",
-          "+7.0C Minimum comfortable temperature"
+          "+27.0F Maximum comfortable temperature",
+          "+12.6F Minimum comfortable temperature"
         ]
       },
       "defName": "InnerFire",
@@ -3220,8 +3252,8 @@
         "+10% global learning factor",
         "-10% global work speed",
         "-20.00% social impact",
-        "-7.0C Maximum comfortable temperature",
-        "-15.0C Minimum comfortable temperature"
+        "-12.6F Maximum comfortable temperature",
+        "-27.0F Minimum comfortable temperature"
       ],
       "conflicts": [
         "firemage",
@@ -3360,8 +3392,8 @@
           "+10% global learning factor",
           "-10% global work speed",
           "-20.00% social impact",
-          "-7.0C Maximum comfortable temperature",
-          "-15.0C Minimum comfortable temperature"
+          "-12.6F Maximum comfortable temperature",
+          "-27.0F Minimum comfortable temperature"
         ]
       },
       "defName": "HeartOfFrost",
@@ -4017,8 +4049,8 @@
       "stats": [
         "+0.10 move speed",
         "+10% toxic sensitivity",
-        "-8.0C Minimum comfortable temperature",
-        "+8.0C Maximum comfortable temperature",
+        "-14.4F Minimum comfortable temperature",
+        "+14.4F Maximum comfortable temperature",
         "+10.00% social impact"
       ],
       "conflicts": [
@@ -4155,8 +4187,8 @@
         "stats": [
           "+0.10 move speed",
           "+10% toxic sensitivity",
-          "-8.0C Minimum comfortable temperature",
-          "+8.0C Maximum comfortable temperature",
+          "-14.4F Minimum comfortable temperature",
+          "+14.4F Maximum comfortable temperature",
           "+10.00% social impact"
         ]
       },
@@ -4172,7 +4204,7 @@
       "description": "Timmy is attuned with the forces of death.",
       "stats": [
         "-0.30 move speed",
-        "-20.0C Minimum comfortable temperature",
+        "-36.0F Minimum comfortable temperature",
         "+40% immunity gain speed",
         "-40% toxic sensitivity",
         "-10% mental break threshold",
@@ -4313,7 +4345,7 @@
         ],
         "stats": [
           "-0.30 move speed",
-          "-20.0C Minimum comfortable temperature",
+          "-36.0F Minimum comfortable temperature",
           "+40% immunity gain speed",
           "-40% toxic sensitivity",
           "-10% mental break threshold",
@@ -4343,8 +4375,8 @@
         "Only mental break \"Slaughterer\" allowed.",
         "+2 intellectual",
         "-2.00 move speed",
-        "-42.0C Minimum comfortable temperature",
-        "+46.0C Maximum comfortable temperature",
+        "-75.6F Minimum comfortable temperature",
+        "+82.8F Maximum comfortable temperature",
         "+100% immunity gain speed",
         "-100% toxic sensitivity",
         "-20% mental break threshold",
@@ -4496,8 +4528,8 @@
           "Only mental break \"Slaughterer\" allowed.",
           "+2 intellectual",
           "-2.00 move speed",
-          "-42.0C Minimum comfortable temperature",
-          "+46.0C Maximum comfortable temperature",
+          "-75.6F Minimum comfortable temperature",
+          "+82.8F Maximum comfortable temperature",
           "+100% immunity gain speed",
           "-100% toxic sensitivity",
           "-20% mental break threshold",
@@ -5304,8 +5336,8 @@
         "-20% research speed",
         "-10% aiming time",
         "+5.0 melee hit chance",
-        "+25.0C Maximum comfortable temperature",
-        "+5.0C Minimum comfortable temperature"
+        "+45.0F Maximum comfortable temperature",
+        "+9.0F Minimum comfortable temperature"
       ],
       "conflicts": [
         "physicallyadept",
@@ -5450,8 +5482,8 @@
           "-20% research speed",
           "-10% aiming time",
           "+5.0 melee hit chance",
-          "+25.0C Maximum comfortable temperature",
-          "+5.0C Minimum comfortable temperature"
+          "+45.0F Maximum comfortable temperature",
+          "+9.0F Minimum comfortable temperature"
         ]
       },
       "defName": "Succubus",
@@ -5476,8 +5508,8 @@
         "-5.0 melee hit chance",
         "-15% pain shock threshold",
         "+40% psychic sensitivity",
-        "+10.0C Maximum comfortable temperature",
-        "-10.0C Minimum comfortable temperature"
+        "+18.0F Maximum comfortable temperature",
+        "-18.0F Minimum comfortable temperature"
       ],
       "conflicts": [
         "physicallyadept",
@@ -5622,8 +5654,8 @@
           "-5.0 melee hit chance",
           "-15% pain shock threshold",
           "+40% psychic sensitivity",
-          "+10.0C Maximum comfortable temperature",
-          "-10.0C Minimum comfortable temperature"
+          "+18.0F Maximum comfortable temperature",
+          "-18.0F Minimum comfortable temperature"
         ]
       },
       "defName": "Warlock",
@@ -5639,8 +5671,8 @@
       "stats": [
         "-0.10 move speed",
         "-30% toxic sensitivity",
-        "-12.0C Minimum comfortable temperature",
-        "+12.0C Maximum comfortable temperature",
+        "-21.6F Minimum comfortable temperature",
+        "+21.6F Maximum comfortable temperature",
         "-5.0 melee dodge chance",
         "+25% mining speed",
         "+25% mining yield",
@@ -5783,8 +5815,8 @@
         "stats": [
           "-0.10 move speed",
           "-30% toxic sensitivity",
-          "-12.0C Minimum comfortable temperature",
-          "+12.0C Maximum comfortable temperature",
+          "-21.6F Minimum comfortable temperature",
+          "+21.6F Maximum comfortable temperature",
           "-5.0 melee dodge chance",
           "+25% mining speed",
           "+25% mining yield",
@@ -6143,8 +6175,8 @@
         "-15.00% train animal chance",
         "+10% global learning factor",
         "+10% global work speed",
-        "+3.0C Minimum comfortable temperature",
-        "-3.0C Maximum comfortable temperature",
+        "+5.4F Minimum comfortable temperature",
+        "-5.4F Maximum comfortable temperature",
         "+10% toxic sensitivity",
         "-3% immunity gain speed",
         "-10% pain shock threshold"
@@ -6285,8 +6317,8 @@
           "-15.00% train animal chance",
           "+10% global learning factor",
           "+10% global work speed",
-          "+3.0C Minimum comfortable temperature",
-          "-3.0C Maximum comfortable temperature",
+          "+5.4F Minimum comfortable temperature",
+          "-5.4F Maximum comfortable temperature",
           "+10% toxic sensitivity",
           "-3% immunity gain speed",
           "-10% pain shock threshold"
@@ -7918,8 +7950,8 @@
         "+20% immunity gain speed",
         "-10% psychic sensitivity",
         "-3% mental break threshold",
-        "+3.0C Maximum comfortable temperature",
-        "-3.0C Minimum comfortable temperature"
+        "+5.4F Maximum comfortable temperature",
+        "-5.4F Minimum comfortable temperature"
       ],
       "conflicts": [
         "icemage",
@@ -8058,8 +8090,8 @@
           "+20% immunity gain speed",
           "-10% psychic sensitivity",
           "-3% mental break threshold",
-          "+3.0C Maximum comfortable temperature",
-          "-3.0C Minimum comfortable temperature"
+          "+5.4F Maximum comfortable temperature",
+          "-5.4F Minimum comfortable temperature"
         ]
       },
       "defName": "TM_Wayfarer",
@@ -8541,8 +8573,8 @@
       "stats": [
         "+0.15 move speed",
         "+20% immunity gain speed",
-        "+10.0C Maximum comfortable temperature",
-        "-10.0C Minimum comfortable temperature",
+        "+18.0F Maximum comfortable temperature",
+        "-18.0F Minimum comfortable temperature",
         "-15% aiming time",
         "-10% toxic sensitivity",
         "+5% butchery speed",
@@ -8679,8 +8711,8 @@
         "stats": [
           "+0.15 move speed",
           "+20% immunity gain speed",
-          "+10.0C Maximum comfortable temperature",
-          "-10.0C Minimum comfortable temperature",
+          "+18.0F Maximum comfortable temperature",
+          "-18.0F Minimum comfortable temperature",
           "-15% aiming time",
           "-10% toxic sensitivity",
           "+5% butchery speed",
@@ -8703,8 +8735,8 @@
       "stats": [
         "+0.20 move speed",
         "+25% immunity gain speed",
-        "+15.0C Maximum comfortable temperature",
-        "-15.0C Minimum comfortable temperature",
+        "+27.0F Maximum comfortable temperature",
+        "-27.0F Minimum comfortable temperature",
         "-20% aiming time",
         "-15% toxic sensitivity",
         "+10% butchery speed",
@@ -8841,8 +8873,8 @@
         "stats": [
           "+0.20 move speed",
           "+25% immunity gain speed",
-          "+15.0C Maximum comfortable temperature",
-          "-15.0C Minimum comfortable temperature",
+          "+27.0F Maximum comfortable temperature",
+          "-27.0F Minimum comfortable temperature",
           "-20% aiming time",
           "-15% toxic sensitivity",
           "+10% butchery speed",
@@ -8865,8 +8897,8 @@
       "stats": [
         "+0.25 move speed",
         "+30% immunity gain speed",
-        "+18.0C Maximum comfortable temperature",
-        "-18.0C Minimum comfortable temperature",
+        "+32.4F Maximum comfortable temperature",
+        "-32.4F Minimum comfortable temperature",
         "-30% aiming time",
         "-20% toxic sensitivity",
         "+15% butchery speed",
@@ -9003,8 +9035,8 @@
         "stats": [
           "+0.25 move speed",
           "+30% immunity gain speed",
-          "+18.0C Maximum comfortable temperature",
-          "-18.0C Minimum comfortable temperature",
+          "+32.4F Maximum comfortable temperature",
+          "-32.4F Minimum comfortable temperature",
           "-30% aiming time",
           "-20% toxic sensitivity",
           "+15% butchery speed",
@@ -9027,8 +9059,8 @@
       "stats": [
         "+0.30 move speed",
         "+35% immunity gain speed",
-        "+20.0C Maximum comfortable temperature",
-        "-20.0C Minimum comfortable temperature",
+        "+36.0F Maximum comfortable temperature",
+        "-36.0F Minimum comfortable temperature",
         "-40% aiming time",
         "-25% toxic sensitivity",
         "+20% butchery speed",
@@ -9165,8 +9197,8 @@
         "stats": [
           "+0.30 move speed",
           "+35% immunity gain speed",
-          "+20.0C Maximum comfortable temperature",
-          "-20.0C Minimum comfortable temperature",
+          "+36.0F Maximum comfortable temperature",
+          "-36.0F Minimum comfortable temperature",
           "-40% aiming time",
           "-25% toxic sensitivity",
           "+20% butchery speed",
@@ -11379,38 +11411,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
-      "stats": [
-        "-25% aiming time",
-        "+2.5 shooting accuracy"
-      ],
-      "conflicts": [
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "brawler"
-        ],
-        "stats": [
-          "-25% aiming time",
-          "+2.5 shooting accuracy"
-        ]
-      },
-      "defName": "ShootingAccuracy",
-      "name": "expertshooter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2
-    },
-    {
       "description": "Timmy is a Monk of the Way Of The Kensei Blade And Bow; Monks of the Way of Kensei train relentlessly with their weapons, to the point that the weapon becomes like an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.\n\nTimmy has chosen the Blade and the Bow as his weapons.\n\nA kensei sees a weapon much in the same way a calligrapher or a painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.",
       "stats": [
         "+0.33 move speed",
@@ -12233,7 +12233,7 @@
       "defName": "Alien_Orassan",
       "enabled": true,
       "name": "orassan",
-      "price": 69
+      "price": 3167
     },
     {
       "data": {
@@ -12258,7 +12258,7 @@
       "defName": "Alien_OrassanHumanHybrid",
       "enabled": true,
       "name": "neko",
-      "price": 69
+      "price": 3167
     }
   ]
 }
