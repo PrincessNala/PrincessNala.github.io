@@ -276,11 +276,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Doom"
@@ -416,6 +411,26 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "factionwar",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factionsiege",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncontention",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncamp",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "iceage",
 		"price": 15000,
 		"karmatype": "Doom"
@@ -501,5 +516,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 100
+	"total": 103
 }
