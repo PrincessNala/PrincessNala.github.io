@@ -27,7 +27,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -57,7 +57,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -89,7 +89,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -121,7 +121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -151,7 +151,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -181,15 +181,14 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy is too smart for their own good. this pawn learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
-        "+75% global learning factor",
-        "+12% mental break threshold",
-        "x50% global certainty loss factor"
+        "+150% global learning factor",
+        "+12% mental break threshold"
       ],
       "conflicts": [
         "iron-willed",
@@ -213,9 +212,8 @@
           "slowlearner"
         ],
         "stats": [
-          "+75% global learning factor",
-          "+12% mental break threshold",
-          "x50% global certainty loss factor"
+          "+150% global learning factor",
+          "+12% mental break threshold"
         ]
       },
       "defName": "TooSmart",
@@ -223,7 +221,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -237,6 +235,7 @@
       "conflicts": [
         "carefulshooter",
         "trigger-happy",
+        "expertshooter",
         "wimp"
       ],
       "bypassLimit": false,
@@ -249,6 +248,7 @@
         "conflicts": [
           "carefulshooter",
           "trigger-happy",
+          "expertshooter",
           "wimp"
         ],
         "stats": [
@@ -263,7 +263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -293,7 +293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -323,7 +323,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -355,7 +355,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -387,7 +387,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -425,7 +425,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -545,7 +545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -575,13 +575,12 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy loves fire. this pawn will never extinguish fires. To relieve stress, this pawn will occasionally go on random fire starting sprees. This happens more often if their mood is low. Somehow this fascination with fire leads to a lot more inspiration.",
       "stats": [
-        "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [
@@ -598,7 +597,6 @@
 
         ],
         "stats": [
-          "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ]
       },
@@ -607,13 +605,15 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize them. At least this pawn is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
       "stats": [
-        "-60% pain shock threshold",
+        "-45% pain shock threshold",
+        "-90% toxic sensitivity",
+        "+0.40 move speed",
         "x200% global certainty loss factor"
       ],
       "conflicts": [
@@ -632,7 +632,9 @@
           "masochist"
         ],
         "stats": [
-          "-60% pain shock threshold",
+          "-45% pain shock threshold",
+          "-90% toxic sensitivity",
+          "+0.40 move speed",
           "x200% global certainty loss factor"
         ]
       },
@@ -641,7 +643,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -673,13 +675,14 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy has a knack for learning. this pawn picks things up much faster than others.",
       "stats": [
-        "+75% global learning factor"
+        "+75% global learning factor",
+        "-10% global work speed"
       ],
       "conflicts": [
 
@@ -695,7 +698,8 @@
 
         ],
         "stats": [
-          "+75% global learning factor"
+          "+75% global learning factor",
+          "-10% global work speed"
         ]
       },
       "defName": "FastLearner",
@@ -703,13 +707,13 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy has never learned how to learn. The motivation and talent is there, this pawn just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
       "stats": [
-        "-75% global learning factor",
+        "-130% global learning factor",
         "x50% global certainty loss factor"
       ],
       "conflicts": [
@@ -726,7 +730,7 @@
           "toosmart"
         ],
         "stats": [
-          "-75% global learning factor",
+          "-130% global learning factor",
           "x50% global certainty loss factor"
         ]
       },
@@ -735,7 +739,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -765,7 +769,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -795,7 +799,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -825,7 +829,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -855,7 +859,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -885,7 +889,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -915,12 +919,13 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy has thick skin, dense flesh, and durable bones. this pawn takes much less damage than other people from the same blows. this pawn stands solid like a rock, and equally unmovable.",
       "stats": [
+        "-0.40 move speed",
         "x50% incoming damage multiplier"
       ],
       "conflicts": [
@@ -937,6 +942,7 @@
 
         ],
         "stats": [
+          "-0.40 move speed",
           "x50% incoming damage multiplier"
         ]
       },
@@ -945,7 +951,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -975,14 +981,18 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy's life revolves around food. this pawn gets hungry quickly but also eats faster, cooks faster and knows his ingredients, barely ever causing food poisoning.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
-        "+4 cooking"
+        "+100% eating speed",
+        "+5.0 cooking speed",
+        "-75.00% food poison chance",
+        "+10% butchery efficiency",
+        "+35% hunger rate multiplier"
       ],
       "conflicts": [
         "ascetic"
@@ -999,7 +1009,11 @@
         ],
         "stats": [
           "Only mental break \"Binging_Food\" allowed.",
-          "+4 cooking"
+          "+100% eating speed",
+          "+5.0 cooking speed",
+          "-75.00% food poison chance",
+          "+10% butchery efficiency",
+          "+35% hunger rate multiplier"
         ]
       },
       "defName": "Gourmand",
@@ -1007,7 +1021,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -1037,14 +1051,15 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
       "description": "Timmy is always falling behind the group whenever this pawn goes anywhere.",
       "stats": [
         "Go frenzy inspiration disabled.",
-        "-0.20 move speed"
+        "-0.40 move speed",
+        "+25% rest rate multiplier"
       ],
       "conflicts": [
 
@@ -1061,7 +1076,8 @@
         ],
         "stats": [
           "Go frenzy inspiration disabled.",
-          "-0.20 move speed"
+          "-0.40 move speed",
+          "+25% rest rate multiplier"
         ]
       },
       "defName": "SpeedOffset",
@@ -1069,41 +1085,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
       "description": "Timmy likes to be where this pawn's going. this pawn walks quicker than most people.",
-      "stats": [
-        "+0.20 move speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.20 move speed"
-        ]
-      },
-      "defName": "SpeedOffset",
-      "name": "fastwalker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
         "+0.40 move speed"
       ],
@@ -1125,11 +1111,43 @@
         ]
       },
       "defName": "SpeedOffset",
+      "name": "fastwalker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
+      "stats": [
+        "+0.70 move speed",
+        "-10% rest rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.70 move speed",
+          "-10% rest rate multiplier"
+        ]
+      },
+      "defName": "SpeedOffset",
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1159,7 +1177,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1189,14 +1207,15 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
       "description": "Timmy abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. this pawn is a hard working individual.",
       "stats": [
         "Binging on drug mental state disabled.",
-        "Binging on drug mental state disabled."
+        "Binging on drug mental state disabled.",
+        "+20% global work speed"
       ],
       "conflicts": [
 
@@ -1213,7 +1232,8 @@
         ],
         "stats": [
           "Binging on drug mental state disabled.",
-          "Binging on drug mental state disabled."
+          "Binging on drug mental state disabled.",
+          "+20% global work speed"
         ]
       },
       "defName": "DrugDesire",
@@ -1221,7 +1241,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1251,7 +1271,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1281,7 +1301,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1311,7 +1331,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1343,7 +1363,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1375,7 +1395,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1407,7 +1427,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1439,12 +1459,15 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
       "description": "Timmy is on a hair-trigger all the time. this pawn is the first to break in any tough situation. If that happens this pawn will find something to smash.",
       "stats": [
+        "Only mental break \"Tantrum\" allowed.",
+        "Only mental break \"TargetedTantrum\" allowed.",
+        "Only mental break \"BedroomTantrum\" allowed.",
         "+15% mental break threshold",
         "x300% global certainty loss factor"
       ],
@@ -1462,6 +1485,9 @@
 
         ],
         "stats": [
+          "Only mental break \"Tantrum\" allowed.",
+          "Only mental break \"TargetedTantrum\" allowed.",
+          "Only mental break \"BedroomTantrum\" allowed.",
           "+15% mental break threshold",
           "x300% global certainty loss factor"
         ]
@@ -1471,105 +1497,11 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
       "description": "Timmy likes to have things squared away. this pawn will work harder than most to attain this state of affairs, but their random mood swings can get the better of them.",
-      "stats": [
-        "+20% global work speed",
-        "+8% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20% global work speed",
-          "+8% mental break threshold"
-        ]
-      },
-      "defName": "Neurotic",
-      "name": "neurotic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy feels constantly nervous about everything that has to get done. this pawn will work extremely hard to attain this state of affairs, but their random mood swings can easily get the better of them.",
-      "stats": [
-        "+40% global work speed",
-        "+14% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+40% global work speed",
-          "+14% mental break threshold"
-        ]
-      },
-      "defName": "Neurotic",
-      "name": "veryneurotic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
-      "stats": [
-        "+35% global work speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+35% global work speed"
-        ]
-      },
-      "defName": "Industriousness",
-      "name": "industrious",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
         "+20% global work speed"
       ],
@@ -1590,18 +1522,18 @@
           "+20% global work speed"
         ]
       },
-      "defName": "Industriousness",
-      "name": "hardworker",
+      "defName": "Neurotic",
+      "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
-      "description": "Timmy is a little bit lazy.",
+      "description": "Timmy feels constantly nervous about everything that has to get done. this pawn will work extremely hard to attain this state of affairs, but their random mood swings can easily get the better of them.",
       "stats": [
-        "-20% global work speed"
+        "+40% global work speed"
       ],
       "conflicts": [
 
@@ -1617,7 +1549,103 @@
 
         ],
         "stats": [
-          "-20% global work speed"
+          "+40% global work speed"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "veryneurotic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
+      "stats": [
+        "+35% global work speed",
+        "+15% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+35% global work speed",
+          "+15% joy need rate multiplier"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "industrious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
+      "stats": [
+        "+20% global work speed",
+        "+10% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% global work speed",
+          "+10% joy need rate multiplier"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "hardworker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is a little bit lazy.",
+      "stats": [
+        "-20% global work speed",
+        "-33% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% global work speed",
+          "-33% joy need rate multiplier"
         ]
       },
       "defName": "Industriousness",
@@ -1625,13 +1653,14 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
       "description": "Timmy loves idleness and hates anything productive. this pawn moves slowly and rarely stays focused on a task.",
       "stats": [
-        "-35% global work speed"
+        "-35% global work speed",
+        "-67% joy need rate multiplier"
       ],
       "conflicts": [
 
@@ -1647,7 +1676,8 @@
 
         ],
         "stats": [
-          "-35% global work speed"
+          "-35% global work speed",
+          "-67% joy need rate multiplier"
         ]
       },
       "defName": "Industriousness",
@@ -1655,7 +1685,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1685,7 +1715,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1715,7 +1745,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1745,7 +1775,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1775,7 +1805,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1807,7 +1837,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1839,247 +1869,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to them before this pawn even opens their mouth.",
-      "stats": [
-        "+2.0 beauty"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2.0 beauty"
-        ]
-      },
-      "defName": "Beauty",
-      "name": "beautiful",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy has a pretty face, which predisposes people to like them.",
-      "stats": [
-        "+1.0 beauty"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1.0 beauty"
-        ]
-      },
-      "defName": "Beauty",
-      "name": "pretty",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if their face has a scar or two.",
-      "stats": [
-        "-1.0 beauty"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-1.0 beauty"
-        ]
-      },
-      "defName": "Beauty",
-      "name": "ugly",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy is staggeringly ugly. their face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at them while conversing. If there is an upside to this than that no one minds if their face has a scar or two... or ten.",
-      "stats": [
-        "-2.0 beauty"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-2.0 beauty"
-        ]
-      },
-      "defName": "Beauty",
-      "name": "staggeringlyugly",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -2
-    },
-    {
-      "description": "Timmy has a naturally powerful immune system. this pawn will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
-      "stats": [
-        "+30% immunity gain speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+30% immunity gain speed"
-        ]
-      },
-      "defName": "Immunity",
-      "name": "super-immune",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy has an awful immune system. this pawn gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
-      "stats": [
-        "+4 medical"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 medical"
-        ]
-      },
-      "defName": "Immunity",
-      "name": "sickly",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -2111,8 +1901,248 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 2
+    },
+    {
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to them before this pawn even opens their mouth.",
+      "stats": [
+        "+2.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "beautiful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has a pretty face, which predisposes people to like them.",
+      "stats": [
+        "+1.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "pretty",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if their face has a scar or two.",
+      "stats": [
+        "-1.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-1.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "ugly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is staggeringly ugly. their face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at them while conversing. If there is an upside to this than that no one minds if their face has a scar or two... or ten.",
+      "stats": [
+        "-2.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-2.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "staggeringlyugly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy has a naturally powerful immune system. this pawn will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "stats": [
+        "+30% immunity gain speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30% immunity gain speed"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "super-immune",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has an awful immune system. this pawn gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "stats": [
+        "+4 medical"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 medical"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "sickly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
     },
     {
       "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
@@ -2141,7 +2171,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2171,7 +2201,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2201,7 +2231,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2231,7 +2261,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2261,7 +2291,91 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. this pawn can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Braixen and Delphox - Fire Pokemon [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "BDFP_Braixen",
+      "name": "braixen",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. this pawn can easily read emotions of humans, animals and even plants.",
+      "stats": [
+        "+5 social",
+        "+3 animals",
+        "+3 plants",
+        "+25.00% train animal chance",
+        "+25.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Braixen and Delphox - Fire Pokemon [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 animals",
+          "+3 plants",
+          "+25.00% train animal chance",
+          "+25.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "BDFP_Delphox",
+      "name": "delphox",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2299,51 +2413,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Vulpian, and this pawn is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by their adorable appearence. Even plants start to bloom around Timmy!",
-      "stats": [
-        "+5 social",
-        "+3 intellectual",
-        "+2 animals",
-        "+2 plants",
-        "+25.00% train animal chance",
-        "+10.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vulpes - Adorable Foxes! [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+3 intellectual",
-          "+2 animals",
-          "+2 plants",
-          "+25.00% train animal chance",
-          "+10.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "VAF_Vulpian",
-      "name": "vulpian",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2381,7 +2451,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2413,7 +2483,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2445,7 +2515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2475,7 +2545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2509,7 +2579,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2541,7 +2611,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2575,7 +2645,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2609,7 +2679,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2639,7 +2709,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2669,7 +2739,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2699,7 +2769,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2733,7 +2803,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2767,7 +2837,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2797,18 +2867,13 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
-      "description": "A Kurin.\n\n¯\\_(ツ)_/¯",
+      "description": "Timmy is able to tear apart the fabrics of reality, moving living beings through space at the speed of light.",
       "stats": [
-        "+2 intellectual",
-        "+2 cooking",
-        "+4 social",
-        "-4 plants",
-        "+1.0 beauty",
-        "+100.00% trade price improvement"
+
       ],
       "conflicts": [
 
@@ -2818,22 +2883,17 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "mod": "RPG Traits+",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+2 intellectual",
-          "+2 cooking",
-          "+4 social",
-          "-4 plants",
-          "+1.0 beauty",
-          "+100.00% trade price improvement"
+
         ]
       },
-      "defName": "Kurin_Trait",
-      "name": "kurinlike",
+      "defName": "RPGTraits_Teleporter",
+      "name": "teleporter",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2841,33 +2901,33 @@
       "degree": 0
     },
     {
-      "description": "Strange kind of kurins... Timmy likes plants.",
+      "description": "Timmy is able to hide himself from prying eyes, literally leaving under the noses of enemies.",
       "stats": [
-        "+10 plants",
-        "+30% plant work speed",
-        "+30% plant harvest yield"
+
       ],
       "conflicts": [
-
+        "slowpoke",
+        "fastwalker",
+        "jogger"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "mod": "RPG Traits+",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "slowpoke",
+          "fastwalker",
+          "jogger"
         ],
         "stats": [
-          "+10 plants",
-          "+30% plant work speed",
-          "+30% plant harvest yield"
+
         ]
       },
-      "defName": "Kurin_Trait_StrangeKurin",
-      "name": "strangekurin",
+      "defName": "RPGTraits_Inquisitor",
+      "name": "inquisitor",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2875,35 +2935,29 @@
       "degree": 0
     },
     {
-      "description": "Timmy participated in a program of improving their genetic code.",
+      "description": "Timmy has an explosive character and is great at concentrating this power.",
       "stats": [
-        "+15% immunity gain speed",
-        "+30% global learning factor",
-        "-15% psychic sensitivity",
-        "-15% toxic sensitivity"
+
       ],
       "conflicts": [
-
+        "aquarior"
       ],
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "mod": "RPG Traits+",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "aquarior"
         ],
         "stats": [
-          "+15% immunity gain speed",
-          "+30% global learning factor",
-          "-15% psychic sensitivity",
-          "-15% toxic sensitivity"
+
         ]
       },
-      "defName": "Kurin_Trait_UpgradedKurin",
-      "name": "upgradedkurin",
+      "defName": "RPGTraits_Phoenix",
+      "name": "phoenix",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2911,15 +2965,99 @@
       "degree": 0
     },
     {
-      "description": "A Kimiri.\n\n¯\\_(ツ)_/¯",
+      "description": "Timmy has the ability to manipulate water and its forms.",
       "stats": [
-        "+2 animals",
-        "+2 plants",
-        "+2 mining",
-        "-4 intellectual",
-        "+1.0 beauty",
-        "+50.00% tame animal chance",
-        "+100.00% train animal chance"
+
+      ],
+      "conflicts": [
+        "phoenix"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "phoenix"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Aquarior",
+      "name": "aquarior",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy can manipulate the ground under his feet, making it serve.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "aeron"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "aeron"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Terrarior",
+      "name": "terrarior",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy subdues the air around him, setting it in motion.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "terrarior"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "terrarior"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Aeron",
+      "name": "aeron",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy able to control electromagnetic waves.",
+      "stats": [
+
       ],
       "conflicts": [
 
@@ -2929,23 +3067,77 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+        "mod": "RPG Traits+",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+2 animals",
-          "+2 plants",
-          "+2 mining",
-          "-4 intellectual",
-          "+1.0 beauty",
-          "+50.00% tame animal chance",
-          "+100.00% train animal chance"
+
         ]
       },
-      "defName": "Kimiri_Trait",
-      "name": "kimirilike",
+      "defName": "RPGTraits_Magnetic",
+      "name": "magnetic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is able to manipulate people and absorb their emotions.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "paladin"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "paladin"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Mentalist",
+      "name": "mentalist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to help peoples.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "mentalist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "mentalist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Paladin",
+      "name": "paladin",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2974,43 +3166,102 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
-      "price": 9992930
+      "price": 2917
     },
     {
       "data": {
         "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+70% Global work speed",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+39.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
-      "defName": "Alien_Nyaron",
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
       "enabled": true,
-      "name": "Nyaron",
-      "price": 100
+      "name": "hologram",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+0% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$2600 Market value",
+          "+5.00 Move speed",
+          "+160% Immunity gain speed",
+          "-54.0F Minimum comfortable temperature",
+          "+144.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+50 Meat amount",
+          "+100% Research speed",
+          "+140% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+70% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Shooting accuracy",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around.",
+      "defName": "Braixen",
+      "enabled": true,
+      "name": "Braixen",
+      "price": 4333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+1.0 Beauty",
+          "+50 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+4.60 Move speed",
+          "+160% Immunity gain speed",
+          "-72.0F Minimum comfortable temperature",
+          "+180.0F Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+60 Meat amount",
+          "+110% Research speed",
+          "+150% Global learning factor",
+          "+160% Psychic sensitivity",
+          "+50% Mining speed",
+          "+120.00% Social impact",
+          "+60% Construction speed",
+          "+130% Animal gather speed",
+          "+130% Animal gather yield",
+          "+4.0 Shooting accuracy",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A medium-sized, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. Related to Braixen and can be considered as a more \"mature\" version of it from standpoint of whoever originally designed them. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around.",
+      "defName": "Delphox",
+      "enabled": true,
+      "name": "Delphox",
+      "price": 5000
     },
     {
       "data": {
@@ -3046,138 +3297,38 @@
       "defName": "Sylveon",
       "enabled": true,
       "name": "Sylveon",
-      "price": 100
+      "price": 5000
     },
     {
       "data": {
         "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.0 Beauty",
-          "+50 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$3000 Market value",
-          "+8.00 Move speed",
-          "+150% Immunity gain speed",
-          "+45.0F Minimum comfortable temperature",
-          "+90.0F Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+50 Meat amount",
-          "+200% Global work speed",
-          "+400% Research speed",
-          "+200% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+50% Mining speed",
-          "+200.00% Social impact",
-          "+75% Construction speed",
-          "+125% Animal gather speed",
-          "+125% Animal gather yield",
-          "+4.0 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body.",
-      "defName": "Vulpes",
-      "enabled": true,
-      "name": "Vulpes",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$0 Market value",
-          "+5.60 Move speed",
-          "+0% Toxic sensitivity",
-          "-180.0F Minimum comfortable temperature",
-          "+450.0F Maximum comfortable temperature",
-          "+0 Meat amount",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
-      "defName": "SoSHologramRace",
-      "enabled": true,
-      "name": "hologram",
-      "price": 10000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+4.80 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+135 Meat amount",
-          "+3 Honor value",
-          "+75 Carrying capacity",
-          "+130% Toxic sensitivity",
-          "+115% Psychic sensitivity",
-          "+130.00% Negotiation ability",
-          "+130.00% Social impact",
-          "+115% Immunity gain speed",
-          "+115% Eating speed",
-          "+1.2 Cooking speed",
-          "+115% Research speed",
-          "+70% Plant work speed",
-          "+70% Mining speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Kurin, The Three Tailed Fox.",
-      "defName": "Kurin",
-      "enabled": true,
-      "name": "kurin",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
+          "+30.00 Mass",
           "+50% Flammability",
-          "+$3500 Market value",
-          "+5.00 Move speed",
-          "+30.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+30.0% Armor - Heat",
-          "-54.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+135 Meat amount",
-          "+3 Honor value",
-          "+75 Carrying capacity",
-          "+30% Toxic sensitivity",
-          "+130.00% Negotiation ability",
-          "+130.00% Social impact",
-          "+130% Immunity gain speed",
-          "+115% Eating speed",
-          "+130% Plant work speed",
-          "+130% Plant harvest yield",
-          "+130% Mining speed",
-          "+130% Mining yield",
-          "+15% Research speed",
-          "+70% Global learning factor"
+          "+$1850 Market value",
+          "+4.60 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+110% Research speed",
+          "+110% Construction speed",
+          "+5.0 Melee dodge chance",
+          "+0.00% Food poison chance",
+          "+8% Mental break threshold",
+          "+90% Hunger rate multiplier",
+          "+10.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+50.0% Armor - Heat",
+          "+60 Meat amount"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Kimiri - it's genetically engineered version of dragonian, made by kurins. Kimiris like their comrades kurins, in society they are equal, but due to kumiries' weak abilities in headwork, they usually do physically demanding jobs.\n\nKimiris are good in mining, growing plants and managing animals, also they like to talk.\n\nKimiris are no shearable and milkable like dragonians, but they have high body regeneration and strong skin and bones itself.\n\nAlso kimiris are hermaphrodites, they have female and male tool inside of their body, so everyone chooses their gender themself.",
-      "defName": "Kimiri",
+      "description": "Lives in high altitude with very low temperature.Has feather around it's body. Most of them are white color and live by forming a group. But some how, there are black ones live alone far from the white groups.",
+      "defName": "FrostyRace",
       "enabled": true,
-      "name": "kimiri",
-      "price": 100
+      "name": "Frosty",
+      "price": 3083
     }
   ]
 }
