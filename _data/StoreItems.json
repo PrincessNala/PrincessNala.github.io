@@ -6828,12 +6828,6 @@
 		"category": "Production",
 		"defname": "BenchWoolLoom"
 	},
-	{
-		"abr": "deathsuperacidifier",
-		"price": 1500,
-		"category": "Bionic",
-		"defname": "VESWW_DeathSuperAcidifier"
-	}
 	],
-	"total": 1141
+	"total": 1140
 }

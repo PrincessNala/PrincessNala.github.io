@@ -17459,26 +17459,6 @@
     "Mod": "FrostyDragonRace",
     "KarmaType": null
   },
-  "breastImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Identity",
-    "KarmaType": null
-  },
   "TMB_StatueOfColonistK": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -22799,7 +22779,7 @@
     "Mod": "[T] MoreFloors",
     "KarmaType": null
   },
-  "VESWW_DeathSuperAcidifier": {
+  "breastImplant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22816,7 +22796,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Storytellers Expanded - Winston Waves",
+    "Mod": "Identity",
     "KarmaType": null
   }
 }

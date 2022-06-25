@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 3333,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 10000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -128,7 +118,7 @@
 	{
 		"abr": "meowteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -218,7 +208,7 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "dropraid",
@@ -431,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 84
 }
