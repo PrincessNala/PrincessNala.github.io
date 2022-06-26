@@ -1,0 +1,3743 @@
+﻿{
+  "traits": [
+    {
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. this pawn can handle clothing, but will be happier without it.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Nudist",
+      "name": "nudist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. this pawn is four times as likely to start a social fight as others.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "Bloodlust",
+      "name": "bloodlust",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is an exceptionally agreeable and giving person. this pawn never insults others and will sometimes offer kind words to brighten the moods of those around them. this pawn also never judges people by their appearance. their agreeableness also makes them more likely to conform to prevailing opinions.",
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [
+          "x200% global certainty loss factor"
+        ]
+      },
+      "defName": "Kind",
+      "name": "kind",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has no empathy. The suffering of others doesn't bother them at all. this pawn doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects them. this pawn also feels no mood boost from socializing.",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "x50% global certainty loss factor"
+        ]
+      },
+      "defName": "Psychopath",
+      "name": "psychopath",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, this pawn tried it... and this pawn liked it.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "Cannibal",
+      "name": "cannibal",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy always says exactly what's on their mind, especially if it's bugging them. That tends to rub people the wrong way. At least this pawn doesn't mind being insulted or slighted either.",
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+          "x50% global certainty loss factor"
+        ]
+      },
+      "defName": "Abrasive",
+      "name": "abrasive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is too smart for their own good. this pawn learns everything much faster than everyone, but can be quite eccentric.",
+      "stats": [
+        "+150% global learning factor",
+        "+12% mental break threshold"
+      ],
+      "conflicts": [
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "slowlearner"
+        ],
+        "stats": [
+          "+150% global learning factor",
+          "+12% mental break threshold"
+        ]
+      },
+      "defName": "TooSmart",
+      "name": "toosmart",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy likes to fight up close and personal. their accuracy is greatly increased in melee combat, but this pawn'll be very unhappy if asked to carry a ranged weapon.",
+      "stats": [
+        "Shoot frenzy inspiration disabled.",
+        "+4 melee",
+        "-4 shooting",
+        "+4.0 melee hit chance"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "expertshooter",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "expertshooter",
+          "wimp"
+        ],
+        "stats": [
+          "Shoot frenzy inspiration disabled.",
+          "+4 melee",
+          "-4 shooting",
+          "+4.0 melee hit chance"
+        ]
+      },
+      "defName": "Brawler",
+      "name": "brawler",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "For Timmy, there's something exciting about getting hurt. this pawn doesn't know why, this pawn's just wired differently.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "Masochist",
+      "name": "masochist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nthis pawn gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nthis pawn doesn't get a mood penalty for being in the dark.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NightOwl",
+      "name": "nightowl",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy needs a really impressive bedroom. this pawn gets a mood loss if this pawn doesn't get what this pawn wants.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ascetic",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ascetic",
+          "jealous"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Greedy",
+      "name": "greedy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. this pawn gets a mood loss if any colonist has a more impressive bedroom. At least this pawn isn't as affected by prisoners or colonists dying and this pawn doesn't mind wearing a dead person's clothing.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "ascetic",
+        "greedy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ascetic",
+          "greedy"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "Jealous",
+      "name": "jealous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. this pawn will become unhappy if this pawn has a bedroom that's too impressive. this pawn also dislikes fancy food and prefers to eat raw. this pawn never judges others by their appearance.",
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Minimal meditation focus type allowed.",
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "gourmand"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "gourmand"
+        ],
+        "stats": [
+          "Artistic meditation focus type disabled.",
+          "Minimal meditation focus type allowed.",
+          "x50% global certainty loss factor"
+        ]
+      },
+      "defName": "Ascetic",
+      "name": "ascetic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is romantically attracted to people of their own gender.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Gay",
+      "name": "gay",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 100,
+      "removePrice": 100,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is romantically attracted to both men and women.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Bisexual",
+      "name": "bisexual",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 100,
+      "removePrice": 100,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has no sexual attraction to anyone at all.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Asexual",
+      "name": "asexual",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 100,
+      "removePrice": 100,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's voice has a particularly grating, nasal quality to it, and this pawn tends to talk in barked, garbled phrases. This predisposes others to dislike them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "AnnoyingVoice",
+      "name": "annoyingvoice",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "CreepyBreathing",
+      "name": "creepybreathing",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves fire. this pawn will never extinguish fires. To relieve stress, this pawn will occasionally go on random fire starting sprees. This happens more often if their mood is low. Somehow this fascination with fire leads to a lot more inspiration.",
+      "stats": [
+        "Only mental break \"FireStartingSpree\" allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"FireStartingSpree\" allowed."
+        ]
+      },
+      "defName": "Pyromaniac",
+      "name": "pyromaniac",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is weak and cowardly. Even a little pain will immobilize them. At least this pawn is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
+      "stats": [
+        "-45% pain shock threshold",
+        "-90% toxic sensitivity",
+        "+0.40 move speed",
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [
+        "brawler",
+        "masochist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "masochist"
+        ],
+        "stats": [
+          "-45% pain shock threshold",
+          "-90% toxic sensitivity",
+          "+0.40 move speed",
+          "x200% global certainty loss factor"
+        ]
+      },
+      "defName": "Wimp",
+      "name": "wimp",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has remarkable kinesthetic intelligence. this pawn seems to dance around danger with preternatural grace.",
+      "stats": [
+        "+15.0 melee dodge chance",
+        "x10% trap spring chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.0 melee dodge chance",
+          "x10% trap spring chance"
+        ]
+      },
+      "defName": "Nimble",
+      "name": "nimble",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a knack for learning. this pawn picks things up much faster than others.",
+      "stats": [
+        "+75% global learning factor",
+        "-10% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+75% global learning factor",
+          "-10% global work speed"
+        ]
+      },
+      "defName": "FastLearner",
+      "name": "fastlearner",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has never learned how to learn. The motivation and talent is there, this pawn just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
+      "stats": [
+        "-130% global learning factor",
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "toosmart"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "toosmart"
+        ],
+        "stats": [
+          "-130% global learning factor",
+          "x50% global certainty loss factor"
+        ]
+      },
+      "defName": "SlowLearner",
+      "name": "slowlearner",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has no need to experience the outdoors or light. this pawn will never feel cooped up or get cabin fever, no matter how long this pawn stays inside, and is not bothered by darkness.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "Undergrounder",
+      "name": "undergrounder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy feels limited in their feeble human body. this pawn often dreams of being enhanced by artificial body parts.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Transhumanist",
+      "name": "bodymodder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy believes the human body is limited for a reason. To them, artificial body parts are unethical and disgusting.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bodymodder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bodymodder"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BodyPurist",
+      "name": "bodypurist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy really dislikes and distrusts men.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DislikesMen",
+      "name": "misandrist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy really dislikes and distrusts women.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "brony"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brony"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DislikesWomen",
+      "name": "misogynist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a fantastic memory for detail. this pawn will learn new skills slightly faster than other people.",
+      "stats": [
+        "+25% global learning factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% global learning factor"
+        ]
+      },
+      "defName": "GreatMemory",
+      "name": "greatmemory",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has thick skin, dense flesh, and durable bones. this pawn takes much less damage than other people from the same blows. this pawn stands solid like a rock, and equally unmovable.",
+      "stats": [
+        "-0.40 move speed",
+        "x50% incoming damage multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-0.40 move speed",
+          "x50% incoming damage multiplier"
+        ]
+      },
+      "defName": "Tough",
+      "name": "tough",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy feels alienated and misunderstood by other human beings. this pawn will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "TorturedArtist",
+      "name": "torturedartist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's life revolves around food. this pawn gets hungry quickly but also eats faster, cooks faster and knows his ingredients, barely ever causing food poisoning.",
+      "stats": [
+        "Only mental break \"Binging_Food\" allowed.",
+        "+100% eating speed",
+        "+5.0 cooking speed",
+        "-75.00% food poison chance",
+        "+10% butchery efficiency",
+        "+35% hunger rate multiplier"
+      ],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ascetic"
+        ],
+        "stats": [
+          "Only mental break \"Binging_Food\" allowed.",
+          "+100% eating speed",
+          "+5.0 cooking speed",
+          "-75.00% food poison chance",
+          "+10% butchery efficiency",
+          "+35% hunger rate multiplier"
+        ]
+      },
+      "defName": "Gourmand",
+      "name": "gourmand",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy doesn't need as much sleep as the average person. Whether this pawn's sleeping on a bed or on the ground, this pawn will be fully rested in about two thirds the usual time.",
+      "stats": [
+        "+50% rest rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% rest rate multiplier"
+        ]
+      },
+      "defName": "QuickSleeper",
+      "name": "quicksleeper",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is always falling behind the group whenever this pawn goes anywhere.",
+      "stats": [
+        "Go frenzy inspiration disabled.",
+        "-0.40 move speed",
+        "+25% rest rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Go frenzy inspiration disabled.",
+          "-0.40 move speed",
+          "+25% rest rate multiplier"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "slowpoke",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy likes to be where this pawn's going. this pawn walks quicker than most people.",
+      "stats": [
+        "+0.40 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.40 move speed"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "fastwalker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
+      "stats": [
+        "+0.70 move speed",
+        "-10% rest rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+0.70 move speed",
+          "-10% rest rate multiplier"
+        ]
+      },
+      "defName": "SpeedOffset",
+      "name": "jogger",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an intense fascination with chemical sources of enjoyment. this pawn will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. this pawn will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "chemicalfascination",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. this pawn will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. this pawn will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "chemicalinterest",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. this pawn is a hard working individual.",
+      "stats": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "+20% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "+20% global work speed"
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "teetotaler",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is just naturally upbeat about their situation, pretty much all the time, no matter what it is.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "sanguine",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is naturally optimistic about life. It's hard to get them down.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "optimist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy tends to look on the bad side of life.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "pessimist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is perenially unhappy. this pawn has trouble sustaining a good mood even when everything is fine. their only way to deal with it is hiding in their room or wandering around in sadness.",
+      "stats": [
+        "Only mental break \"Wander_Sad\" allowed.",
+        "Only mental break \"Wander_OwnRoom\" allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"Wander_Sad\" allowed.",
+          "Only mental break \"Wander_OwnRoom\" allowed."
+        ]
+      },
+      "defName": "NaturalMood",
+      "name": "depressive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy's will is an iron shield. this pawn keeps going through thick and thin, when others broke down long before.",
+      "stats": [
+        "-18% mental break threshold",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-18% mental break threshold",
+          "x25% global certainty loss factor"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "iron-willed",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
+      "stats": [
+        "-9% mental break threshold",
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-9% mental break threshold",
+          "x50% global certainty loss factor"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "steadfast",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy tends to crack under pressure.",
+      "stats": [
+        "+8% mental break threshold",
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+8% mental break threshold",
+          "x200% global certainty loss factor"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "nervous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is on a hair-trigger all the time. this pawn is the first to break in any tough situation. If that happens this pawn will find something to smash.",
+      "stats": [
+        "Only mental break \"Tantrum\" allowed.",
+        "Only mental break \"TargetedTantrum\" allowed.",
+        "Only mental break \"BedroomTantrum\" allowed.",
+        "+15% mental break threshold",
+        "x300% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Only mental break \"Tantrum\" allowed.",
+          "Only mental break \"TargetedTantrum\" allowed.",
+          "Only mental break \"BedroomTantrum\" allowed.",
+          "+15% mental break threshold",
+          "x300% global certainty loss factor"
+        ]
+      },
+      "defName": "Nerves",
+      "name": "volatile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy likes to have things squared away. this pawn will work harder than most to attain this state of affairs, but their random mood swings can get the better of them.",
+      "stats": [
+        "+20% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% global work speed"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "neurotic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy feels constantly nervous about everything that has to get done. this pawn will work extremely hard to attain this state of affairs, but their random mood swings can easily get the better of them.",
+      "stats": [
+        "+40% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% global work speed"
+        ]
+      },
+      "defName": "Neurotic",
+      "name": "veryneurotic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
+      "stats": [
+        "+35% global work speed",
+        "+15% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+35% global work speed",
+          "+15% joy need rate multiplier"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "industrious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
+      "stats": [
+        "+20% global work speed",
+        "+10% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% global work speed",
+          "+10% joy need rate multiplier"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "hardworker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is a little bit lazy.",
+      "stats": [
+        "-20% global work speed",
+        "-33% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% global work speed",
+          "-33% joy need rate multiplier"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "lazy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy loves idleness and hates anything productive. this pawn moves slowly and rarely stays focused on a task.",
+      "stats": [
+        "-35% global work speed",
+        "-67% joy need rate multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% global work speed",
+          "-67% joy need rate multiplier"
+        ]
+      },
+      "defName": "Industriousness",
+      "name": "slothful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy's mind is like a psychic tuning fork. this pawn is extremely sensitive to psychic phenomena.",
+      "stats": [
+        "+80% psychic sensitivity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+80% psychic sensitivity"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychicallyhypersensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
+      "stats": [
+        "+40% psychic sensitivity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% psychic sensitivity"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychicallysensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy's mind is psychically out of tune with others. this pawn isn't as affected by psychic phenomena.",
+      "stats": [
+        "-50% psychic sensitivity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% psychic sensitivity"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychicallydull",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy's mind works on a psychic frequency different from everyone else. this pawn just isn't affected by psychic phenomena.",
+      "stats": [
+        "-100% psychic sensitivity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-100% psychic sensitivity"
+        ]
+      },
+      "defName": "PsychicSensitivity",
+      "name": "psychicallydeaf",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy takes more time to aim when shooting. this pawn shoots less often than others, but with more accuracy.",
+      "stats": [
+        "+25% aiming time",
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "+25% aiming time",
+          "+5.0 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "carefulshooter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. this pawn shoots faster than others, but less accurately.",
+      "stats": [
+        "-50% aiming time",
+        "-5.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "-50% aiming time",
+          "-5.0 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "trigger-happy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has had proper training with ranged weapons. this pawn shoots accurately and quickly.",
+      "stats": [
+        "-25% aiming time",
+        "+2.5 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "-25% aiming time",
+          "+2.5 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracy",
+      "name": "expertshooter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to them before this pawn even opens their mouth.",
+      "stats": [
+        "+2.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "beautiful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has a pretty face, which predisposes people to like them.",
+      "stats": [
+        "+1.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "pretty",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if their face has a scar or two.",
+      "stats": [
+        "-1.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-1.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "ugly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is staggeringly ugly. their face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at them while conversing. If there is an upside to this than that no one minds if their face has a scar or two... or ten.",
+      "stats": [
+        "-2.0 beauty"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-2.0 beauty"
+        ]
+      },
+      "defName": "Beauty",
+      "name": "staggeringlyugly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy has a naturally powerful immune system. this pawn will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "stats": [
+        "+30% immunity gain speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30% immunity gain speed"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "super-immune",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has an awful immune system. this pawn gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "stats": [
+        "+4 medical"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 medical"
+        ]
+      },
+      "defName": "Immunity",
+      "name": "sickly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "maleGender",
+      "name": "transmale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy identifies strongly as a female. Physical traits related to the Female gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "femaleGender",
+      "name": "transfemale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy does not want to be identified as any gender. The closer to truly androgynous they are, the happier they are.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "androgyneGender",
+      "name": "trans:androgyne",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is content with their body, regardless of their identified gender. They will experience no form of dysphoria.",
+      "stats": [
+        "x0% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x0% dysphoria multiplier"
+        ]
+      },
+      "defName": "noGenderPref",
+      "name": "body-content",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is much more affected by dysphoria than normal.",
+      "stats": [
+        "x300% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x300% dysphoria multiplier"
+        ]
+      },
+      "defName": "bodySensitive",
+      "name": "body-sensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is able to tear apart the fabrics of reality, moving living beings through space at the speed of light.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Teleporter",
+      "name": "teleporter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is able to hide himself from prying eyes, literally leaving under the noses of enemies.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Inquisitor",
+      "name": "inquisitor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an explosive character and is great at concentrating this power.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "aquarior"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "aquarior"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Phoenix",
+      "name": "phoenix",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to manipulate water and its forms.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "phoenix"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "phoenix"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Aquarior",
+      "name": "aquarior",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy can manipulate the ground under his feet, making it serve.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "aeron"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "aeron"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Terrarior",
+      "name": "terrarior",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy subdues the air around him, setting it in motion.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "terrarior"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "terrarior"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Aeron",
+      "name": "aeron",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy able to control electromagnetic waves.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Magnetic",
+      "name": "magnetic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is able to manipulate people and absorb their emotions.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "paladin"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "paladin"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Mentalist",
+      "name": "mentalist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to help peoples.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "mentalist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RPG Traits+",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "mentalist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RPGTraits_Paladin",
+      "name": "paladin",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Despite being banished once again, Nightmare Moon is still full of determination and tries to remain positive. She will build her own empire in this world - and one day she will return to Equestria with her new power! May the Night reign forever!",
+      "stats": [
+        "-25.00% social impact",
+        "+15% global work speed",
+        "-5% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25.00% social impact",
+          "+15% global work speed",
+          "-5% mental break threshold"
+        ]
+      },
+      "defName": "EternalLunacy",
+      "name": "eternallunacy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is very friendly and will try her best to help the colony grow.",
+      "stats": [
+        "+10.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10.00% social impact"
+        ]
+      },
+      "defName": "ExtremelyFriendly",
+      "name": "extremelyfriendly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to earth pony race. It is sturdier than other ponies and has special connection to earth but it has no real ways to make complex manipulations with objects.",
+      "stats": [
+        "+1 plants"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 plants"
+        ]
+      },
+      "defName": "ThisPonyIsEP",
+      "name": "earthpony",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to unicorn race. It can use magic to manipulate different objects with ease, but it is also more psychologically sensitive and can not endure much pain.",
+      "stats": [
+        "+1 intellectual"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 intellectual"
+        ]
+      },
+      "defName": "ThisPonyIsUN",
+      "name": "unicorn",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to alicorn race. It combines powers of earth ponies, unicorns and pegasi , which turns this pony into very powerfull being.",
+      "stats": [
+        "+1 intellectual",
+        "+1 plants",
+        "+1 shooting"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 intellectual",
+          "+1 plants",
+          "+1 shooting"
+        ]
+      },
+      "defName": "ThisPonyIsAL",
+      "name": "alicorn",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to pegasi race. It is faster than other ponies and can help itself in work with its wings.",
+      "stats": [
+        "+1 shooting"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 shooting"
+        ]
+      },
+      "defName": "ThisPonyIsPG",
+      "name": "pegasus",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to batpony race. It is slightly faster than other ponies and prefers to work at night and sleep during day.",
+      "stats": [
+        "+1 melee"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 melee"
+        ]
+      },
+      "defName": "ThisPonyIsBP",
+      "name": "batpony",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is uncommonly agile and stealthy, with better reflexes and a more flexible body than most.",
+      "stats": [
+        "+100% hunting stealth",
+        "+0.30 move speed",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "stats": [
+          "+100% hunting stealth",
+          "+0.30 move speed",
+          "+10.0 melee dodge chance"
+        ]
+      },
+      "defName": "SYR_Agile",
+      "name": "stealthy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a special connection to animals and understands them better than most people. Animals also tend to understand what this pawn wants from them. The time this pawn spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
+      "stats": [
+        "-50% animal gather speed",
+        "+20% animal gather yield"
+      ],
+      "conflicts": [
+        "silvertongue"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "silvertongue"
+        ],
+        "stats": [
+          "-50% animal gather speed",
+          "+20% animal gather yield"
+        ]
+      },
+      "defName": "SYR_AnimalAffinity",
+      "name": "animalfriend",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is proficient with various construction materials, particularly stone. this pawn will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
+      "stats": [
+        "+200% smoothing speed",
+        "+10% construct success chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+200% smoothing speed",
+          "+10% construct success chance"
+        ]
+      },
+      "defName": "SYR_Architect",
+      "name": "architect",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a unique approach to science. this pawn always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "SYR_CreativeThinker",
+      "name": "creativethinker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy seems to have rented all the good fortune on this Rimworld.",
+      "stats": [
+        "+10% mining yield",
+        "+20% animal gather yield",
+        "+10% plant harvest yield"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10% mining yield",
+          "+20% animal gather yield",
+          "+10% plant harvest yield"
+        ]
+      },
+      "defName": "SYR_GoodFortune",
+      "name": "fortunate",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a special talent to grow plants and nurture them even in hostile enviroments. this pawn can grow any plant, even if other people would fail due to their lack of skills. this pawn would like some plants in their bedroom.\n\n    Can grow any plant regardless of skill",
+      "stats": [
+        "+80% plant work speed",
+        "+10% plant harvest yield"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+80% plant work speed",
+          "+10% plant harvest yield"
+        ]
+      },
+      "defName": "SYR_GreenThumb",
+      "name": "greenthumb",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a gun nut, their life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand them a melee weapon.",
+      "stats": [
+        "+2 shooting",
+        "+2 crafting",
+        "-10% aiming time"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler"
+        ],
+        "stats": [
+          "+2 shooting",
+          "+2 crafting",
+          "-10% aiming time"
+        ]
+      },
+      "defName": "SYR_GunNut",
+      "name": "gunnut",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is exceptionally coordinated with his hands.",
+      "stats": [
+        "+15% global work speed",
+        "-10% aiming time",
+        "+5.0 melee hit chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15% global work speed",
+          "-10% aiming time",
+          "+5.0 melee hit chance"
+        ]
+      },
+      "defName": "SYR_HandEyeCoordination",
+      "name": "hand-eyecoordination",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a keen eye and can spot even tiny mineral deposits. this pawn will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
+      "stats": [
+        "+40% mining speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% mining speed"
+        ]
+      },
+      "defName": "SYR_KeenEye",
+      "name": "keeneye",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has had their fair share of encounters with mechanoids. this pawn has become an expert in mechanoid construction and combat, making them uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
+      "stats": [
+        "+50% mechanoid shredding efficiency"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% mechanoid shredding efficiency"
+        ]
+      },
+      "defName": "SYR_MechanoidExpert",
+      "name": "mechanoidexpert",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy wants thing to be exactly right. This does take time, but the results speak for themselves.\n\n    Quality level +1 (50% chance)",
+      "stats": [
+        "-25% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% global work speed"
+        ]
+      },
+      "defName": "SYR_Perfectionist",
+      "name": "perfectionist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy knows exactly the right words for every situation. This also means their insults hurt more.",
+      "stats": [
+        "+33.00% trade price improvement",
+        "+20.00% negotiation ability",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+33.00% trade price improvement",
+          "+20.00% negotiation ability",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "SYR_Haggler",
+      "name": "silvertongue",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has particularly steady hands, which don't even tremble in dire circumstances or when this pawn themself is injured.\n\n    No self-tend penalty",
+      "stats": [
+        "+50% medical tend speed",
+        "+10% medical tend quality",
+        "+3.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% medical tend speed",
+          "+10% medical tend quality",
+          "+3.0 shooting accuracy"
+        ]
+      },
+      "defName": "SYR_SteadyHands",
+      "name": "steadyhands",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a very strong back or is part mule or something. this pawn can carry significantly more as a normal person.",
+      "stats": [
+        "+75 carrying capacity"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[SYR] Individuality",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+75 carrying capacity"
+        ]
+      },
+      "defName": "SYR_StrongBack",
+      "name": "strongback",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    }
+  ],
+  "races": [
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "Human",
+      "enabled": false,
+      "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+$1500 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+25% Mining speed",
+          "+25% Construction speed",
+          "+25% Smelting speed",
+          "+125% Plant work speed",
+          "+25% Medical operation speed",
+          "+25% Animal gather speed",
+          "+75% Mechanoid shredding speed",
+          "+50% Drug cooking speed",
+          "+50% Drug synthesis speed",
+          "+120% Immunity gain speed",
+          "+0.8 Melee hit chance",
+          "+125.00% Social impact",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+100% Psychic sensitivity",
+          "+110% Pain shock threshold",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Earth Pony - the most boring typo of ponies",
+      "defName": "Earth_pony",
+      "enabled": true,
+      "name": "Earth Pony",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+120% Psychic sensitivity",
+          "+90% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Unicorn - pony with horn , that can use it to cast spells. All unicorns know basic spells like \"magic hand\" , but there are some that could use advanced magic.",
+      "defName": "Unicorn_pony",
+      "enabled": true,
+      "name": "Unicorn",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+82.00 Mass",
+          "+100% Flammability",
+          "+$1700 Market value",
+          "+6.30 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+85 Leather amount",
+          "+100% Research speed",
+          "+50% Mining speed",
+          "+50% Construction speed",
+          "+50% Smelting speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Pegasus - pony with ability to fly due to its extensive wings.",
+      "defName": "Pegasus_pony",
+      "enabled": true,
+      "name": "Pegasus",
+      "price": 2833
+    },
+    {
+      "data": {
+        "stats": [
+          "+82.00 Mass",
+          "+100% Flammability",
+          "+$1600 Market value",
+          "+6.10 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+40% Mining speed",
+          "+40% Construction speed",
+          "+40% Smelting speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Batpony - nocturnal pony with bat wings and sharp fangs. Despite popular misconception , most batponies don't like blood",
+      "defName": "Bat_pony",
+      "enabled": true,
+      "name": "Batpony",
+      "price": 2667
+    },
+    {
+      "data": {
+        "stats": [
+          "+95.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+6.30 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+120 Leather amount",
+          "+100% Research speed",
+          "+120% Psychic sensitivity",
+          "+125% Plant work speed",
+          "+120% Immunity gain speed",
+          "+125.00% Social impact",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+110% Pain shock threshold",
+          "+8 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Alicorn - the most powerfull kind of ponies. Alicorns combine all strenght of earth ponies, unicorns and pegasi in them. There are rumors that each alicorn has dark side of themselves - but those are only rumors , right?",
+      "defName": "Alicorn_pony",
+      "enabled": true,
+      "name": "Alicorn",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+25% Flammability",
+          "+$1800 Market value",
+          "+6.00 Move speed",
+          "-90.0F Minimum comfortable temperature",
+          "+45.0F Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+50% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+25.00% Social impact",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Changeling - strange combination of pony and bug. Those horrifying creatures are usually violent predators that could inflict serious damage even if unarmed.",
+      "defName": "Changeling_pony",
+      "enabled": true,
+      "name": "Changeling",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+82.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+5.30 Move speed",
+          "-36.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+85 Leather amount",
+          "+100% Research speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is Griffon - hybrid between lion and ... uh ... chicken?",
+      "defName": "Griffon_pony",
+      "enabled": true,
+      "name": "Griffon",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+85.00 Mass",
+          "+0% Flammability",
+          "+200.0% Armor - Heat",
+          "+$2150 Market value",
+          "+5.30 Move speed",
+          "+9.0F Minimum comfortable temperature",
+          "+540.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+125% Pain shock threshold",
+          "+40% Mental break threshold",
+          "+90% Incoming damage multiplier",
+          "+85% Global certainty loss factor",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This is kirin - unusual equine creature with magical abilities. Kirins are known for their immunity to hot temperatures and anger issues. Scales on body make kirins more durable in combat , but slightly slow them down.",
+      "defName": "Kirin_pony",
+      "enabled": true,
+      "name": "Kirin",
+      "price": 3583
+    },
+    {
+      "data": {
+        "stats": [
+          "+95.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+6.30 Move speed",
+          "-1800.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+120 Leather amount",
+          "+100% Research speed",
+          "+120% Psychic sensitivity",
+          "+125% Plant work speed",
+          "+120% Immunity gain speed",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+110% Pain shock threshold",
+          "+10 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This alicorn is Nightmare Moon herself! Quite a rare sight , she is unique after all.",
+      "defName": "Nightmare_Moon_UP",
+      "enabled": true,
+      "name": "Nightmare Moon herself!",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+95.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+6.30 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+110 Leather amount",
+          "+125% Research speed",
+          "+120% Psychic sensitivity",
+          "+125% Plant work speed",
+          "+120% Immunity gain speed",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+110% Pain shock threshold",
+          "+10 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This alicorn is Twilight Sparkle! Quite a rare sight , she is unique after all.",
+      "defName": "Twilight_Sparkle_UP",
+      "enabled": true,
+      "name": "Twilight Sparkle",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+$2400 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+120% Psychic sensitivity",
+          "+90% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This unicorn is Rarity! Quite a rare sight , she is unique after all.",
+      "defName": "Rarity_UP",
+      "enabled": true,
+      "name": "Rarity",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+82.00 Mass",
+          "+100% Flammability",
+          "+$2400 Market value",
+          "+5.80 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+85 Leather amount",
+          "+125% Animal gather yield",
+          "+150.00% Tame animal chance",
+          "+50% Mining speed",
+          "+50% Construction speed",
+          "+50% Smelting speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This pegasi is Fluttershy! Quite a rare sight , she is unique after all.",
+      "defName": "Fluttershy_UP",
+      "enabled": true,
+      "name": "Fluttershy",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+82.00 Mass",
+          "+100% Flammability",
+          "+$2400 Market value",
+          "+6.30 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+85 Leather amount",
+          "+125% Recreation power",
+          "+60% Mining speed",
+          "+60% Construction speed",
+          "+60% Smelting speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This pegasi is Rainbow Dash! Quite a rare sight , she is unique after all.",
+      "defName": "Raindbow_Dash_UP",
+      "enabled": true,
+      "name": "Rainbow Dash",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+25% Mining speed",
+          "+75% Construction speed",
+          "+25% Smelting speed",
+          "+150% Plant work speed",
+          "+25% Medical operation speed",
+          "+25% Animal gather speed",
+          "+75% Mechanoid shredding speed",
+          "+50% Drug cooking speed",
+          "+50% Drug synthesis speed",
+          "+120% Immunity gain speed",
+          "+0.8 Melee hit chance",
+          "+125.00% Social impact",
+          "+150% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+100% Psychic sensitivity",
+          "+110% Pain shock threshold",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This earth pony is Apple Jack! Quite a rare sight , she is unique after all.",
+      "defName": "Apple_Jack_UP",
+      "enabled": true,
+      "name": "Apple Jack",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+25% Mining speed",
+          "+25% Construction speed",
+          "+25% Smelting speed",
+          "+125% Plant work speed",
+          "+25% Medical operation speed",
+          "+25% Animal gather speed",
+          "+75% Mechanoid shredding speed",
+          "+50% Drug cooking speed",
+          "+50% Drug synthesis speed",
+          "+120% Immunity gain speed",
+          "+0.8 Melee hit chance",
+          "+150.00% Social impact",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+100% Psychic sensitivity",
+          "+110% Pain shock threshold",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This earth pony is Pinkie Pie! Quite a rare sight , she is unique after all.",
+      "defName": "Pinkie_Pie_UP",
+      "enabled": true,
+      "name": "Pinkie Pie",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
+    }
+  ]
+}
