@@ -5036,7 +5036,7 @@
 	},
 	{
 		"abr": "mechanitecocktails",
-		"price": 1675,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeMechanite"
 	},
@@ -7205,7 +7205,151 @@
 		"price": 458,
 		"category": "Furniture",
 		"defname": "CCPSAnimalHospitalBed"
+	},
+	{
+		"abr": "advancedminicomponent",
+		"price": 108,
+		"category": "Manufactured",
+		"defname": "MiniComponentSpacer"
+	},
+	{
+		"abr": "animalbodybattlebooster",
+		"price": 1225,
+		"category": "Animal prostheses",
+		"defname": "CFBattleAniBody"
+	},
+	{
+		"abr": "animalbrainimplant",
+		"price": 767,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniChip"
+	},
+	{
+		"abr": "animalheadbattlebooster",
+		"price": 1017,
+		"category": "Animal prostheses",
+		"defname": "CFBattleAniHead"
+	},
+	{
+		"abr": "animallab",
+		"price": 783,
+		"category": "Production",
+		"defname": "AnimalLab"
+	},
+	{
+		"abr": "animalneckbattlebooster",
+		"price": 617,
+		"category": "Animal prostheses",
+		"defname": "CFBattleAniNeck"
+	},
+	{
+		"abr": "archotechanimalbrain",
+		"price": 2500,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniChip"
+	},
+	{
+		"abr": "archotechanimaleye",
+		"price": 2000,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniEye"
+	},
+	{
+		"abr": "archotechanimaljaw",
+		"price": 2333,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniJaw"
+	},
+	{
+		"abr": "archotechanimalleg",
+		"price": 1833,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniPaw"
+	},
+	{
+		"abr": "archotechanimalspine",
+		"price": 2333,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniSpine"
+	},
+	{
+		"abr": "bionicanimaleye",
+		"price": 306,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniEye"
+	},
+	{
+		"abr": "bionicanimalheart",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniHeart"
+	},
+	{
+		"abr": "bionicanimaljaw",
+		"price": 425,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniJaw"
+	},
+	{
+		"abr": "bionicanimalkidney",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniKidney"
+	},
+	{
+		"abr": "bionicanimalleg",
+		"price": 318,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniPaw"
+	},
+	{
+		"abr": "bionicanimalliver",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniLiver"
+	},
+	{
+		"abr": "bionicanimallung",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniLung"
+	},
+	{
+		"abr": "bionicanimalspine",
+		"price": 500,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniSpine"
+	},
+	{
+		"abr": "bionicanimalstomach",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniStomach"
+	},
+	{
+		"abr": "prostheticanimaleye",
+		"price": 128,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniEye"
+	},
+	{
+		"abr": "prostheticanimaljaw",
+		"price": 144,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniJaw"
+	},
+	{
+		"abr": "prostheticanimalleg",
+		"price": 131,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniPaw"
+	},
+	{
+		"abr": "prostheticanimalspine",
+		"price": 219,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniSpine"
 	}
 	],
-	"total": 1201
+	"total": 1225
 }
