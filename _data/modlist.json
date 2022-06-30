@@ -12,8 +12,20 @@
     "version": null
   },
   {
-    "author": "Flyingstar",
-    "name": "DCSS statues and altars",
+    "author": "CE Team",
+    "name": "Combat Extended Armors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Melee",
     "steamId": null,
     "version": null
   },
@@ -38,6 +50,24 @@
   {
     "author": "TheCavan",
     "name": "Identity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JEMLPro",
+    "name": "Infused 2 Expansion",
     "steamId": null,
     "version": null
   },
@@ -72,6 +102,12 @@
     "version": null
   },
   {
+    "author": "Dylan Scoot",
+    "name": "Mando SRTS",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sugar Show",
     "name": "Medieval Music",
     "steamId": null,
@@ -102,26 +138,20 @@
     "version": null
   },
   {
+    "author": "Anne",
+    "name": "PokeRim",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "DimonSever000",
     "name": "RPG Traits+",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Soviet Rabotyaga",
     "name": "RimPonk",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rev",
-    "name": "Rimwave Music",
     "steamId": null,
     "version": null
   },
