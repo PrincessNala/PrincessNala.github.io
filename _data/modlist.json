@@ -1,7 +1,13 @@
-﻿[
+[
   {
     "author": "Suno and Neceros",
     "name": "Animal Medical Bed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve",
+    "name": "Better Quest Rewards",
     "steamId": null,
     "version": null
   },
@@ -30,8 +36,14 @@
     "version": null
   },
   {
-    "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering",
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimkit",
     "steamId": null,
     "version": null
   },
@@ -48,8 +60,20 @@
     "version": null
   },
   {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "TheCavan",
     "name": "Identity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CoolGuy27",
+    "name": "Immortal Serum",
     "steamId": null,
     "version": null
   },
@@ -108,6 +132,18 @@
     "version": null
   },
   {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Abraxas",
+    "name": "Medical System Expansion - Revived",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sugar Show",
     "name": "Medieval Music",
     "steamId": null,
@@ -150,20 +186,38 @@
     "version": null
   },
   {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Soviet Rabotyaga",
     "name": "RimPonk",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
+    "author": "Soviet Rabotyaga",
+    "name": "RimPonkUniquePawns",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Yanzihko",
-    "name": "Zoids Statues",
+    "author": "Rev",
+    "name": "Rimwave Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },

@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. this pawn can handle clothing, but will be happier without it.",
@@ -2085,6 +2085,96 @@
       "degree": -1
     },
     {
+      "description": "Timmy always shies away from danger. this pawn is usually the first to flee from battle.",
+      "stats": [
+        "+25% suppressability"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% suppressability"
+        ]
+      },
+      "defName": "Bravery",
+      "name": "cowardly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Few things scare Timmy. In battle this pawn stands unfazed where others panic and flee.",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% suppressability"
+        ]
+      },
+      "defName": "Bravery",
+      "name": "brave",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
+      "stats": [
+        "-100% suppressability"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-100% suppressability"
+        ]
+      },
+      "defName": "Bravery",
+      "name": "fearless",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [
 
@@ -2111,7 +2201,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2141,8 +2231,158 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": -1
+    },
+    {
+      "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "maleGender",
+      "name": "transmale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy identifies strongly as a female. Physical traits related to the Female gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "femaleGender",
+      "name": "transfemale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy does not want to be identified as any gender. The closer to truly androgynous they are, the happier they are.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "androgyneGender",
+      "name": "trans:androgyne",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is content with their body, regardless of their identified gender. They will experience no form of dysphoria.",
+      "stats": [
+        "x0% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x0% dysphoria multiplier"
+        ]
+      },
+      "defName": "noGenderPref",
+      "name": "body-content",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is much more affected by dysphoria than normal.",
+      "stats": [
+        "x300% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x300% dysphoria multiplier"
+        ]
+      },
+      "defName": "bodySensitive",
+      "name": "body-sensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     },
     {
       "description": "Timmy is able to tear apart the fabrics of reality, moving living beings through space at the speed of light.",
@@ -2171,7 +2411,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2205,7 +2445,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2235,7 +2475,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2265,7 +2505,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2295,7 +2535,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2325,7 +2565,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2355,7 +2595,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2385,7 +2625,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2415,7 +2655,293 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Despite being banished once again, Nightmare Moon is still full of determination and tries to remain positive. She will build her own empire in this world - and one day she will return to Equestria with her new power! May the Night reign forever!",
+      "stats": [
+        "-25.00% social impact",
+        "+15% global work speed",
+        "-5% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25.00% social impact",
+          "+15% global work speed",
+          "-5% mental break threshold"
+        ]
+      },
+      "defName": "EternalLunacy",
+      "name": "eternallunacy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is very friendly and will try her best to help the colony grow.",
+      "stats": [
+        "+10.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10.00% social impact"
+        ]
+      },
+      "defName": "ExtremelyFriendly",
+      "name": "extremelyfriendly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to earth pony race. It is sturdier than other ponies and has special connection to earth but it has no real ways to make complex manipulations with objects.",
+      "stats": [
+        "+1 plants"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 plants"
+        ]
+      },
+      "defName": "ThisPonyIsEP",
+      "name": "earthpony",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to unicorn race. It can use magic to manipulate different objects with ease, but it is also more psychologically sensitive and can not endure much pain.",
+      "stats": [
+        "+1 intellectual"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 intellectual"
+        ]
+      },
+      "defName": "ThisPonyIsUN",
+      "name": "unicorn",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to alicorn race. It combines powers of earth ponies, unicorns and pegasi , which turns this pony into very powerfull being.",
+      "stats": [
+        "+1 intellectual",
+        "+1 plants",
+        "+1 shooting"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 intellectual",
+          "+1 plants",
+          "+1 shooting"
+        ]
+      },
+      "defName": "ThisPonyIsAL",
+      "name": "alicorn",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to pegasi race. It is faster than other ponies and can help itself in work with its wings.",
+      "stats": [
+        "+1 shooting"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 shooting"
+        ]
+      },
+      "defName": "ThisPonyIsPG",
+      "name": "pegasus",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony belongs to batpony race. It is slightly faster than other ponies and prefers to work at night and sleep during day.",
+      "stats": [
+        "+1 melee"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonk",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 melee"
+        ]
+      },
+      "defName": "ThisPonyIsBP",
+      "name": "batpony",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "For most ponies other worlds are something new and hostile - but not for this one.This pony can deal with most dangers of other dimensions and perfectly knows how to adapt to anything.",
+      "stats": [
+        "+10% global work speed",
+        "-10% mental break threshold",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonkUniquePawns",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10% global work speed",
+          "-10% mental break threshold",
+          "+10% immunity gain speed"
+        ]
+      },
+      "defName": "DimensionalTraveler",
+      "name": "interdimensionaltraveler",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This pony has derpy eyes. It is hard for this pawn to shoot or concentrate on any work.",
+      "stats": [
+        "+25% aiming time",
+        "-20% global work speed",
+        "x50% weapon handling"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimPonkUniquePawns",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% aiming time",
+          "-20% global work speed",
+          "x50% weapon handling"
+        ]
+      },
+      "defName": "DerpyEyes",
+      "name": "derpyeyes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2868,464 +3394,6 @@
       },
       "defName": "SYR_StrongBack",
       "name": "strongback",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Identity",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "maleGender",
-      "name": "transmale",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy identifies strongly as a female. Physical traits related to the Female gender give mood boosts, while traits conflicting with it will give negative mood.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Identity",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "femaleGender",
-      "name": "transfemale",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy does not want to be identified as any gender. The closer to truly androgynous they are, the happier they are.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Identity",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "androgyneGender",
-      "name": "trans:androgyne",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is content with their body, regardless of their identified gender. They will experience no form of dysphoria.",
-      "stats": [
-        "x0% dysphoria multiplier"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Identity",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x0% dysphoria multiplier"
-        ]
-      },
-      "defName": "noGenderPref",
-      "name": "body-content",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is much more affected by dysphoria than normal.",
-      "stats": [
-        "x300% dysphoria multiplier"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Identity",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x300% dysphoria multiplier"
-        ]
-      },
-      "defName": "bodySensitive",
-      "name": "body-sensitive",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy always shies away from danger. this pawn is usually the first to flee from battle.",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+25% suppressability"
-        ]
-      },
-      "defName": "Bravery",
-      "name": "cowardly",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
-    },
-    {
-      "description": "Few things scare Timmy. In battle this pawn stands unfazed where others panic and flee.",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-50% suppressability"
-        ]
-      },
-      "defName": "Bravery",
-      "name": "brave",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-100% suppressability"
-        ]
-      },
-      "defName": "Bravery",
-      "name": "fearless",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2
-    },
-    {
-      "description": "Despite being banished once again, Nightmare Moon is still full of determination and tries to remain positive. She will build her own empire in this world - and one day she will return to Equestria with her new power! May the Night reign forever!",
-      "stats": [
-        "-25.00% social impact",
-        "+15% global work speed",
-        "-5% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-25.00% social impact",
-          "+15% global work speed",
-          "-5% mental break threshold"
-        ]
-      },
-      "defName": "EternalLunacy",
-      "name": "eternallunacy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is very friendly and will try her best to help the colony grow.",
-      "stats": [
-        "+10.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+10.00% social impact"
-        ]
-      },
-      "defName": "ExtremelyFriendly",
-      "name": "extremelyfriendly",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "This pony belongs to earth pony race. It is sturdier than other ponies and has special connection to earth but it has no real ways to make complex manipulations with objects.",
-      "stats": [
-        "+1 plants"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 plants"
-        ]
-      },
-      "defName": "ThisPonyIsEP",
-      "name": "earthpony",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "This pony belongs to unicorn race. It can use magic to manipulate different objects with ease, but it is also more psychologically sensitive and can not endure much pain.",
-      "stats": [
-        "+1 intellectual"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 intellectual"
-        ]
-      },
-      "defName": "ThisPonyIsUN",
-      "name": "unicorn",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "This pony belongs to alicorn race. It combines powers of earth ponies, unicorns and pegasi , which turns this pony into very powerfull being.",
-      "stats": [
-        "+1 intellectual",
-        "+1 plants",
-        "+1 shooting"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 intellectual",
-          "+1 plants",
-          "+1 shooting"
-        ]
-      },
-      "defName": "ThisPonyIsAL",
-      "name": "alicorn",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "This pony belongs to pegasi race. It is faster than other ponies and can help itself in work with its wings.",
-      "stats": [
-        "+1 shooting"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 shooting"
-        ]
-      },
-      "defName": "ThisPonyIsPG",
-      "name": "pegasus",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "This pony belongs to batpony race. It is slightly faster than other ponies and prefers to work at night and sleep during day.",
-      "stats": [
-        "+1 melee"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimPonk",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 melee"
-        ]
-      },
-      "defName": "ThisPonyIsBP",
-      "name": "batpony",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -5043,35 +5111,6 @@
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+100% Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
-          "+1000 Base XP yield",
-          "+$0 Market value",
-          "+5.60 Move speed",
-          "+0% Toxic sensitivity",
-          "-180.0F Minimum comfortable temperature",
-          "+450.0F Maximum comfortable temperature",
-          "+0 Meat amount",
-          "+200.0% Armor - Heat",
-          "+0% Smoke sensitivity",
-          "+0% Suppressability"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
-      "defName": "SoSHologramRace",
-      "enabled": false,
-      "name": "hologram",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
           "+80.00 Mass",
           "+100% Flammability",
           "+170% Melee dodge chance",
@@ -5390,7 +5429,7 @@
       },
       "description": "This alicorn is Nightmare Moon herself! Quite a rare sight , she is unique after all.",
       "defName": "Nightmare_Moon_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Nightmare Moon herself!",
       "price": 5833
     },
@@ -5426,7 +5465,7 @@
       },
       "description": "This alicorn is Twilight Sparkle! Quite a rare sight , she is unique after all.",
       "defName": "Twilight_Sparkle_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Twilight Sparkle",
       "price": 5833
     },
@@ -5459,7 +5498,7 @@
       },
       "description": "This unicorn is Rarity! Quite a rare sight , she is unique after all.",
       "defName": "Rarity_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Rarity",
       "price": 4000
     },
@@ -5495,7 +5534,7 @@
       },
       "description": "This pegasi is Fluttershy! Quite a rare sight , she is unique after all.",
       "defName": "Fluttershy_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Fluttershy",
       "price": 4000
     },
@@ -5530,7 +5569,7 @@
       },
       "description": "This pegasi is Rainbow Dash! Quite a rare sight , she is unique after all.",
       "defName": "Raindbow_Dash_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Rainbow Dash",
       "price": 4000
     },
@@ -5576,7 +5615,7 @@
       },
       "description": "This earth pony is Apple Jack! Quite a rare sight , she is unique after all.",
       "defName": "Apple_Jack_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Apple Jack",
       "price": 3333
     },
@@ -5622,9 +5661,286 @@
       },
       "description": "This earth pony is Pinkie Pie! Quite a rare sight , she is unique after all.",
       "defName": "Pinkie_Pie_UP",
-      "enabled": true,
+      "enabled": false,
       "name": "Pinkie Pie",
       "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$2400 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+90% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This unicorn is Sunset Shimmer! Quite a rare sight , she is unique after all.",
+      "defName": "Sunset_UP",
+      "enabled": true,
+      "name": "Sunset Shimmer",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$2400 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This unicorn is Lyra Heartstrings! She is very exited to see humans!(hopefully with real hands)",
+      "defName": "Lyra_UP",
+      "enabled": true,
+      "name": "Lyra Heartstrings",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+82.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$2400 Market value",
+          "+6.30 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+85 Leather amount",
+          "+50% Mining speed",
+          "+50% Construction speed",
+          "+50% Smelting speed",
+          "+100% Psychic sensitivity",
+          "+90% Pain shock threshold",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This pegasi is Derpy Hooves! Be carefull , she may crash into you any moment!",
+      "defName": "Derpy_UP",
+      "enabled": true,
+      "name": "Derpy Hooves",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$2000 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+25% Mining speed",
+          "+75% Construction speed",
+          "+25% Smelting speed",
+          "+125% Plant work speed",
+          "+25% Medical operation speed",
+          "+25% Animal gather speed",
+          "+75% Mechanoid shredding speed",
+          "+50% Drug cooking speed",
+          "+50% Drug synthesis speed",
+          "+120% Immunity gain speed",
+          "+0.8 Melee hit chance",
+          "+125.00% Social impact",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+100% Psychic sensitivity",
+          "+110% Pain shock threshold",
+          "+2 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This earth pony is Bon Bon! Quite a rare sight , she is unique after all.",
+      "defName": "BonBon_UP",
+      "enabled": true,
+      "name": "Bon Bon",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$2400 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This unicorn is Starlight Glimmer! She has BIG plans for the new colony she is going to create.",
+      "defName": "Starlight_UP",
+      "enabled": true,
+      "name": "Starlight Glimmer",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$2400 Market value",
+          "+5.80 Move speed",
+          "-45.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+100% Research speed",
+          "+100% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "BEHOLD , THIS IS THE GREAT AND POWERFULL TRIXIE LULAMOON!!!",
+      "defName": "Trixie_UP",
+      "enabled": true,
+      "name": "Trixie Lulamoon",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+100.00 Mass",
+          "+100% Flammability",
+          "+170% Melee dodge chance",
+          "+175% Melee critical chance",
+          "+75% Melee parry chance",
+          "+1000 Base XP yield",
+          "+100.00% Aiming accuracy",
+          "+100% Reload speed",
+          "+100% Suppressability",
+          "+$3500 Market value",
+          "+6.30 Move speed",
+          "-54.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
+          "+110 Leather amount",
+          "+125% Research speed",
+          "+120% Psychic sensitivity",
+          "+125% Plant work speed",
+          "+120% Immunity gain speed",
+          "+125% Plant harvest yield",
+          "+125% Animal gather yield",
+          "+110% Pain shock threshold",
+          "+10 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "This alicorn is Princess Celestia! Give her magical cake if you want to hear some stories about Equestrian history.",
+      "defName": "Celestia_UP",
+      "enabled": true,
+      "name": "Princess Celestia",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+100% Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+1000 Base XP yield",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-180.0F Minimum comfortable temperature",
+          "+450.0F Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat",
+          "+0% Smoke sensitivity",
+          "+0% Suppressability"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
     }
   ]
 }
