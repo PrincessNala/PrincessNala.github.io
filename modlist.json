@@ -1,7 +1,13 @@
-﻿[
+[
   {
     "author": "Suno and Neceros",
     "name": "Animal Medical Bed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Steve",
+    "name": "Better Quest Rewards",
     "steamId": null,
     "version": null
   },
@@ -12,14 +18,32 @@
     "version": null
   },
   {
-    "author": "Flyingstar",
-    "name": "DCSS statues and altars",
+    "author": "CE Team",
+    "name": "Combat Extended Armors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering",
+    "author": "CE Team",
+    "name": "Combat Extended Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Melee",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimkit",
     "steamId": null,
     "version": null
   },
@@ -36,8 +60,44 @@
     "version": null
   },
   {
+    "author": "Gloomylynx",
+    "name": "Gloomy Hair mk2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "TheCavan",
     "name": "Identity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CoolGuy27",
+    "name": "Immortal Serum",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JEMLPro",
+    "name": "Infused 2 Expansion",
     "steamId": null,
     "version": null
   },
@@ -60,6 +120,24 @@
     "version": null
   },
   {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seioch and  MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xenofell",
+    "name": "Ladies Can Flirt Too!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "cucumpear",
     "name": "Large Animal Beds",
     "steamId": null,
@@ -68,6 +146,24 @@
   {
     "author": "GeodesicDragon",
     "name": "MLP Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dylan Scoot",
+    "name": "Mando SRTS",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Abraxas",
+    "name": "Medical System Expansion - Revived",
     "steamId": null,
     "version": null
   },
@@ -90,6 +186,12 @@
     "version": null
   },
   {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "JangoD'soul",
     "name": "[JDS] Simple Storage",
     "steamId": null,
@@ -102,20 +204,26 @@
     "version": null
   },
   {
+    "author": "Anne",
+    "name": "PokeRim",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "DimonSever000",
     "name": "RPG Traits+",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Soviet Rabotyaga",
-    "name": "RimPonk",
+    "author": "Jaxe",
+    "name": "RimHUD",
     "steamId": null,
     "version": null
   },
@@ -128,12 +236,6 @@
   {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yanzihko",
-    "name": "Zoids Statues",
     "steamId": null,
     "version": null
   },
