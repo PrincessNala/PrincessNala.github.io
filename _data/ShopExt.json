@@ -3117,7 +3117,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[SYR] Individuality",
         "karmaTypeForAdding": null,
@@ -3129,7 +3129,7 @@
         ]
       },
       "defName": "SYR_Perfectionist",
-      "name": "perfectionist",
+      "name": "perfectionist1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -3381,7 +3381,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
@@ -3395,7 +3395,7 @@
         ]
       },
       "defName": "VTE_Brave",
-      "name": "brave",
+      "name": "brave1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -6359,7 +6359,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -6373,7 +6373,7 @@
         ]
       },
       "defName": "FT_StrongBack",
-      "name": "strongback",
+      "name": "strongback1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -6737,7 +6737,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -6757,7 +6757,7 @@
         ]
       },
       "defName": "FT_Artisan",
-      "name": "artisan",
+      "name": "artisan1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -8310,7 +8310,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -8327,7 +8327,7 @@
         ]
       },
       "defName": "FT_GunNut",
-      "name": "gunnut",
+      "name": "gunnut1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -9000,7 +9000,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -9021,7 +9021,7 @@
         ]
       },
       "defName": "FT_AnimalFriend",
-      "name": "animalfriend",
+      "name": "animalfriend1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -9620,7 +9620,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -9641,7 +9641,7 @@
         ]
       },
       "defName": "FT_Perfectionist",
-      "name": "perfectionist",
+      "name": "perfectionist2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11113,7 +11113,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
         "karmaTypeForAdding": null,
@@ -11127,7 +11127,7 @@
         ]
       },
       "defName": "RT_Clumsy",
-      "name": "clumsy",
+      "name": "clumsy1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14639,7 +14639,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Traits Plus",
         "karmaTypeForAdding": null,
@@ -14663,7 +14663,7 @@
         ]
       },
       "defName": "S1_Mason",
-      "name": "mason",
+      "name": "mason1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14704,7 +14704,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Traits Plus",
         "karmaTypeForAdding": null,
@@ -14739,7 +14739,7 @@
         ]
       },
       "defName": "S1_Fighter",
-      "name": "fighter",
+      "name": "fighter1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,

@@ -17280,7 +17280,7 @@
     "KarmaType": null
   },
   "JDSAmmo_BoxB": {
-    "CustomName": null,
+    "CustomName": "ammobox1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -17300,7 +17300,7 @@
     "KarmaType": null
   },
   "JDSAmmo_BoxC": {
-    "CustomName": null,
+    "CustomName": "ammobox2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
