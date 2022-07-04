@@ -1,7 +1,19 @@
 [
   {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Suno and Neceros",
     "name": "Animal Medical Bed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Better Pyromania",
     "steamId": null,
     "version": null
   },
@@ -12,8 +24,26 @@
     "version": null
   },
   {
+    "author": "Josh Mate",
+    "name": "Better Traders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Latta,  Skullywag,  Spdskatr and  Antaios",
+    "name": "BetterVents",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Candycorn",
     "name": "Candy Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago",
+    "name": "Carry Capacity Fixed",
     "steamId": null,
     "version": null
   },
@@ -36,8 +66,26 @@
     "version": null
   },
   {
+    "author": "LadyCookie",
+    "name": "Cookie Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Wolfcub05",
     "name": "Draftable Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx NukaFrog",
+    "name": "Dragonian Race",
     "steamId": null,
     "version": null
   },
@@ -48,14 +96,50 @@
     "version": null
   },
   {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Alien Races ",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ank",
     "name": "Genshin Impact Music",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Redbaron05",
     "name": "Girls Last Tour Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx",
+    "name": "Gloomy Hair mk2",
     "steamId": null,
     "version": null
   },
@@ -114,6 +198,36 @@
     "version": null
   },
   {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seioch and  MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "darkmiz",
+    "name": "Kurin HAR Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xenofell",
+    "name": "Ladies Can Flirt Too!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Lapelli Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "cucumpear",
     "name": "Large Animal Beds",
     "steamId": null,
@@ -128,6 +242,12 @@
   {
     "author": "Dylan Scoot",
     "name": "Mando SRTS",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Onkelflo",
+    "name": "Max Gain Cap Removal",
     "steamId": null,
     "version": null
   },
@@ -158,6 +278,12 @@
   {
     "author": "Eric",
     "name": "Neotokyo Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
@@ -198,14 +324,8 @@
     "version": null
   },
   {
-    "author": "Soviet Rabotyaga",
-    "name": "RimPonk",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Soviet Rabotyaga",
-    "name": "RimPonkUniquePawns",
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
   },
@@ -218,6 +338,30 @@
   {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo, Hodlhodl and Saschahi",
+    "name": "ToolkitExt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Isuzuki",
+    "name": "Traits Excel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Side1iner",
+    "name": "Traits Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
     "steamId": null,
     "version": null
   },
@@ -236,6 +380,12 @@
   {
     "author": "Telkir",
     "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Animal Armor (Continued)",
     "steamId": null,
     "version": null
   }
