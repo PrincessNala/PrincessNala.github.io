@@ -30,12 +30,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Apex: Rimworld Legends (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kebeq",
     "name": "Armor & UI Uncapper",
     "steamId": null,
@@ -62,12 +56,6 @@
   {
     "author": "Martin Basterrechea",
     "name": "Combine Face and Hat Items",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ChillStorms",
-    "name": "Construction Expanded",
     "steamId": null,
     "version": null
   },
@@ -246,6 +234,12 @@
     "version": null
   },
   {
+    "author": "Kuratheris",
+    "name": "Kura's Extra Gems",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Seioch and  MaroonToon",
     "name": "Kurin HAR Edition",
     "steamId": null,
@@ -306,12 +300,6 @@
     "version": null
   },
   {
-    "author": "LegendaryMinuteman",
-    "name": "More Archotech Implants",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "BOXrsxx,  Vaniat and  LingLuo",
     "name": "More Practical Traits",
     "steamId": null,
@@ -330,14 +318,14 @@
     "version": null
   },
   {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
+    "author": "Farmradish",
+    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Farmradish",
-    "name": "Nyaron race",
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
   },
@@ -438,8 +426,20 @@
     "version": null
   },
   {
-    "author": "RavenousEye",
-    "name": "Scaled World",
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RSev",
+    "name": "Save Our Ship 2 - Archotech Gift Pool Expanded",
     "steamId": null,
     "version": null
   },
@@ -474,18 +474,6 @@
     "version": null
   },
   {
-    "author": "ShadowDragon8685",
-    "name": "Stuffable Furnishings Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Holgast",
-    "name": "Stuffed Power",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "tikubonn",
     "name": "StuffedDoll",
     "steamId": null,
@@ -504,18 +492,6 @@
     "version": null
   },
   {
-    "author": "test",
-    "name": "TMaterials - Metals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jellypowered",
-    "name": "The Harvest",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sam",
     "name": "Tilled Soil",
     "steamId": null,
@@ -524,18 +500,6 @@
   {
     "author": "SirRandoo, Hodlhodl and Saschahi",
     "name": "ToolkitExt",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "wool",
-    "name": "Useless clothes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Valkyria Rimworld",
     "steamId": null,
     "version": null
   },
@@ -578,6 +542,18 @@
   {
     "author": "Harkon",
     "name": "[HRK] Vanilla Expanded Extra Embrasures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Castle Walls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lord Felix",
+    "name": "[JDS] Castle Walls 75% off",
     "steamId": null,
     "version": null
   },
