@@ -14280,6 +14280,198 @@
 		"category": "Vegetarian",
 		"defname": "Tox_RawOranges"
 	},
+	{
+		"abr": "aliconpowder",
+		"price": 300,
+		"category": "Medicine",
+		"defname": "AliconPowder"
+	},
+	{
+		"abr": "carbuncle",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "HC_Carbuncle"
+	},
+	{
+		"abr": "carbunclegem",
+		"price": 2000,
+		"category": "Items",
+		"defname": "CarbuncleGem"
+	},
+	{
+		"abr": "changewing",
+		"price": 5000,
+		"category": "Animals",
+		"defname": "Changewing"
+	},
+	{
+		"abr": "changewing(unfert.)",
+		"price": 83,
+		"category": "Eggs (unfert.)",
+		"defname": "ChangewingUnfertilized"
+	},
+	{
+		"abr": "changewingegg(fert.)",
+		"price": 1000,
+		"category": "Eggs (fert.)",
+		"defname": "EggChangewingFertilized"
+	},
+	{
+		"abr": "changewingmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Changewing"
+	},
+	{
+		"abr": "changewingscales",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "Leather_Changewing"
+	},
+	{
+		"abr": "cheetah",
+		"price": 533,
+		"category": "Animals",
+		"defname": "HC_Cheetah"
+	},
+	{
+		"abr": "deadlynadder",
+		"price": 5833,
+		"category": "Animals",
+		"defname": "Deadly_Nadder"
+	},
+	{
+		"abr": "deadlynadderegg(fert.)",
+		"price": 1333,
+		"category": "Eggs (fert.)",
+		"defname": "EggNadderFertilized"
+	},
+	{
+		"abr": "deadlynadderegg(unfert.)",
+		"price": 83,
+		"category": "Eggs (unfert.)",
+		"defname": "NadderUnfertilized"
+	},
+	{
+		"abr": "deadlynaddermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Deadly_Nadder"
+	},
+	{
+		"abr": "deadlynadderscales",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "Leather_Nadder"
+	},
+	{
+		"abr": "dragonskin",
+		"price": 21,
+		"category": "Leathers",
+		"defname": "Leather_Dragon"
+	},
+	{
+		"abr": "dramillion",
+		"price": 5833,
+		"category": "Animals",
+		"defname": "Dramillion"
+	},
+	{
+		"abr": "dramillionegg(fert.)",
+		"price": 1000,
+		"category": "Eggs (fert.)",
+		"defname": "EggDramillionFertilized"
+	},
+	{
+		"abr": "dramillionegg(unfert.)",
+		"price": 83,
+		"category": "Eggs (unfert.)",
+		"defname": "DramillionUnfertilized"
+	},
+	{
+		"abr": "dramillionmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dramillion"
+	},
+	{
+		"abr": "dramillionscales",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_Dramillion"
+	},
+	{
+		"abr": "fury",
+		"price": 5833,
+		"category": "Animals",
+		"defname": "Fury"
+	},
+	{
+		"abr": "furyegg(fert.)",
+		"price": 1333,
+		"category": "Eggs (fert.)",
+		"defname": "EggFuryFertilized"
+	},
+	{
+		"abr": "furyegg(unfert.)",
+		"price": 83,
+		"category": "Eggs (unfert.)",
+		"defname": "FuryUnfertilized"
+	},
+	{
+		"abr": "furymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Fury"
+	},
+	{
+		"abr": "furyscales",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_Fury"
+	},
+	{
+		"abr": "gorgon",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "HC_Gorgon"
+	},
+	{
+		"abr": "griffin",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "HC_Griffin"
+	},
+	{
+		"abr": "griffinegg(fert.)",
+		"price": 833,
+		"category": "Eggs (fert.)",
+		"defname": "EggGriffin"
+	},
+	{
+		"abr": "heavylizardskin",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_HeavyLizard"
+	},
+	{
+		"abr": "hyena",
+		"price": 600,
+		"category": "Animals",
+		"defname": "HC_Hyena"
+	},
+	{
+		"abr": "jaguar",
+		"price": 917,
+		"category": "Animals",
+		"defname": "HC_Jaguar"
+	},
+	{
+		"abr": "kelpie",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "HC_Kelpie"
+	},
 	],
-	"total": 2454
+	"total": 2473
 }
