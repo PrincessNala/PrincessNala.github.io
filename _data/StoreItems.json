@@ -8155,12 +8155,6 @@
 		"defname": "JDSwheelbarrow"
 	},
 	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Items",
-		"defname": "SRGWF_MechSerumYouth"
-	},
-	{
 		"abr": "zmkar1",
 		"price": 633,
 		"category": "Ranged weapons",
@@ -14299,136 +14293,16 @@
 		"defname": "CarbuncleGem"
 	},
 	{
-		"abr": "changewing",
-		"price": 5000,
-		"category": "Animals",
-		"defname": "Changewing"
-	},
-	{
-		"abr": "changewing(unfert.)",
-		"price": 83,
-		"category": "Eggs (unfert.)",
-		"defname": "ChangewingUnfertilized"
-	},
-	{
-		"abr": "changewingegg(fert.)",
-		"price": 1000,
-		"category": "Eggs (fert.)",
-		"defname": "EggChangewingFertilized"
-	},
-	{
-		"abr": "changewingmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Changewing"
-	},
-	{
-		"abr": "changewingscales",
-		"price": 12,
-		"category": "Leathers",
-		"defname": "Leather_Changewing"
-	},
-	{
 		"abr": "cheetah",
 		"price": 533,
 		"category": "Animals",
 		"defname": "HC_Cheetah"
 	},
 	{
-		"abr": "deadlynadder",
-		"price": 5833,
-		"category": "Animals",
-		"defname": "Deadly_Nadder"
-	},
-	{
-		"abr": "deadlynadderegg(fert.)",
-		"price": 1333,
-		"category": "Eggs (fert.)",
-		"defname": "EggNadderFertilized"
-	},
-	{
-		"abr": "deadlynadderegg(unfert.)",
-		"price": 83,
-		"category": "Eggs (unfert.)",
-		"defname": "NadderUnfertilized"
-	},
-	{
-		"abr": "deadlynaddermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Deadly_Nadder"
-	},
-	{
-		"abr": "deadlynadderscales",
-		"price": 12,
-		"category": "Leathers",
-		"defname": "Leather_Nadder"
-	},
-	{
 		"abr": "dragonskin",
 		"price": 21,
 		"category": "Leathers",
 		"defname": "Leather_Dragon"
-	},
-	{
-		"abr": "dramillion",
-		"price": 5833,
-		"category": "Animals",
-		"defname": "Dramillion"
-	},
-	{
-		"abr": "dramillionegg(fert.)",
-		"price": 1000,
-		"category": "Eggs (fert.)",
-		"defname": "EggDramillionFertilized"
-	},
-	{
-		"abr": "dramillionegg(unfert.)",
-		"price": 83,
-		"category": "Eggs (unfert.)",
-		"defname": "DramillionUnfertilized"
-	},
-	{
-		"abr": "dramillionmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dramillion"
-	},
-	{
-		"abr": "dramillionscales",
-		"price": 17,
-		"category": "Leathers",
-		"defname": "Leather_Dramillion"
-	},
-	{
-		"abr": "fury",
-		"price": 5833,
-		"category": "Animals",
-		"defname": "Fury"
-	},
-	{
-		"abr": "furyegg(fert.)",
-		"price": 1333,
-		"category": "Eggs (fert.)",
-		"defname": "EggFuryFertilized"
-	},
-	{
-		"abr": "furyegg(unfert.)",
-		"price": 83,
-		"category": "Eggs (unfert.)",
-		"defname": "FuryUnfertilized"
-	},
-	{
-		"abr": "furymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Fury"
-	},
-	{
-		"abr": "furyscales",
-		"price": 17,
-		"category": "Leathers",
-		"defname": "Leather_Fury"
 	},
 	{
 		"abr": "gorgon",
@@ -14472,6 +14346,756 @@
 		"category": "Animals",
 		"defname": "HC_Kelpie"
 	},
+	{
+		"abr": "actinamine",
+		"price": 12,
+		"category": "Chemicals",
+		"defname": "VMEu_Actinamine"
+	},
+	{
+		"abr": "addictol",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "Addictol"
+	},
+	{
+		"abr": "amaro",
+		"price": 917,
+		"category": "Animals",
+		"defname": "ERN_Amaro"
+	},
+	{
+		"abr": "amaroegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EggAmaroFertilized"
+	},
+	{
+		"abr": "amaromeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ERN_Amaro"
+	},
+	{
+		"abr": "amaroskin",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Amaro"
+	},
+	{
+		"abr": "antigrainmix",
+		"price": 42,
+		"category": "Chemicals",
+		"defname": "VMEu_AntigrainMix"
+	},
+	{
+		"abr": "argali",
+		"price": 417,
+		"category": "Animals",
+		"defname": "Argali"
+	},
+	{
+		"abr": "argaliwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "WoolArgali"
+	},
+	{
+		"abr": "armadillo",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ERN_Armadillo"
+	},
+	{
+		"abr": "asphaltmix",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "VMEu_AsphaltMix"
+	},
+	{
+		"abr": "autoshoji",
+		"price": 289,
+		"category": "Misc",
+		"defname": "Erin_Fusuma"
+	},
+	{
+		"abr": "beigesyntheticleather",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "VMEu_Synthleather_Beige"
+	},
+	{
+		"abr": "blackplasticbrickswall",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VMEu_Wall_BricksBlack"
+	},
+	{
+		"abr": "blacksyntheticleather",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "VMEu_Synthleather_Black"
+	},
+	{
+		"abr": "blueplasticbrickswall",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VMEu_Wall_BricksBlue"
+	},
+	{
+		"abr": "bonsaipot",
+		"price": 299,
+		"category": "Art",
+		"defname": "Erin_BonsaiPot"
+	},
+	{
+		"abr": "børætamine",
+		"price": 25,
+		"category": "Chemicals",
+		"defname": "VMEu_Boraetamine"
+	},
+	{
+		"abr": "brownplasticbrickswall",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VMEu_Wall_BricksBrown"
+	},
+	{
+		"abr": "brownsyntheticleather",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "VMEu_Synthleather_Brown"
+	},
+	{
+		"abr": "carbonfiber",
+		"price": 15,
+		"category": "Raw resources",
+		"defname": "VMEu_CarbonFiber"
+	},
+	{
+		"abr": "cheapplasticpellets",
+		"price": 2,
+		"category": "Plastics",
+		"defname": "VMEu_PlasticPellets_TierOne"
+	},
+	{
+		"abr": "cheapplasticplanks",
+		"price": 2,
+		"category": "Plastics",
+		"defname": "VMEu_PlasticPlanks_TierOne"
+	},
+	{
+		"abr": "chocobo",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ERN_Chocobo"
+	},
+	{
+		"abr": "chocoboegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EggChocoboFertilized"
+	},
+	{
+		"abr": "coffee",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "ERN_Coffee"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "ERN_CoffeeBeans"
+	},
+	{
+		"abr": "crimsonsyntheticleather",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "VMEu_Synthleather_Crimson"
+	},
+	{
+		"abr": "darkoildistiller",
+		"price": 1083,
+		"category": "Production",
+		"defname": "VMEu_OilDistiller"
+	},
+	{
+		"abr": "deep-friedmarsbar",
+		"price": 3,
+		"category": "Meals",
+		"defname": "DeepFriedChocolate"
+	},
+	{
+		"abr": "doublefuton(birds)",
+		"price": 291,
+		"category": "Furniture",
+		"defname": "Erin_DoubleFutonA"
+	},
+	{
+		"abr": "doublefuton(floral)",
+		"price": 291,
+		"category": "Furniture",
+		"defname": "Erin_DoubleFutonB"
+	},
+	{
+		"abr": "electricandon",
+		"price": 132,
+		"category": "Furniture",
+		"defname": "Erin_ElectricAndon"
+	},
+	{
+		"abr": "ferret",
+		"price": 167,
+		"category": "Animals",
+		"defname": "ERN_Ferret"
+	},
+	{
+		"abr": "ferretmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ERN_Ferret"
+	},
+	{
+		"abr": "foxsquirrel",
+		"price": 500,
+		"category": "Animals",
+		"defname": "FoxSquirrel"
+	},
+	{
+		"abr": "fueledandon",
+		"price": 109,
+		"category": "Furniture",
+		"defname": "Erin_TorchAndon"
+	},
+	{
+		"abr": "futon(floral)",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "Erin_FutonA"
+	},
+	{
+		"abr": "futon(koi)",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "Erin_FutonB"
+	},
+	{
+		"abr": "gartersnake",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ERN_Gartersnake"
+	},
+	{
+		"abr": "greyfox",
+		"price": 600,
+		"category": "Animals",
+		"defname": "ERN_Greyfox"
+	},
+	{
+		"abr": "haggis(meat)",
+		"price": 17,
+		"category": "Meals",
+		"defname": "Haggis"
+	},
+	{
+		"abr": "haggis(vegetarian)",
+		"price": 17,
+		"category": "Meals",
+		"defname": "Haggis_Vegetarian"
+	},
+	{
+		"abr": "hedgehog",
+		"price": 250,
+		"category": "Animals",
+		"defname": "ERN_Hedgehog"
+	},
+	{
+		"abr": "hotchocolate",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "ERN_HotChocolate"
+	},
+	{
+		"abr": "incenseholder",
+		"price": 7,
+		"category": "Furniture",
+		"defname": "Erin_IncenseHolder"
+	},
+	{
+		"abr": "irn-bru",
+		"price": 17,
+		"category": "Meals",
+		"defname": "IrnBru"
+	},
+	{
+		"abr": "irn-brukeg",
+		"price": 3333,
+		"category": "Scottish foods",
+		"defname": "IrnBruKeg"
+	},
+	{
+		"abr": "kelpieegg(fert.)",
+		"price": 833,
+		"category": "Eggs (fert.)",
+		"defname": "EggKelpie"
+	},
+	{
+		"abr": "kilt",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "IrnBruMod_KiltApparel"
+	},
+	{
+		"abr": "komododragon",
+		"price": 867,
+		"category": "Animals",
+		"defname": "HC_KomodoDragon"
+	},
+	{
+		"abr": "komododragonegg(fert.)",
+		"price": 100,
+		"category": "Eggs (fert.)",
+		"defname": "EggKomodoDragonFertilized"
+	},
+	{
+		"abr": "kotatsu",
+		"price": 315,
+		"category": "Furniture",
+		"defname": "Erin_Kotatsu"
+	},
+	{
+		"abr": "latte",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "ERN_Latte"
+	},
+	{
+		"abr": "lion",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "HC_Lion"
+	},
+	{
+		"abr": "liquidplastic",
+		"price": -10,
+		"category": "Liquid plastics",
+		"defname": "VMEu_LiquidPlastic_TierOne"
+	},
+	{
+		"abr": "liquidpolymerplastic",
+		"price": -10,
+		"category": "Liquid plastics",
+		"defname": "VMEu_LiquidPlastic_TierTwo"
+	},
+	{
+		"abr": "lowtable",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "Erin_LowTable"
+	},
+	{
+		"abr": "mink",
+		"price": 500,
+		"category": "Animals",
+		"defname": "ERN_Mink"
+	},
+	{
+		"abr": "mocha",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "ERN_Mocha"
+	},
+	{
+		"abr": "nightmare",
+		"price": 4000,
+		"category": "Animals",
+		"defname": "HC_Nightmares"
+	},
+	{
+		"abr": "oilextractor",
+		"price": 658,
+		"category": "Misc",
+		"defname": "VMEu_OilExtractor"
+	},
+	{
+		"abr": "owlbear",
+		"price": 1500,
+		"category": "Animals",
+		"defname": "HC_Owlbear"
+	},
+	{
+		"abr": "owlbearegg(fert.)",
+		"price": 833,
+		"category": "Eggs (fert.)",
+		"defname": "EggOwlbear"
+	},
+	{
+		"abr": "palamute",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ERN_Palamute"
+	},
+	{
+		"abr": "palamutemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ERN_Palamute"
+	},
+	{
+		"abr": "pallas'cat",
+		"price": 458,
+		"category": "Animals",
+		"defname": "Pallas_cat"
+	},
+	{
+		"abr": "pangolin",
+		"price": 300,
+		"category": "Animals",
+		"defname": "HC_Pangolin"
+	},
+	{
+		"abr": "pangolinmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HC_Pangolin"
+	},
+	{
+		"abr": "peaches",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Tox_RawPeaches"
+	},
+	{
+		"abr": "pika",
+		"price": 58,
+		"category": "Animals",
+		"defname": "Pika"
+	},
+	{
+		"abr": "pinelogs",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Tox_PineLog"
+	},
+	{
+		"abr": "pineapple",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Tox_RawPineapple"
+	},
+	{
+		"abr": "plasteelbase",
+		"price": 15,
+		"category": "Manufactured",
+		"defname": "VMEu_PlasteelBase"
+	},
+	{
+		"abr": "plasticbricks",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "VMEu_PlasticBricks"
+	},
+	{
+		"abr": "plasticfoil",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "VMEu_NylonRoll"
+	},
+	{
+		"abr": "plasticsculpture",
+		"price": 134,
+		"category": "Art",
+		"defname": "VMEu_PlasticSculpture"
+	},
+	{
+		"abr": "polyestercloth",
+		"price": 2,
+		"category": "Textiles",
+		"defname": "VMEu_PolyesterCloth"
+	},
+	{
+		"abr": "polymerplasticpellets",
+		"price": 2,
+		"category": "Plastics",
+		"defname": "VMEu_PlasticPellets_TierTwo"
+	},
+	{
+		"abr": "poplarlogs",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Tox_PoplarLog"
+	},
+	{
+		"abr": "pronitamine",
+		"price": 12,
+		"category": "Chemicals",
+		"defname": "VMEu_Pronitamine"
+	},
+	{
+		"abr": "ptarmigan",
+		"price": 250,
+		"category": "Animals",
+		"defname": "ERN_ptarmigan"
+	},
+	{
+		"abr": "ptarmiganegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EggPtarmiganFertilized"
+	},
+	{
+		"abr": "ptarmiganegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggPtarmiganUnfertilized"
+	},
+	{
+		"abr": "rawdandelions",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "Tox_RawDandelions"
+	},
+	{
+		"abr": "redpanda",
+		"price": 1117,
+		"category": "Animals",
+		"defname": "ERN_Redpanda"
+	},
+	{
+		"abr": "redplasticbrickswall",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VMEu_Wall_BricksRed"
+	},
+	{
+		"abr": "redwoodlogs",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "Tox_RedwoodLog"
+	},
+	{
+		"abr": "roc",
+		"price": 6000,
+		"category": "Animals",
+		"defname": "HC_Roc"
+	},
+	{
+		"abr": "rocegg(fert.)",
+		"price": 3333,
+		"category": "Eggs (fert.)",
+		"defname": "EggRoc"
+	},
+	{
+		"abr": "samoyed",
+		"price": 417,
+		"category": "Animals",
+		"defname": "HC_Samoyed"
+	},
+	{
+		"abr": "serval",
+		"price": 417,
+		"category": "Animals",
+		"defname": "HC_Serval"
+	},
+	{
+		"abr": "shoji",
+		"price": 54,
+		"category": "Misc",
+		"defname": "Erin_Shoji"
+	},
+	{
+		"abr": "simpleplasticweaver",
+		"price": 367,
+		"category": "Production",
+		"defname": "VMEu_PlasticProcessor"
+	},
+	{
+		"abr": "smallmammalmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ERN_Armadillo"
+	},
+	{
+		"abr": "snowleopard",
+		"price": 917,
+		"category": "Animals",
+		"defname": "Snow_leopard"
+	},
+	{
+		"abr": "snowleopard",
+		"price": 800,
+		"category": "Animals",
+		"defname": "HC_Snowleopard"
+	},
+	{
+		"abr": "standinglamp(rainbow)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "StandingLamp_Rainbow"
+	},
+	{
+		"abr": "strawberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Tox_RawStrawberry"
+	},
+	{
+		"abr": "syntheticmedicine",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "VMEu_SynthMedicine"
+	},
+	{
+		"abr": "synthweaver",
+		"price": 2392,
+		"category": "Production",
+		"defname": "VMEu_SynthWeaver"
+	},
+	{
+		"abr": "tatami(1x2)",
+		"price": 46,
+		"category": "Furniture",
+		"defname": "Erin_Tatami1x2c"
+	},
+	{
+		"abr": "tatami(1x3)",
+		"price": 69,
+		"category": "Furniture",
+		"defname": "Erin_Tatami1x3c"
+	},
+	{
+		"abr": "tea",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "ERN_Tea"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "ERN_TeaLeaves"
+	},
+	{
+		"abr": "teaklogs",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "Tox_TeakLog"
+	},
+	{
+		"abr": "therminamine",
+		"price": 20,
+		"category": "Chemicals",
+		"defname": "VMEu_Therminamine"
+	},
+	{
+		"abr": "tiger",
+		"price": 1167,
+		"category": "Animals",
+		"defname": "HC_Tiger"
+	},
+	{
+		"abr": "unicorn",
+		"price": 4667,
+		"category": "Animals",
+		"defname": "HC_Unicorn"
+	},
+	{
+		"abr": "unicornhorn",
+		"price": 1667,
+		"category": "Items",
+		"defname": "UnicornHorn"
+	},
+	{
+		"abr": "vashnalogs",
+		"price": 7,
+		"category": "Raw resources",
+		"defname": "Tox_VashnaLogs"
+	},
+	{
+		"abr": "walllight(rainbow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_WallLightRainbow"
+	},
+	{
+		"abr": "watermelon",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Tox_RawWatermelon"
+	},
+	{
+		"abr": "weasel",
+		"price": 333,
+		"category": "Animals",
+		"defname": "HC_Weasel"
+	},
+	{
+		"abr": "weaselmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HC_Weasel"
+	},
+	{
+		"abr": "whiteplasticbrickswall",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VMEu_Wall_BricksWhite"
+	},
+	{
+		"abr": "wildberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Tox_RawWildberry"
+	},
+	{
+		"abr": "willowlogs",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "Tox_WillowLog"
+	},
+	{
+		"abr": "woolcloth",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "WoolCloth"
+	},
+	{
+		"abr": "woolloom",
+		"price": 148,
+		"category": "Production",
+		"defname": "BenchWoolLoom"
+	},
+	{
+		"abr": "wyvern",
+		"price": 4000,
+		"category": "Animals",
+		"defname": "HC_Wyvern"
+	},
+	{
+		"abr": "wyvernegg(fert.)",
+		"price": 2167,
+		"category": "Eggs (fert.)",
+		"defname": "EggWyvern"
+	},
+	{
+		"abr": "xenotamine",
+		"price": 12,
+		"category": "Chemicals",
+		"defname": "VMEu_Xenotamine"
+	},
+	{
+		"abr": "yeti",
+		"price": 2633,
+		"category": "Animals",
+		"defname": "HC_Yeti"
+	},
+	{
+		"abr": "zabuton",
+		"price": 120,
+		"category": "Furniture",
+		"defname": "Erin_Zabuton"
+	},
 	],
-	"total": 2473
+	"total": 2525
 }

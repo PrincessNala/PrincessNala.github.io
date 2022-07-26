@@ -11105,6 +11105,194 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy needs a really impressive bedroom. this pawn gets a mood loss if this pawn doesn't get what this pawn wants.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ascetic",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ascetic",
+          "jealous"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Greedy",
+      "name": "greedy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. this pawn gets a mood loss if any colonist has a more impressive bedroom. At least this pawn isn't as affected by prisoners or colonists dying and this pawn doesn't mind wearing a dead person's clothing.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [
+        "ascetic",
+        "greedy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ascetic",
+          "greedy"
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ]
+      },
+      "defName": "Jealous",
+      "name": "jealous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has no sexual attraction to anyone at all.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Asexual",
+      "name": "asexual",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an intense fascination with chemical sources of enjoyment. this pawn will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. this pawn will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "chemicalfascination",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. this pawn will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. this pawn will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "chemicalinterest",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. this pawn is a hard working individual.",
+      "stats": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "+20% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "+20% global work speed"
+        ]
+      },
+      "defName": "DrugDesire",
+      "name": "teetotaler",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
     }
   ],
   "races": [
