@@ -12,20 +12,8 @@
     "version": null
   },
   {
-    "author": "Wild",
-    "name": "Addictol - Addiction Removal",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Alias",
     "name": "De-generalize Work",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Seioch and  MaroonToon",
-    "name": "Kurin HAR Edition",
     "steamId": null,
     "version": null
   },
@@ -366,6 +354,12 @@
     "version": null
   },
   {
+    "author": "Seioch and  MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Xenofell",
     "name": "Ladies Can Flirt Too!",
     "steamId": null,
@@ -476,12 +470,6 @@
   {
     "author": "Evil Tactician",
     "name": "Practical Pemmican",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "neitsa",
-    "name": "Prepare Landing",
     "steamId": null,
     "version": null
   },
@@ -708,12 +696,6 @@
     "version": null
   },
   {
-    "author": "SirRandoo, Hodlhodl and Saschahi",
-    "name": "ToolkitExt",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Isuzuki",
     "name": "Traits Excel",
     "steamId": null,
@@ -752,12 +734,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Vanilla Expanded Extra Embrasures",
     "steamId": null,
     "version": null
   },

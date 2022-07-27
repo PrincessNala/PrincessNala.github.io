@@ -827,7 +827,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. this pawn will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. this pawn will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -11293,6 +11293,76 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
+    },
+    {
+      "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nthis pawn will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Babies and Children [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "cannibal"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Innocent",
+      "name": "innocence",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy awakened with a new type. this pawn is amazing at dodging, and get +5 points for melee and shooting. ",
+      "stats": [
+        "+5 melee",
+        "+5 shooting",
+        "+25.0 melee dodge chance",
+        "x20% trap spring chance"
+      ],
+      "conflicts": [
+        "nimble"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Babies and Children [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "nimble"
+        ],
+        "stats": [
+          "+5 melee",
+          "+5 shooting",
+          "+25.0 melee dodge chance",
+          "x20% trap spring chance"
+        ]
+      },
+      "defName": "Newtype",
+      "name": "newtype",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -11325,7 +11395,7 @@
           "+30% Flammability",
           "+$3500 Market value",
           "+5.00 Move speed",
-          "+40% Mental break threshold",
+          "+37% Mental break threshold",
           "+75.6F Maximum comfortable temperature",
           "+18.0F Minimum comfortable temperature",
           "+110% Immunity gain speed",
