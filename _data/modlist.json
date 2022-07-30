@@ -18,24 +18,6 @@
     "version": null
   },
   {
-    "author": "Argón",
-    "name": "Expanded Materials - Metals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Argón",
-    "name": "Expanded Materials - Plastics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Permanoob",
-    "name": "Ammo Scrapping (CE)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Suno and Neceros",
     "name": "Animal Medical Bed",
     "steamId": null,
@@ -86,36 +68,6 @@
   {
     "author": "Aelanna",
     "name": "Cleaning Speed",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Armors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lperkins2",
-    "name": "Combat Extended Fixes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Melee",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Combat Extended: Shields",
     "steamId": null,
     "version": null
   },
@@ -224,6 +176,18 @@
   {
     "author": "Erin",
     "name": "Erin's Wildlife",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Metals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Plastics",
     "steamId": null,
     "version": null
   },
@@ -462,6 +426,12 @@
     "version": null
   },
   {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zayl",
     "name": "NakinRace",
     "steamId": null,
@@ -510,44 +480,8 @@
     "version": null
   },
   {
-    "author": "lord_bosco",
-    "name": "Pistolero: .22 LR (CE Only)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lord_bosco",
-    "name": "Pistolero: .25 ACP (CE Only)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lord_bosco",
-    "name": "Pistolero: .32 ACP (CE Only)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lord_bosco",
-    "name": "Pistolero: .357 Magnum and .38 Special (CE Only)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lord_bosco",
-    "name": "Pistolero: .41 Rimfire (CE Only)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Anne",
     "name": "PokeRim",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Palos",
-    "name": "PokeWorldCE Patch",
     "steamId": null,
     "version": null
   },
@@ -566,6 +500,42 @@
   {
     "author": "萌王喵酱",
     "name": "Princess Connect! Re:Dive BGM Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "Project Itzal - Charge Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "Project Itzal - Community Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "Project Itzal - Main Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "Project Itzal - Bonus Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "Project Itzal - Even More Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "Project Itzal - Extra Guns",
     "steamId": null,
     "version": null
   },
@@ -750,12 +720,6 @@
     "version": null
   },
   {
-    "author": "Tyler Bigg",
-    "name": "Valkyria Rimworld - CE Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -776,30 +740,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Gun Nut - CORE",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Gun Nut - Chapter #1",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Gun Nut - Chapter #2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Harkon",
-    "name": "[HRK] Gun Nut - Community Pack",
     "steamId": null,
     "version": null
   },
