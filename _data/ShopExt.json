@@ -11387,6 +11387,134 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2
+    },
+    {
+      "description": "Timmy doesn't take \"No\" as an answer.",
+      "stats": [
+        "+10.00% handholding drive"
+      ],
+      "conflicts": [
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "kind"
+        ],
+        "stats": [
+          "+10.00% handholding drive"
+        ]
+      },
+      "defName": "Rapist",
+      "name": "aggressivehandholder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Prefers handholding with dead people.",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "+10.00% handholding drive"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "+10.00% handholding drive"
+        ]
+      },
+      "defName": "Necrophiliac",
+      "name": "necrophiliac",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy likes to walk on the wild side.",
+      "stats": [
+        "+10.00% handholding drive"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10.00% handholding drive"
+        ]
+      },
+      "defName": "Zoophile",
+      "name": "zoophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves handholding and always wants more. Can regain psyfocus only through handholding.",
+      "stats": [
+        "Handholding meditation focus type allowed.",
+        "+10.00% vulnerability",
+        "+200.00% handholding drive"
+      ],
+      "conflicts": [
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "SafeJobWorld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [
+          "Handholding meditation focus type allowed.",
+          "+10.00% vulnerability",
+          "+200.00% handholding drive"
+        ]
+      },
+      "defName": "Nymphomaniac",
+      "name": "hyperhandholder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
