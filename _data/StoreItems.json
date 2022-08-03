@@ -69,43 +69,43 @@
 	{
 		"abr": "archotecheye",
 		"price": 4667,
-		"category": "Advanced bionics",
+		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotecharm",
 		"price": 4667,
-		"category": "Advanced bionics",
+		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotechleg",
 		"price": 4667,
-		"category": "Advanced bionics",
+		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "bioniceye",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicarm",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicleg",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
 		"price": 1717,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
 	{
@@ -117,7 +117,7 @@
 	{
 		"abr": "bionicear",
 		"price": 1308,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
@@ -147,19 +147,19 @@
 	{
 		"abr": "prostheticleg",
 		"price": 433,
-		"category": "Simple prostheses",
+		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
 		"abr": "prostheticarm",
 		"price": 433,
-		"category": "Simple prostheses",
+		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "cochlearimplant",
 		"price": 367,
-		"category": "Simple prostheses",
+		"category": "Prosthetic",
 		"defname": "CochlearImplant"
 	},
 	{
@@ -3063,19 +3063,19 @@
 	{
 		"abr": "bionicfoot",
 		"price": 983,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicFoot"
 	},
 	{
 		"abr": "bionichand",
 		"price": 983,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "bionicjaw",
 		"price": 908,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "BionicJaw"
 	},
 	{
@@ -3099,13 +3099,13 @@
 	{
 		"abr": "simpleprostheticfoot",
 		"price": 475,
-		"category": "Simple prostheses",
+		"category": "Prosthetic",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
 		"abr": "simpleprosthetichand",
 		"price": 475,
-		"category": "Simple prostheses",
+		"category": "Prosthetic",
 		"defname": "SimpleProstheticHand"
 	},
 	{
@@ -5253,7 +5253,7 @@
 	{
 		"abr": "advancedpowerarm",
 		"price": 10000,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedPowerArm"
 	},
 	{
@@ -5331,7 +5331,7 @@
 	{
 		"abr": "powerarm",
 		"price": 3333,
-		"category": "Bionics",
+		"category": "Bionic",
 		"defname": "PowerArm"
 	},
 	{
@@ -5840,7 +5840,7 @@
 	},
 	{
 		"abr": "attomachinery",
-		"price": -10,
+		"price": 500,
 		"category": "Textiles",
 		"defname": "Attomachinery"
 	},
@@ -6662,7 +6662,7 @@
 	},
 	{
 		"abr": "nanomachinery",
-		"price": -10,
+		"price": 167,
 		"category": "Textiles",
 		"defname": "Nanomachinery"
 	},
@@ -6746,7 +6746,7 @@
 	},
 	{
 		"abr": "picomachinery",
-		"price": -10,
+		"price": 333,
 		"category": "Textiles",
 		"defname": "Picomachinery"
 	},
@@ -7485,43 +7485,43 @@
 	{
 		"abr": "advancedbionicarm",
 		"price": 2542,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "advancedbionicear",
 		"price": 1800,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicEar"
 	},
 	{
 		"abr": "advancedbioniceye",
 		"price": 2542,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicEye"
 	},
 	{
 		"abr": "advancedbionicfoot",
 		"price": 1800,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicFoot"
 	},
 	{
 		"abr": "advancedbionichand",
 		"price": 1800,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicHand"
 	},
 	{
 		"abr": "advancedbionicleg",
 		"price": 2542,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "advancedbionicspine",
 		"price": 2542,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicSpine"
 	},
 	{
@@ -7646,7 +7646,7 @@
 	},
 	{
 		"abr": "ancientmachine",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AncientMachine"
 	},
@@ -7785,7 +7785,7 @@
 	{
 		"abr": "artificialnose",
 		"price": 153,
-		"category": "Simple prostheses",
+		"category": "Prosthetic",
 		"defname": "ArtificialNose"
 	},
 	{
@@ -8019,7 +8019,7 @@
 	{
 		"abr": "exoskeletonsuit",
 		"price": 4067,
-		"category": "Advanced bionics",
+		"category": "Ultratech",
 		"defname": "ExoskeletonSuit"
 	},
 	{
@@ -8665,12 +8665,6 @@
 		"defname": "Kenshi_CombatCleaver"
 	},
 	{
-		"abr": "cortexaugmentor",
-		"price": 7500,
-		"category": "Brain implants",
-		"defname": "Cortexaugmentor"
-	},
-	{
 		"abr": "crabarmor",
 		"price": 950,
 		"category": "Armor",
@@ -8721,14 +8715,8 @@
 	{
 		"abr": "advancedbioniccuteboldtail",
 		"price": 3575,
-		"category": "Bionic",
+		"category": "Ultratech",
 		"defname": "AdvancedBionicCuteboldTail"
-	},
-	{
-		"abr": "advancedmedicalstation",
-		"price": 2367,
-		"category": "Production",
-		"defname": "AdvancedMedicalStation"
 	},
 	{
 		"abr": "archotechcuteboldtail",
@@ -8753,12 +8741,6 @@
 		"price": 333,
 		"category": "Animals",
 		"defname": "Animal_Desiri"
-	},
-	{
-		"abr": "artificialbone",
-		"price": 333,
-		"category": "Simple prostheses",
-		"defname": "ArtificialBone"
 	},
 	{
 		"abr": "artificialreinforceclaw",
@@ -8819,18 +8801,6 @@
 		"price": 2500,
 		"category": "Bionic",
 		"defname": "OBionicTail"
-	},
-	{
-		"abr": "bionictongue",
-		"price": 633,
-		"category": "Bionics",
-		"defname": "BionicTongue"
-	},
-	{
-		"abr": "bionicworkbench",
-		"price": 1667,
-		"category": "Production",
-		"defname": "BionicWorkbench"
 	},
 	{
 		"abr": "bitingclub",
@@ -9061,12 +9031,6 @@
 		"defname": "Kenshi_HolyChestPlate"
 	},
 	{
-		"abr": "hyporegulator",
-		"price": 7500,
-		"category": "Brain implants",
-		"defname": "Hyporegulator"
-	},
-	{
 		"abr": "ironhat",
 		"price": 199,
 		"category": "Headgear",
@@ -9251,12 +9215,6 @@
 		"price": 5,
 		"category": "Raw resources",
 		"defname": "NeoConcreteMix"
-	},
-	{
-		"abr": "neurostimulator",
-		"price": 7500,
-		"category": "Brain implants",
-		"defname": "Neurostimulator"
 	},
 	{
 		"abr": "ninjamask",
@@ -9625,27 +9583,21 @@
 		"defname": "Apparel_JumpPackWithShield"
 	},
 	{
-		"abr": "syntheticheart",
-		"price": 2042,
-		"category": "Synthetic organs",
-		"defname": "SyntheticHeart"
-	},
-	{
 		"abr": "synthetickidney",
 		"price": 2042,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticKidney"
 	},
 	{
 		"abr": "syntheticliver",
 		"price": 2042,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "syntheticlung",
 		"price": 2042,
-		"category": "Synthetic organs",
+		"category": "Bionic",
 		"defname": "SyntheticLung"
 	},
 	{
@@ -9731,12 +9683,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_SyntheticSquirrel"
-	},
-	{
-		"abr": "syntheticstomach",
-		"price": 1858,
-		"category": "Synthetic organs",
-		"defname": "SyntheticStomach"
 	},
 	{
 		"abr": "syntheticturkey",
@@ -17952,6 +17898,1800 @@
 		"category": "Animals",
 		"defname": "PW_Zubat"
 	},
+	{
+		"abr": "anus",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Anus"
+	},
+	{
+		"abr": "aphrodisiacdrug",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "Aphrodisiac"
+	},
+	{
+		"abr": "archotechanus",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechAnus"
+	},
+	{
+		"abr": "archotechbreasts",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechBreasts"
+	},
+	{
+		"abr": "archotechpenis",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechPenis"
+	},
+	{
+		"abr": "archotechvagina",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechVagina"
+	},
+	{
+		"abr": "bionicanus",
+		"price": 2167,
+		"category": "Bionic",
+		"defname": "BionicAnus"
+	},
+	{
+		"abr": "bionicbreasts",
+		"price": 2167,
+		"category": "Bionic",
+		"defname": "BionicBreasts"
+	},
+	{
+		"abr": "bionicpenis",
+		"price": 1500,
+		"category": "Bionic",
+		"defname": "BionicPenis"
+	},
+	{
+		"abr": "bionicvagina",
+		"price": 2167,
+		"category": "Bionic",
+		"defname": "BionicVagina"
+	},
+	{
+		"abr": "breasts",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Breasts"
+	},
+	{
+		"abr": "caninepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DogPenis"
+	},
+	{
+		"abr": "caninevagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DogVagina"
+	},
+	{
+		"abr": "chains",
+		"price": 500,
+		"category": "Bondage gear",
+		"defname": "PrisonerChains"
+	},
+	{
+		"abr": "cloacalanus",
+		"price": 167,
+		"category": "Natural",
+		"defname": "CloacalAnus"
+	},
+	{
+		"abr": "cloacalpenis",
+		"price": 167,
+		"category": "Natural",
+		"defname": "CloacalPenis"
+	},
+	{
+		"abr": "cloacalvagina",
+		"price": 167,
+		"category": "Natural",
+		"defname": "CloacalVagina"
+	},
+	{
+		"abr": "condom",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "Condom"
+	},
+	{
+		"abr": "contraceptionpills",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "RJW_Contraceptive"
+	},
+	{
+		"abr": "crocodilianpenis",
+		"price": -10,
+		"category": "Natural",
+		"defname": "CrocodilianPenis"
+	},
+	{
+		"abr": "demonanus",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonAnus"
+	},
+	{
+		"abr": "demonpenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonPenis"
+	},
+	{
+		"abr": "demontentacles",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonTentaclePenis"
+	},
+	{
+		"abr": "demonvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DemonVagina"
+	},
+	{
+		"abr": "dragonpenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DragonPenis"
+	},
+	{
+		"abr": "dragonvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "DragonVagina"
+	},
+	{
+		"abr": "egg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "RJW_EggFertilized"
+	},
+	{
+		"abr": "egg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "RJW_EggInsectFertilized"
+	},
+	{
+		"abr": "egg(unfert.)",
+		"price": 2,
+		"category": "Eggs (unfert.)",
+		"defname": "RJW_EggUnfertilized"
+	},
+	{
+		"abr": "egg(unfert.)",
+		"price": 2,
+		"category": "Eggs (unfert.)",
+		"defname": "RJW_EggInsectUnfertilized"
+	},
+	{
+		"abr": "equinepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "HorsePenis"
+	},
+	{
+		"abr": "equinevagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "HorseVagina"
+	},
+	{
+		"abr": "featurelesschest",
+		"price": 167,
+		"category": "Natural",
+		"defname": "FeaturelessChest"
+	},
+	{
+		"abr": "felinepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "CatPenis"
+	},
+	{
+		"abr": "felinevagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "CatVagina"
+	},
+	{
+		"abr": "hemipenis",
+		"price": 500,
+		"category": "Natural",
+		"defname": "HemiPenis"
+	},
+	{
+		"abr": "holokey",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "Holokey"
+	},
+	{
+		"abr": "hololock",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "Hololock"
+	},
+	{
+		"abr": "humpshroom",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "HumpShroom"
+	},
+	{
+		"abr": "hydraulicanus",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicAnus"
+	},
+	{
+		"abr": "hydraulicbreasts",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicBreasts"
+	},
+	{
+		"abr": "hydraulicpenis",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicPenis"
+	},
+	{
+		"abr": "hydraulicvagina",
+		"price": 167,
+		"category": "Prosthetic",
+		"defname": "HydraulicVagina"
+	},
+	{
+		"abr": "hyperfertilitypills",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "RJW_FertPill"
+	},
+	{
+		"abr": "insectanus",
+		"price": 83,
+		"category": "Natural",
+		"defname": "InsectAnus"
+	},
+	{
+		"abr": "narrowvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "NarrowVagina"
+	},
+	{
+		"abr": "needle-likepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "NeedlePenis"
+	},
+	{
+		"abr": "ovipositor(female)",
+		"price": 83,
+		"category": "Natural",
+		"defname": "OvipositorF"
+	},
+	{
+		"abr": "ovipositor(male)",
+		"price": 58,
+		"category": "Natural",
+		"defname": "OvipositorM"
+	},
+	{
+		"abr": "pegdick",
+		"price": 8,
+		"category": "Simple parts",
+		"defname": "PegDick"
+	},
+	{
+		"abr": "penis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Penis"
+	},
+	{
+		"abr": "procyoninepenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "RaccoonPenis"
+	},
+	{
+		"abr": "rodentpenis",
+		"price": 417,
+		"category": "Natural",
+		"defname": "RodentPenis"
+	},
+	{
+		"abr": "rodentvagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "RodentVagina"
+	},
+	{
+		"abr": "slimeglob",
+		"price": 2,
+		"category": "Items",
+		"defname": "SlimeGlob"
+	},
+	{
+		"abr": "udder",
+		"price": 167,
+		"category": "Natural",
+		"defname": "UdderBreasts"
+	},
+	{
+		"abr": "usedcondom",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "UsedCondom"
+	},
+	{
+		"abr": "vagina",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Vagina"
+	},
+	{
+		"abr": ".50calibermg",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "Itzal_FiveOMG"
+	},
+	{
+		"abr": "20mm",
+		"price": 1400,
+		"category": "Ranged weapons",
+		"defname": "Itzal_20MM"
+	},
+	{
+		"abr": "aacannon",
+		"price": 8342,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AACannon"
+	},
+	{
+		"abr": "aalmg",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AAMG"
+	},
+	{
+		"abr": "aegissmg",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AegisSMG"
+	},
+	{
+		"abr": "aircrewrevolver",
+		"price": 93,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AircrewRevolver"
+	},
+	{
+		"abr": "alternativebolt-actionrifle",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AltBoltActionRifle"
+	},
+	{
+		"abr": "apassaultrifle",
+		"price": 958,
+		"category": "Ranged weapons",
+		"defname": "Itzal_APARifle"
+	},
+	{
+		"abr": "appistol",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Itzal_APPistol"
+	},
+	{
+		"abr": "apsniper",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "Itzal_APSniper"
+	},
+	{
+		"abr": "areocarbine",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AreoCarbine"
+	},
+	{
+		"abr": "areorifle",
+		"price": 533,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AreoRifle"
+	},
+	{
+		"abr": "artillerymachinepistol",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ArtilleryMP"
+	},
+	{
+		"abr": "ascendedpistol",
+		"price": 3967,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AscendedPistol"
+	},
+	{
+		"abr": "ascendedrifle",
+		"price": 11350,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AscendedRifle"
+	},
+	{
+		"abr": "assaultauto-shotgun",
+		"price": 825,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AAShotgun"
+	},
+	{
+		"abr": "assaultsmg",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AssaultSMG"
+	},
+	{
+		"abr": "atcannon",
+		"price": 8108,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ATCannon"
+	},
+	{
+		"abr": "augerrifle",
+		"price": 2633,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PodGun"
+	},
+	{
+		"abr": "autorevolver",
+		"price": 450,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AutoRevolver"
+	},
+	{
+		"abr": "automaticchargelance",
+		"price": 5700,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AutoChargeLance"
+	},
+	{
+		"abr": "automaticmilitarypistol",
+		"price": 525,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AutoMilitaryPistol"
+	},
+	{
+		"abr": "auto-targetpistol",
+		"price": 2200,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ATPistol"
+	},
+	{
+		"abr": "avalancherifle",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AvalancheRifle"
+	},
+	{
+		"abr": "ballisticknife",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BKnife"
+	},
+	{
+		"abr": "beowulfassaultrifle",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Beowulf"
+	},
+	{
+		"abr": "bfg",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BFG"
+	},
+	{
+		"abr": "billowassaultrifle",
+		"price": 1050,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BillowAR"
+	},
+	{
+		"abr": "boomstick",
+		"price": 293,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Boomstick"
+	},
+	{
+		"abr": "bracedmachinepistol",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BracedMachinePistol"
+	},
+	{
+		"abr": "breachingshotgun",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BreachShotgun"
+	},
+	{
+		"abr": "bullpupchargerifle",
+		"price": 2267,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeBullpup"
+	},
+	{
+		"abr": "bullpuplmg",
+		"price": 767,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BullpupLMG"
+	},
+	{
+		"abr": "bullpupshotgun",
+		"price": 458,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BullpupSG"
+	},
+	{
+		"abr": "bullpupsniperrifle",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BPSniper"
+	},
+	{
+		"abr": "burstchargepistol",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeBPistol"
+	},
+	{
+		"abr": "burstgrenadeluncher",
+		"price": 2767,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BurstGrenadeLauncher"
+	},
+	{
+		"abr": "burstpistol",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BPistol"
+	},
+	{
+		"abr": "burstrifle",
+		"price": 825,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BurstRifle"
+	},
+	{
+		"abr": "burstsmg",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BurstSMG"
+	},
+	{
+		"abr": "bustershotgun",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "Itzal_BusterShotgun"
+	},
+	{
+		"abr": "carbonmachinepistol",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CarbonMP"
+	},
+	{
+		"abr": "caselesscarbine",
+		"price": 1117,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CCarbine"
+	},
+	{
+		"abr": "caselesscombatrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CCRifle"
+	},
+	{
+		"abr": "chaingun",
+		"price": 1808,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Chaingun"
+	},
+	{
+		"abr": "chargechainshotgun",
+		"price": 2383,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeChainShotgun"
+	},
+	{
+		"abr": "chargeconcealedcarry",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeCC"
+	},
+	{
+		"abr": "chargedmr",
+		"price": 2158,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeDMR"
+	},
+	{
+		"abr": "chargedouble-barreledshotgun",
+		"price": 2017,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeDB"
+	},
+	{
+		"abr": "chargehuntingrifle",
+		"price": 2558,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeHR"
+	},
+	{
+		"abr": "chargepathfinderrifle",
+		"price": 1583,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargePFRifle"
+	},
+	{
+		"abr": "chargesalvolauncher",
+		"price": 2475,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeSLauncher"
+	},
+	{
+		"abr": "cheappistol",
+		"price": 143,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CheapPistol"
+	},
+	{
+		"abr": "civillanpistol",
+		"price": 182,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CivPistol"
+	},
+	{
+		"abr": "compactpistol",
+		"price": 269,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CompactPistol"
+	},
+	{
+		"abr": "concussionrifle",
+		"price": 2633,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeConcRifle"
+	},
+	{
+		"abr": "contingencyrifle",
+		"price": 281,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ContingencyRifle"
+	},
+	{
+		"abr": "convertedassaultrifle",
+		"price": 933,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AssaultRifleB"
+	},
+	{
+		"abr": "convertedskirmishrifle",
+		"price": 1033,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SkirmishRTWO"
+	},
+	{
+		"abr": "covertassaultrifle",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CovertAR"
+	},
+	{
+		"abr": "covertpistol",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CovertPistol"
+	},
+	{
+		"abr": "covertsmg",
+		"price": 1267,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CovertSMG"
+	},
+	{
+		"abr": "covertsniperrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CovertSniper"
+	},
+	{
+		"abr": "cyclepistol",
+		"price": 2408,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeCPistol"
+	},
+	{
+		"abr": "cyrorifle",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "Itzal_CyroRifle"
+	},
+	{
+		"abr": "defensesmg",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "Itzal_DefenseSMG"
+	},
+	{
+		"abr": "defensivelmg",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Itzal_DMG"
+	},
+	{
+		"abr": "double-barreledrifle",
+		"price": 525,
+		"category": "Ranged weapons",
+		"defname": "Itzal_DBR"
+	},
+	{
+		"abr": "dualscoutrifle",
+		"price": 1625,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ScoutRifleXTWO"
+	},
+	{
+		"abr": "eliterifle",
+		"price": 1908,
+		"category": "Ranged weapons",
+		"defname": "Itzal_EliteRifle"
+	},
+	{
+		"abr": "emergencysmg",
+		"price": 214,
+		"category": "Ranged weapons",
+		"defname": "Itzal_EmergencySMG"
+	},
+	{
+		"abr": "emplauncher",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "Gun_EmpLauncher"
+	},
+	{
+		"abr": "evokerpistol",
+		"price": 216,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Evoker"
+	},
+	{
+		"abr": "exoticassaultrifle",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ExoticAssaultRifle"
+	},
+	{
+		"abr": "frontlineassaultrifle",
+		"price": 1750,
+		"category": "Ranged weapons",
+		"defname": "Itzal_AssaultRifle"
+	},
+	{
+		"abr": "gatlinggun",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Gatling"
+	},
+	{
+		"abr": "glitterworldsportingbow",
+		"price": 3008,
+		"category": "Ranged weapons",
+		"defname": "Itzal_GWSBow"
+	},
+	{
+		"abr": "gunspear",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "Itzal_GunSpear"
+	},
+	{
+		"abr": "harpoongun",
+		"price": 325,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Harpoon"
+	},
+	{
+		"abr": "heavycarbine",
+		"price": 725,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HCarbine"
+	},
+	{
+		"abr": "heavychargepistol",
+		"price": 1800,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ChargeHPistol"
+	},
+	{
+		"abr": "heavychargerifle",
+		"price": 2383,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HChargeRifle"
+	},
+	{
+		"abr": "heavymachinepistol",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HeavyMachinePistol"
+	},
+	{
+		"abr": "heavyminigun",
+		"price": 2450,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HeavyMinigun"
+	},
+	{
+		"abr": "highcapacityrevolver",
+		"price": 322,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HiRevolver"
+	},
+	{
+		"abr": "high-calibermachinegun",
+		"price": 1233,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HCMG"
+	},
+	{
+		"abr": "high-caliberpistol",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HCPistol"
+	},
+	{
+		"abr": "high-capacitychargesmg",
+		"price": 2117,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HCSMG"
+	},
+	{
+		"abr": "huntingbow",
+		"price": 492,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HBow"
+	},
+	{
+		"abr": "hyper-milerifle",
+		"price": 1517,
+		"category": "Ranged weapons",
+		"defname": "Itzal_HMRifle"
+	},
+	{
+		"abr": "insectoidassaultrifle",
+		"price": 1392,
+		"category": "Ranged weapons",
+		"defname": "Itzal_InsectoidAR"
+	},
+	{
+		"abr": "interceptionassaultrifle",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "Itzal_InterceptionRifle"
+	},
+	{
+		"abr": "jezail",
+		"price": 692,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Jezail"
+	},
+	{
+		"abr": "jungleauto-sniper",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "Itzal_JungleAS"
+	},
+	{
+		"abr": "kugelblitzlauncher",
+		"price": 2117,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Kugelblitz"
+	},
+	{
+		"abr": "largesemi-automaticrifle",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Itzal_LSARifle"
+	},
+	{
+		"abr": "lightrevolver",
+		"price": 223,
+		"category": "Ranged weapons",
+		"defname": "Itzal_LRevolver"
+	},
+	{
+		"abr": "longrevolver",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "Itzal_LongRevolver"
+	},
+	{
+		"abr": "long-barreledpistol",
+		"price": 319,
+		"category": "Ranged weapons",
+		"defname": "Itzal_LBpistol"
+	},
+	{
+		"abr": "magazinefedgrenadelauncher",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MFGL"
+	},
+	{
+		"abr": "magneticrifle",
+		"price": 2092,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MagRifle"
+	},
+	{
+		"abr": "magneticsmg",
+		"price": 1475,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MagSMG"
+	},
+	{
+		"abr": "magneticsniperrifle",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MagSniper"
+	},
+	{
+		"abr": "makeshiftchargerifle",
+		"price": 1125,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MakeshiftChargeRifle"
+	},
+	{
+		"abr": "makeshiftshotgun",
+		"price": 198,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MakeshiftSG"
+	},
+	{
+		"abr": "massdriver",
+		"price": 2358,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MassDriver"
+	},
+	{
+		"abr": "matchrifle",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MatchRifle"
+	},
+	{
+		"abr": "menacingrevolver",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Menacing_Revolver"
+	},
+	{
+		"abr": "militarypistol",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MilitaryPistol"
+	},
+	{
+		"abr": "militarytommygun",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MilitaryTG"
+	},
+	{
+		"abr": "millitarifle",
+		"price": 1142,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MillitaRifle"
+	},
+	{
+		"abr": "mmg",
+		"price": 942,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MMG"
+	},
+	{
+		"abr": "mobilemachinegun",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "Itzal_MobileMG"
+	},
+	{
+		"abr": "modifiedassaultrifle",
+		"price": 1367,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ConvCAR"
+	},
+	{
+		"abr": "napalmshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Napalm"
+	},
+	{
+		"abr": "needlerifle",
+		"price": 325,
+		"category": "Ranged weapons",
+		"defname": "Itzal_NeeldeRifle"
+	},
+	{
+		"abr": "open-boltmachinepistol",
+		"price": 315,
+		"category": "Ranged weapons",
+		"defname": "Itzal_OBMachinePistol"
+	},
+	{
+		"abr": "paratrooperrifle",
+		"price": 933,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PTRifle"
+	},
+	{
+		"abr": "particlepistol",
+		"price": 3300,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ParticlePistol"
+	},
+	{
+		"abr": "particlerifle",
+		"price": 4283,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ParticleRifle"
+	},
+	{
+		"abr": "pathfidershotgun",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PathShotgun"
+	},
+	{
+		"abr": "pathfinderrifle",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PFRifle"
+	},
+	{
+		"abr": "pdw",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PDW"
+	},
+	{
+		"abr": "pistolcarbine",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PCarbine"
+	},
+	{
+		"abr": "pistollmg",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PistolLMG"
+	},
+	{
+		"abr": "pocketpistol",
+		"price": 91,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PocketPistol"
+	},
+	{
+		"abr": "policecarbine",
+		"price": 742,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PoliceCarbine"
+	},
+	{
+		"abr": "policepistol",
+		"price": 272,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PolicePistol"
+	},
+	{
+		"abr": "portassaultrifle",
+		"price": 575,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PortRifle"
+	},
+	{
+		"abr": "prototypeassaultrifle",
+		"price": 2075,
+		"category": "Ranged weapons",
+		"defname": "Itzal_PrototypeAssaultRifle"
+	},
+	{
+		"abr": "quickchargerifle",
+		"price": 1792,
+		"category": "Ranged weapons",
+		"defname": "Itzal_QCRifle"
+	},
+	{
+		"abr": "rafficapistol",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Raffica"
+	},
+	{
+		"abr": "rafficarifle",
+		"price": 825,
+		"category": "Ranged weapons",
+		"defname": "Itzal_RafficaRifle"
+	},
+	{
+		"abr": "raifu",
+		"price": 1267,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Raifu"
+	},
+	{
+		"abr": "rebelcarbine",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "Itzal_RebelCarbine"
+	},
+	{
+		"abr": "rebelsmg",
+		"price": 268,
+		"category": "Ranged weapons",
+		"defname": "Itzal_RebelSMG"
+	},
+	{
+		"abr": "reloadablerocketlauncher",
+		"price": 1317,
+		"category": "Ranged weapons",
+		"defname": "Itzal_RRL"
+	},
+	{
+		"abr": "revolvercarbine",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Itzal_RevolverC"
+	},
+	{
+		"abr": "rocketpistol",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Itzal_RocketPistol"
+	},
+	{
+		"abr": "salvolauncher",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SalvoLauncher"
+	},
+	{
+		"abr": "salvoshotgun",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SalvoShotgun"
+	},
+	{
+		"abr": "scopedrevolver",
+		"price": 350,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ScopedRevolver"
+	},
+	{
+		"abr": "scoutrifle",
+		"price": 725,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ScoutRifle"
+	},
+	{
+		"abr": "scoutshotgun",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ScoutShotgun"
+	},
+	{
+		"abr": "semi-autocombatshotgun",
+		"price": 542,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SemiCombatShotgun"
+	},
+	{
+		"abr": "side-fedassaultrifle",
+		"price": 825,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SFARifle"
+	},
+	{
+		"abr": "singleshotgrenadelauncher",
+		"price": 717,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SSGL"
+	},
+	{
+		"abr": "skirmishrifle",
+		"price": 875,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SkirmishR"
+	},
+	{
+		"abr": "smokelauncher",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmokeLauncher"
+	},
+	{
+		"abr": "solrifle",
+		"price": 5308,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SolRifle"
+	},
+	{
+		"abr": "sportingrifle",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SportingRifle"
+	},
+	{
+		"abr": "stalkercarbine",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Itzal_StalkerCarbine"
+	},
+	{
+		"abr": "stalwartmachinepistol",
+		"price": 475,
+		"category": "Ranged weapons",
+		"defname": "Itzal_StalwartMP"
+	},
+	{
+		"abr": "stalwartrifle",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "Itzal_StalwartRifle"
+	},
+	{
+		"abr": "stormrifle",
+		"price": 1250,
+		"category": "Ranged weapons",
+		"defname": "Itzal_STrifle"
+	},
+	{
+		"abr": "straight-boltrifle",
+		"price": 525,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SBRifle"
+	},
+	{
+		"abr": "streamlinerevolver",
+		"price": 308,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SL_Revolver"
+	},
+	{
+		"abr": "strikepistol",
+		"price": 1792,
+		"category": "Ranged weapons",
+		"defname": "Itzal_StrikePistol"
+	},
+	{
+		"abr": "super-heavybattlerifle",
+		"price": 1075,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SuperHeavyBattleRifle"
+	},
+	{
+		"abr": "super-heavymg",
+		"price": 1200,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SHMG"
+	},
+	{
+		"abr": "suppressivebattlerifle",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SupBR"
+	},
+	{
+		"abr": "suppressivelmg",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SupMG"
+	},
+	{
+		"abr": "sweeperassaultrifle",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Itzal_SweeperRifle"
+	},
+	{
+		"abr": "tacticalrevolver",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Tac_Revolver"
+	},
+	{
+		"abr": "tacticalshovel",
+		"price": 1350,
+		"category": "Melee weapons",
+		"defname": "Itzal_TacShovel"
+	},
+	{
+		"abr": "tacticalsword",
+		"price": 1275,
+		"category": "Melee weapons",
+		"defname": "Itzal_TacSword"
+	},
+	{
+		"abr": "tankermachinepistol",
+		"price": 252,
+		"category": "Ranged weapons",
+		"defname": "Itzal_TankerMPistol"
+	},
+	{
+		"abr": "targetpistol",
+		"price": 323,
+		"category": "Ranged weapons",
+		"defname": "Itzal_TargetPistol"
+	},
+	{
+		"abr": "thermobariclauncher",
+		"price": 1250,
+		"category": "Ranged weapons",
+		"defname": "Itzal_TBLauncher"
+	},
+	{
+		"abr": "trenchsmg",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Itzal_TrenchSMG"
+	},
+	{
+		"abr": "tunedassaultrifle",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "Itzal_TunedRifle"
+	},
+	{
+		"abr": "twinchamberassaultrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "Itzal_TwinChamberAR"
+	},
+	{
+		"abr": "valiantrifle",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "Itzal_ValiantRifle"
+	},
+	{
+		"abr": "vectorsub-machinegun",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Vector"
+	},
+	{
+		"abr": "volleygun",
+		"price": 567,
+		"category": "Ranged weapons",
+		"defname": "Itzal_VolleyGun"
+	},
+	{
+		"abr": "wheel-lockrifle",
+		"price": 5583,
+		"category": "Ranged weapons",
+		"defname": "Itzal_Wheel-lockRifle"
+	},
+	{
+		"abr": "youthserum",
+		"price": 2333,
+		"category": "Items",
+		"defname": "SRGWF_MechSerumYouth"
+	},
+	{
+		"abr": "adrenalineribimplant",
+		"price": 908,
+		"category": "Bionic",
+		"defname": "AdrenalineRib"
+	},
+	{
+		"abr": "advancedbionicfinger",
+		"price": 492,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicFinger"
+	},
+	{
+		"abr": "advancedbionicjaw",
+		"price": 2675,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicJaw"
+	},
+	{
+		"abr": "advancedbionictoe",
+		"price": 492,
+		"category": "Ultratech",
+		"defname": "AdvancedBionicToe"
+	},
+	{
+		"abr": "aichip",
+		"price": 1750,
+		"category": "Bionic",
+		"defname": "AIChip"
+	},
+	{
+		"abr": "arm",
+		"price": 1250,
+		"category": "Natural",
+		"defname": "Arm"
+	},
+	{
+		"abr": "auxiliaryai(agricultural)",
+		"price": 3583,
+		"category": "Ultratech",
+		"defname": "FarmerCore"
+	},
+	{
+		"abr": "auxiliaryai(brawler)",
+		"price": 4967,
+		"category": "Ultratech",
+		"defname": "EPIA_AuxiliaryAI_Brawler"
+	},
+	{
+		"abr": "auxiliaryai(commando)",
+		"price": 4967,
+		"category": "Ultratech",
+		"defname": "EPIA_AuxiliaryAI_Commando"
+	},
+	{
+		"abr": "auxiliaryai(constructing)",
+		"price": 3583,
+		"category": "Ultratech",
+		"defname": "ConstructorCore"
+	},
+	{
+		"abr": "auxiliaryai(diplomatic)",
+		"price": 3583,
+		"category": "Ultratech",
+		"defname": "DiplomatCore"
+	},
+	{
+		"abr": "auxiliaryai(medical)",
+		"price": 3583,
+		"category": "Ultratech",
+		"defname": "DoctorCore"
+	},
+	{
+		"abr": "auxiliaryai(mining)",
+		"price": 3583,
+		"category": "Ultratech",
+		"defname": "MinerCore"
+	},
+	{
+		"abr": "auxiliaryai(sharpshooter)",
+		"price": 4967,
+		"category": "Ultratech",
+		"defname": "EPIA_AuxiliaryAI_Sharpshooter"
+	},
+	{
+		"abr": "bionicfinger",
+		"price": 400,
+		"category": "Bionic",
+		"defname": "BionicFinger"
+	},
+	{
+		"abr": "bionictoe",
+		"price": 400,
+		"category": "Bionic",
+		"defname": "BionicToe"
+	},
+	{
+		"abr": "bionicsworkbench",
+		"price": 1633,
+		"category": "Production",
+		"defname": "TableBionics"
+	},
+	{
+		"abr": "blankribreplacement",
+		"price": 650,
+		"category": "Bionic",
+		"defname": "SimpleRib"
+	},
+	{
+		"abr": "brainstimulator",
+		"price": 467,
+		"category": "Prosthetic",
+		"defname": "BrainStimulator"
+	},
+	{
+		"abr": "coagulatorribimplant",
+		"price": 1150,
+		"category": "Bionic",
+		"defname": "CoagulatorRib"
+	},
+	{
+		"abr": "coolingribimplant",
+		"price": 742,
+		"category": "Bionic",
+		"defname": "CoolerRib"
+	},
+	{
+		"abr": "damagedscytherblade",
+		"price": 33,
+		"category": "Manufactured",
+		"defname": "EPOE_DamagedScytherBlade"
+	},
+	{
+		"abr": "druggedribimplant",
+		"price": 967,
+		"category": "Bionic",
+		"defname": "DruggedRib"
+	},
+	{
+		"abr": "ear",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Ear"
+	},
+	{
+		"abr": "eyeball",
+		"price": 667,
+		"category": "Natural",
+		"defname": "Eye"
+	},
+	{
+		"abr": "goldeneye",
+		"price": 26,
+		"category": "Prosthetic",
+		"defname": "GoldenEye"
+	},
+	{
+		"abr": "heatingribimplant",
+		"price": 742,
+		"category": "Bionic",
+		"defname": "HeaterRib"
+	},
+	{
+		"abr": "hookhand",
+		"price": 31,
+		"category": "Prosthetic",
+		"defname": "HookHand"
+	},
+	{
+		"abr": "hydraulicjaw",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "HydraulicJaw"
+	},
+	{
+		"abr": "instinctoptimizingnanobots",
+		"price": 2333,
+		"category": "Organic optimizer",
+		"defname": "EPOE_InstinctOptimizingNanobots"
+	},
+	{
+		"abr": "jaw",
+		"price": 417,
+		"category": "Natural",
+		"defname": "Jaw"
+	},
+	{
+		"abr": "leg",
+		"price": 1250,
+		"category": "Natural",
+		"defname": "Leg"
+	},
+	{
+		"abr": "lightreceptor",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "LightReceptor"
+	},
+	{
+		"abr": "ma-aichip",
+		"price": 858,
+		"category": "Manufactured",
+		"defname": "EPOE_MAAI_Chip"
+	},
+	{
+		"abr": "medicalribimplant",
+		"price": 1033,
+		"category": "Bionic",
+		"defname": "MedicalRib"
+	},
+	{
+		"abr": "musclestimulator",
+		"price": 1817,
+		"category": "Bionic",
+		"defname": "MuscleStimulator"
+	},
+	{
+		"abr": "neuro-cureframework",
+		"price": 1908,
+		"category": "Ultratech",
+		"defname": "NeurocureFramework"
+	},
+	{
+		"abr": "neuromuscularframework",
+		"price": 1133,
+		"category": "Bionic",
+		"defname": "NeuromuscularFramework"
+	},
+	{
+		"abr": "nose",
+		"price": 167,
+		"category": "Natural",
+		"defname": "Nose"
+	},
+	{
+		"abr": "organicoptimizingnanobots",
+		"price": 1925,
+		"category": "Organic optimizer",
+		"defname": "EPOE_OrganicOptimizingNanobots"
+	},
+	{
+		"abr": "painkillerribimplant",
+		"price": 1175,
+		"category": "Bionic",
+		"defname": "PainkillerRib"
+	},
+	{
+		"abr": "prostheticfinger",
+		"price": 28,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFinger"
+	},
+	{
+		"abr": "prosthetictoe",
+		"price": 28,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticToe"
+	},
+	{
+		"abr": "prostheticworkbench",
+		"price": 475,
+		"category": "Production",
+		"defname": "TableSimpleProsthetic"
+	},
+	{
+		"abr": "protectiveexoskeleton",
+		"price": 5983,
+		"category": "Ultratech",
+		"defname": "EPIA_ProtectiveExoskeleton"
+	},
+	{
+		"abr": "replacementradius",
+		"price": 169,
+		"category": "Prosthetic",
+		"defname": "ReplacementRadius"
+	},
+	{
+		"abr": "replacementspine",
+		"price": 433,
+		"category": "Prosthetic",
+		"defname": "SimpleSpine"
+	},
+	{
+		"abr": "respirationribimplant",
+		"price": 1692,
+		"category": "Bionic",
+		"defname": "RespirationRib"
+	},
+	{
+		"abr": "scytherblade",
+		"price": 408,
+		"category": "Prosthetic",
+		"defname": "EPIA_ScytherBlade"
+	},
+	{
+		"abr": "silentjaw",
+		"price": 1483,
+		"category": "Bionic",
+		"defname": "SilentJaw"
+	},
+	{
+		"abr": "steelarm",
+		"price": 173,
+		"category": "Prosthetic",
+		"defname": "SteelArm"
+	},
+	{
+		"abr": "surrogateheart",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHeart"
+	},
+	{
+		"abr": "surrogatekidney",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "SurrogateKidney"
+	},
+	{
+		"abr": "surrogateliver",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "SurrogateLiver"
+	},
+	{
+		"abr": "surrogatelung",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "SurrogateLung"
+	},
+	{
+		"abr": "surrogatestomach",
+		"price": 383,
+		"category": "Prosthetic",
+		"defname": "SurrogateStomach"
+	},
+	{
+		"abr": "syntheticbone",
+		"price": 358,
+		"category": "Bionic",
+		"defname": "EPIA_SyntheticBone"
+	},
+	{
+		"abr": "syntheticheart",
+		"price": 1817,
+		"category": "Bionic",
+		"defname": "BionicHeart"
+	},
+	{
+		"abr": "syntheticnanoprinter",
+		"price": 1633,
+		"category": "Production",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "syntheticstomach",
+		"price": 1342,
+		"category": "Bionic",
+		"defname": "BionicStomach"
+	},
+	{
+		"abr": "synthetictissue",
+		"price": 287,
+		"category": "Bionic",
+		"defname": "SyntheticSkin"
+	},
+	{
+		"abr": "tacticalbioniceye",
+		"price": 3667,
+		"category": "Ultratech",
+		"defname": "EPIA_TacticalBionicEye"
+	},
+	{
+		"abr": "tacticalcorneaimplant",
+		"price": 3583,
+		"category": "Ultratech",
+		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "wake-upribimplant",
+		"price": 1025,
+		"category": "Bionic",
+		"defname": "WakeUpRib"
+	},
 	],
-	"total": 3245
+	"total": 3290
 }
