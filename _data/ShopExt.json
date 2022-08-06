@@ -2781,7 +2781,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 3
     },
     {
@@ -11358,10 +11358,10 @@
       },
       "defName": "Nymphomaniac",
       "name": "hyperhandholder",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     }
   ],
