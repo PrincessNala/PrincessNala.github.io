@@ -388,7 +388,7 @@
       },
       "defName": "Gay",
       "name": "gay",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1,
       "removePrice": 1,
@@ -418,7 +418,7 @@
       },
       "defName": "Bisexual",
       "name": "bisexual",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1,
       "removePrice": 1,
@@ -11066,7 +11066,7 @@
       },
       "defName": "Asexual",
       "name": "asexual",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -11237,68 +11237,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a very mysterious nine tail fox.",
-      "stats": [
-        "Natural meditation focus type allowed.",
-        "+2.0 beauty"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kyulen - NinetailFox",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "Natural meditation focus type allowed.",
-          "+2.0 beauty"
-        ]
-      },
-      "defName": "Kyulen",
-      "name": "kyulen",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "You must not have this trait",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Unknown",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Virgin",
-      "name": "kyulen-dummydata",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy doesn't take \"No\" as an answer.",
       "stats": [
         "+10.00% handholding drive"
@@ -11439,7 +11377,13 @@
           "+28.8F Minimum comfortable temperature",
           "+46.8F Maximum comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+140 Meat amount",
+          "+100% Toxic sensitivity",
+          "+75 Carrying capacity",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat"
         ],
         "mod": "Unknown",
         "karmaType": null,

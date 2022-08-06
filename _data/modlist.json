@@ -18,6 +18,24 @@
     "version": null
   },
   {
+    "author": "Mingji Lim aka WalkingProblem and  updated by Ogliss",
+    "name": "Advanced Animal Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Animals - Community Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Suno and Neceros",
     "name": "Animal Medical Bed",
     "steamId": null,
@@ -72,20 +90,8 @@
     "version": null
   },
   {
-    "author": "Victorique,  Aurani and  Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "void",
     "name": "Deep Stack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Kyulen - NinetailFox",
     "steamId": null,
     "version": null
   },
@@ -122,6 +128,36 @@
   {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victorique,  Aurani and  Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seioch and  MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher",
     "steamId": null,
     "version": null
   },
@@ -283,7 +319,19 @@
   },
   {
     "author": "Kor_HellCross",
+    "name": "HC_Animal_2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
     "name": "HC_Animal_3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "HC_Animal_4",
     "steamId": null,
     "version": null
   },
@@ -366,12 +414,6 @@
     "version": null
   },
   {
-    "author": "Seioch and  MaroonToon",
-    "name": "Kurin HAR Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Xenofell",
     "name": "Ladies Can Flirt Too!",
     "steamId": null,
@@ -414,6 +456,12 @@
     "version": null
   },
   {
+    "author": "LegendaryMinuteman",
+    "name": "More Archotech Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "HidingFox",
     "name": "More Foxes",
     "steamId": null,
@@ -446,18 +494,6 @@
   {
     "author": "Sleepy Rachel",
     "name": "NieR: Automata Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Diana(Kitty)",
-    "name": "Orassans",
     "steamId": null,
     "version": null
   },
@@ -630,6 +666,12 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "民火",
     "name": "Selectable Sculpture Graphic",
     "steamId": null,
@@ -672,6 +714,18 @@
     "version": null
   },
   {
+    "author": "ShadowDragon8685",
+    "name": "Stuffable Furnishings Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Stuffed Power",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "tikubonn",
     "name": "StuffedDoll",
     "steamId": null,
@@ -702,6 +756,12 @@
     "version": null
   },
   {
+    "author": "Laast",
+    "name": "Toony Terrain Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Isuzuki",
     "name": "Traits Excel",
     "steamId": null,
@@ -710,6 +770,12 @@
   {
     "author": "Side1iner",
     "name": "Traits Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "wool",
+    "name": "Useless clothes",
     "steamId": null,
     "version": null
   },
@@ -776,6 +842,12 @@
   {
     "author": "BJInternetSupervision",
     "name": "[SS]Maid Project",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Animal Armor (Continued)",
     "steamId": null,
     "version": null
   },
