@@ -42,6 +42,24 @@
     "version": null
   },
   {
+    "author": "R-MK",
+    "name": "Anthro Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolf478",
+    "name": "Anthro Race - Tribal Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PatrykSage",
+    "name": "Anthromorphs - Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "alleZSoyez",
     "name": "AnyPlant",
     "steamId": null,
@@ -60,8 +78,8 @@
     "version": null
   },
   {
-    "author": "Teok25",
-    "name": "Archotech Expanded",
+    "author": "JangoD'soul",
+    "name": "Archotech PowerArmor",
     "steamId": null,
     "version": null
   },
@@ -72,8 +90,20 @@
     "version": null
   },
   {
+    "author": "Foggy Morning",
+    "name": "Beta-humanoids Sparkling Worlds faction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Steve",
     "name": "Better Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
     "steamId": null,
     "version": null
   },
@@ -84,8 +114,26 @@
     "version": null
   },
   {
+    "author": "newcolonist",
+    "name": "Large Faction Bases",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. MapGen FactionBase",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Aelanna",
     "name": "Cleaning Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "N7Huntsman ",
+    "name": "Combat Shields",
     "steamId": null,
     "version": null
   },
@@ -126,6 +174,12 @@
     "version": null
   },
   {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -134,6 +188,12 @@
   {
     "author": "Victorique,  Aurani and  Tarojun",
     "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ottersholdhands",
+    "name": "Fell Tribes",
     "steamId": null,
     "version": null
   },
@@ -164,6 +224,12 @@
   {
     "author": "Evil Tactician",
     "name": "ETRT: Industrial Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arekan",
+    "name": "Enhanced Vanilla Gun Sounds",
     "steamId": null,
     "version": null
   },
@@ -258,6 +324,12 @@
     "version": null
   },
   {
+    "author": "Luon Astro",
+    "name": "Ferian Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ArmoredAmpharos",
     "name": "Foxbold Race",
     "steamId": null,
@@ -338,6 +410,18 @@
   {
     "author": "Kor_HellCross",
     "name": "HC_Creatures_1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ELIF",
+    "name": "[ELIF] SRTS - Helicopters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mr Dylan Scoot",
+    "name": "Halo UNSC SRTS",
     "steamId": null,
     "version": null
   },
@@ -426,6 +510,12 @@
     "version": null
   },
   {
+    "author": "ㅇ",
+    "name": "Load from Stockpile Zone",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lolidrop",
     "name": "Lolidrop's hairshop",
     "steamId": null,
@@ -438,14 +528,26 @@
     "version": null
   },
   {
-    "author": "Sugar Show",
-    "name": "Medieval Music",
+    "author": "Dylan Scoot",
+    "name": "Mando SRTS",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Smash Phil | Dr_Zhivago",
-    "name": "Carry Capacity Fixed",
+    "author": "DaLLaN",
+    "name": "Mechalit Core v2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DaLLaN",
+    "name": "Mechalit Faction v2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sugar Show",
+    "name": "Medieval Music",
     "steamId": null,
     "version": null
   },
@@ -492,20 +594,44 @@
     "version": null
   },
   {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "thisisaprofilename",
+    "name": "Netrve's DeepStorage GUI Compatibility Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sleepy Rachel",
     "name": "NieR: Automata Music",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Faeldray and  original by Willelbini",
-    "name": "Pawns Paint! Restored (Continued)",
+    "author": "LUNALIN2233",
+    "name": "Nyaron_Armor for SOS2",
     "steamId": null,
     "version": null
   },
   {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
+    "author": "Apathetic Slug",
+    "name": "Orbital Artifact Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kongkim",
+    "name": "Panels & Frames",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Faeldray and  original by Willelbini",
+    "name": "Pawns Paint! Restored (Continued)",
     "steamId": null,
     "version": null
   },
@@ -582,6 +708,48 @@
     "version": null
   },
   {
+    "author": "Helixien and  Alastair",
+    "name": "ReGrowth Remastered: Boreal Forests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and  Alastair",
+    "name": "ReGrowth Remastered: Tundras",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dickmosi",
+    "name": "ReGrowth Weather Rebalance Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien,  Taranchuk and  Alastair",
+    "name": "ReGrowth: Aspen Forests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and  Alastair",
+    "name": "ReGrowth: Cold Bog Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and  Alastair",
+    "name": "ReGrowth: Desert Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien,  Alastair and  Taranchuk",
+    "name": "ReGrowth: Temperate Forest Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SirMcKeon",
     "name": "Reasonable Components",
     "steamId": null,
@@ -596,6 +764,12 @@
   {
     "author": "Uuugggg",
     "name": "Replace Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
@@ -631,13 +805,73 @@
   },
   {
     "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Feral Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
     "name": "Rimsenal - Hair pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Storytellers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - French",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Murica",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Sophian",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Style Pack - Techist",
     "steamId": null,
     "version": null
   },
   {
     "author": "Rev",
     "name": "Rimwave Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Skullywag",
+    "name": "RoofBomb (Continued)",
     "steamId": null,
     "version": null
   },
@@ -660,8 +894,26 @@
     "version": null
   },
   {
+    "author": "Capi",
+    "name": "SRTS Expanded - Battlestar Galactica",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrGlasses",
+    "name": "SRTS Landing Zone for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Maxi",
     "name": "Sabaton",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RSev",
+    "name": "Save Our Ship 2 - Archotech Gift Pool Expanded",
     "steamId": null,
     "version": null
   },
@@ -680,6 +932,12 @@
   {
     "author": "LeveFUN",
     "name": "Shields, Shields. SHIELDS!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Smart Farming",
     "steamId": null,
     "version": null
   },
@@ -732,6 +990,18 @@
     "version": null
   },
   {
+    "author": "xrushha",
+    "name": "Superb Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO (Original by D A)",
+    "name": "Suppression",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RayJay",
     "name": "Synthetic Animals",
     "steamId": null,
@@ -780,8 +1050,20 @@
     "version": null
   },
   {
+    "author": "Ushanka",
+    "name": "Ushankas Luciferium Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Itzal",
     "name": "Valkyria Rimworld",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gunmar(グンマー)",
+    "name": "Victorian Era Apparels!",
     "steamId": null,
     "version": null
   },
@@ -792,8 +1074,44 @@
     "version": null
   },
   {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xeva",
+    "name": "Xeva Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vinzero",
+    "name": "Xeva Faction Apparel - Upscaled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vinzero",
+    "name": "Xeva Faction Weapons - Upscaled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Yayo's Combat 3 - Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Yanzihko",
     "name": "Zoids Statues",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sjaak31367",
+    "name": "Zoological Trader Caravans",
     "steamId": null,
     "version": null
   },
@@ -804,8 +1122,20 @@
     "version": null
   },
   {
+    "author": "pb3n and  Taranchuk",
+    "name": "[BETA] Simple Warrants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
     "steamId": null,
     "version": null
   },
@@ -824,6 +1154,24 @@
   {
     "author": "XeoNovaDan (original) & KiameV (current)",
     "name": "[KV] Hand 'n' Footwear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]SRTS Expanded: The Crimson Fleet",
     "steamId": null,
     "version": null
   },

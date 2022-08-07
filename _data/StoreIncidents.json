@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "meowteor",
-		"price": 69,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -457,8 +457,8 @@
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 600,
-		"karmatype": "Neutral"
+		"price": 300,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "animalpodcrash",
