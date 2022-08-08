@@ -396,11 +396,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "factionwar",
 		"price": 1500,
 		"karmatype": "Neutral"
@@ -506,5 +501,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 101
+	"total": 100
 }
