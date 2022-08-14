@@ -207,7 +207,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "meowteor": {
+  "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -823,7 +823,7 @@
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
-  "veemeteoriteshower": {
+  "meowteoriteshower": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
