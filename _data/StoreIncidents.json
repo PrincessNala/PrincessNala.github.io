@@ -126,9 +126,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
+		"abr": "meowteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "maninblack",
@@ -508,7 +508,7 @@
 	{
 		"abr": "meowteoriteshower",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "animalpodcrash",

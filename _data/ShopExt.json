@@ -1,7 +1,7 @@
 {
   "traits": [
     {
-      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. this pawn can handle clothing, but will be happier without it.",
       "stats": [
 
       ],
@@ -31,7 +31,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. this pawn is four times as likely to start a social fight as others.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
+      "description": "Timmy is an exceptionally agreeable and giving person. this pawn never insults others and will sometimes offer kind words to brighten the moods of those around them. this pawn also never judges people by their appearance. their agreeableness also makes them more likely to conform to prevailing opinions.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -93,7 +93,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
+      "description": "Timmy has no empathy. The suffering of others doesn't bother them at all. this pawn doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects them. this pawn also feels no mood boost from socializing.",
       "stats": [
         "Morbid meditation focus type allowed.",
         "x50% global certainty loss factor"
@@ -125,7 +125,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, this pawn tried it... and this pawn liked it.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -155,7 +155,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way. At least he doesn't mind being insulted or slighted either.",
+      "description": "Timmy always says exactly what's on their mind, especially if it's bugging them. That tends to rub people the wrong way. At least this pawn doesn't mind being insulted or slighted either.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -185,7 +185,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
+      "description": "Timmy is too smart for their own good. this pawn learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+150% global learning factor",
         "+12% mental break threshold"
@@ -225,7 +225,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
+      "description": "Timmy likes to fight up close and personal. their accuracy is greatly increased in melee combat, but this pawn'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
@@ -267,7 +267,7 @@
       "degree": 0
     },
     {
-      "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
+      "description": "For Timmy, there's something exciting about getting hurt. this pawn doesn't know why, this pawn's just wired differently.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -297,7 +297,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
+      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nthis pawn gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nthis pawn doesn't get a mood penalty for being in the dark.",
       "stats": [
 
       ],
@@ -327,7 +327,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. this pawn will become unhappy if this pawn has a bedroom that's too impressive. this pawn also dislikes fancy food and prefers to eat raw. this pawn never judges others by their appearance.",
       "stats": [
         "Artistic meditation focus type disabled.",
         "Minimal meditation focus type allowed.",
@@ -365,7 +365,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to people of his own gender.",
+      "description": "Timmy is romantically attracted to people of their own gender.",
       "stats": [
 
       ],
@@ -425,7 +425,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
+      "description": "Timmy's voice has a particularly grating, nasal quality to it, and this pawn tends to talk in barked, garbled phrases. This predisposes others to dislike them.",
       "stats": [
 
       ],
@@ -509,7 +509,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low. Somehow this fascination with fire leads to a lot more inspiration.",
+      "description": "Timmy loves fire. this pawn will never extinguish fires. To relieve stress, this pawn will occasionally go on random fire starting sprees. This happens more often if their mood is low. Somehow this fascination with fire leads to a lot more inspiration.",
       "stats": [
         "Only mental break \"FireStartingSpree\" allowed."
       ],
@@ -539,7 +539,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is weak and cowardly. Even a little pain will immobilize him. At least he is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
+      "description": "Timmy is weak and cowardly. Even a little pain will immobilize them. At least this pawn is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
       "stats": [
         "-45% pain shock threshold",
         "-90% toxic sensitivity",
@@ -577,7 +577,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "description": "Timmy has remarkable kinesthetic intelligence. this pawn seems to dance around danger with preternatural grace.",
       "stats": [
         "+15.0 melee dodge chance",
         "x10% trap spring chance"
@@ -609,7 +609,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a knack for learning. he picks things up much faster than others.",
+      "description": "Timmy has a knack for learning. this pawn picks things up much faster than others.",
       "stats": [
         "+75% global learning factor",
         "-10% global work speed"
@@ -645,7 +645,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has never learned how to learn. The motivation and talent is there, he just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
+      "description": "Timmy has never learned how to learn. The motivation and talent is there, this pawn just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
       "stats": [
         "-130% global learning factor",
         "x50% global certainty loss factor"
@@ -677,7 +677,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. this pawn will never feel cooped up or get cabin fever, no matter how long this pawn stays inside, and is not bothered by darkness.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -707,7 +707,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in their feeble human body. this pawn often dreams of being enhanced by artificial body parts.",
       "stats": [
 
       ],
@@ -737,7 +737,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To them, artificial body parts are unethical and disgusting.",
       "stats": [
         "-10.00% handholding drive"
       ],
@@ -827,7 +827,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
+      "description": "Timmy has a fantastic memory for detail. this pawn will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -857,7 +857,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he stands solid like a rock, and equally unmovable.",
+      "description": "Timmy has thick skin, dense flesh, and durable bones. this pawn takes much less damage than other people from the same blows. this pawn stands solid like a rock, and equally unmovable.",
       "stats": [
         "-0.40 move speed",
         "x50% incoming damage multiplier"
@@ -895,7 +895,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "description": "Timmy feels alienated and misunderstood by other human beings. this pawn will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -925,7 +925,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's life revolves around food. he gets hungry quickly but also eats faster, cooks faster and knows his ingredients, barely ever causing food poisoning.",
+      "description": "Timmy's life revolves around food. this pawn gets hungry quickly but also eats faster, cooks faster and knows his ingredients, barely ever causing food poisoning.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+100% eating speed",
@@ -965,7 +965,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
+      "description": "Timmy doesn't need as much sleep as the average person. Whether this pawn's sleeping on a bed or on the ground, this pawn will be fully rested in about two thirds the usual time.",
       "stats": [
         "+50% rest rate multiplier"
       ],
@@ -995,7 +995,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is always falling behind the group whenever he goes anywhere.",
+      "description": "Timmy is always falling behind the group whenever this pawn goes anywhere.",
       "stats": [
         "Go frenzy inspiration disabled.",
         "-0.40 move speed",
@@ -1039,7 +1039,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy likes to be where he's going. he walks quicker than most people.",
+      "description": "Timmy likes to be where this pawn's going. this pawn walks quicker than most people.",
       "stats": [
         "+0.40 move speed"
       ],
@@ -1121,7 +1121,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
+      "description": "Timmy is just naturally upbeat about their situation, pretty much all the time, no matter what it is.",
       "stats": [
 
       ],
@@ -1151,7 +1151,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
+      "description": "Timmy is naturally optimistic about life. It's hard to get them down.",
       "stats": [
 
       ],
@@ -1211,7 +1211,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine. his only way to deal with it is hiding in his room or wandering around in sadness.",
+      "description": "Timmy is perenially unhappy. this pawn has trouble sustaining a good mood even when everything is fine. their only way to deal with it is hiding in their room or wandering around in sadness.",
       "stats": [
         "Only mental break \"Wander_Sad\" allowed.",
         "Only mental break \"Wander_OwnRoom\" allowed."
@@ -1243,7 +1243,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
+      "description": "Timmy's will is an iron shield. this pawn keeps going through thick and thin, when others broke down long before.",
       "stats": [
         "-18% mental break threshold",
         "x25% global certainty loss factor"
@@ -1351,7 +1351,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation. If that happens he will find something to smash.",
+      "description": "Timmy is on a hair-trigger all the time. this pawn is the first to break in any tough situation. If that happens this pawn will find something to smash.",
       "stats": [
         "Only mental break \"Tantrum\" allowed.",
         "Only mental break \"TargetedTantrum\" allowed.",
@@ -1393,7 +1393,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his random mood swings can get the better of him.",
+      "description": "Timmy likes to have things squared away. this pawn will work harder than most to attain this state of affairs, but their random mood swings can get the better of them.",
       "stats": [
         "+20% global work speed"
       ],
@@ -1423,7 +1423,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his random mood swings can easily get the better of him.",
+      "description": "Timmy feels constantly nervous about everything that has to get done. this pawn will work extremely hard to attain this state of affairs, but their random mood swings can easily get the better of them.",
       "stats": [
         "+40% global work speed"
       ],
@@ -1585,7 +1585,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
+      "description": "Timmy loves idleness and hates anything productive. this pawn moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% global work speed",
         "-67% joy need rate multiplier"
@@ -1629,7 +1629,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
+      "description": "Timmy's mind is like a psychic tuning fork. this pawn is extremely sensitive to psychic phenomena.",
       "stats": [
         "+80% psychic sensitivity"
       ],
@@ -1689,7 +1689,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
+      "description": "Timmy's mind is psychically out of tune with others. this pawn isn't as affected by psychic phenomena.",
       "stats": [
         "-50% psychic sensitivity"
       ],
@@ -1719,7 +1719,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
+      "description": "Timmy's mind works on a psychic frequency different from everyone else. this pawn just isn't affected by psychic phenomena.",
       "stats": [
         "-100% psychic sensitivity"
       ],
@@ -1749,7 +1749,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "description": "Timmy takes more time to aim when shooting. this pawn shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
         "+5.0 shooting accuracy"
@@ -1781,7 +1781,7 @@
       "degree": 1
     },
     {
-      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
+      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. this pawn shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
         "-5.0 shooting accuracy"
@@ -1813,7 +1813,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy has had proper training with ranged weapons. he shoots accurately and quickly.",
+      "description": "Timmy has had proper training with ranged weapons. this pawn shoots accurately and quickly.",
       "stats": [
         "-25% aiming time",
         "+2.5 shooting accuracy"
@@ -1845,7 +1845,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to them before this pawn even opens their mouth.",
       "stats": [
         "+2.0 beauty"
       ],
@@ -1875,7 +1875,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has a pretty face, which predisposes people to like him.",
+      "description": "Timmy has a pretty face, which predisposes people to like them.",
       "stats": [
         "+1.0 beauty"
       ],
@@ -1905,7 +1905,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if his face has a scar or two.",
+      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions. If there is an upside to this than that no one minds if their face has a scar or two.",
       "stats": [
         "-1.0 beauty"
       ],
@@ -1935,7 +1935,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing. If there is an upside to this than that no one minds if his face has a scar or two... or ten.",
+      "description": "Timmy is staggeringly ugly. their face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at them while conversing. If there is an upside to this than that no one minds if their face has a scar or two... or ten.",
       "stats": [
         "-2.0 beauty"
       ],
@@ -1965,7 +1965,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "description": "Timmy has a naturally powerful immune system. this pawn will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
         "+30% immunity gain speed"
       ],
@@ -1995,7 +1995,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "description": "Timmy has an awful immune system. this pawn gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
         "+4 medical"
       ],
@@ -2085,7 +2085,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "description": "Timmy has remarkable kinesthetic intelligence. this pawn seems to dance around danger with preternatural grace.",
       "stats": [
         "+20.0 melee dodge chance"
       ],
@@ -2115,7 +2115,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "description": "Timmy has remarkable kinesthetic intelligence. this pawn seems to dance around danger with preternatural grace.",
       "stats": [
         "-10.0 melee dodge chance"
       ],
@@ -2175,7 +2175,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
+      "description": "Timmy's life revolves around fighting. this pawn doesn't have the intelligence to do much else.",
       "stats": [
         "+20 shooting",
         "+20 melee"
@@ -2207,7 +2207,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "description": "Timmy takes more time to aim when shooting. this pawn shoots less often than others, but with more accuracy.",
       "stats": [
         "+2 shooting",
         "-50% aiming time",
@@ -2283,7 +2283,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a special connection to animals and understands them better than most people. Animals also tend to understand what he wants from them. The time he spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
+      "description": "Timmy has a special connection to animals and understands them better than most people. Animals also tend to understand what this pawn wants from them. The time this pawn spends with animals is long, but worth it.\n\n    Taming never causes manhunter\n    Easier taming of very wild animals",
       "stats": [
         "-50% animal gather speed",
         "+20% animal gather yield"
@@ -2315,7 +2315,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is proficient with various construction materials, particularly stone. he will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
+      "description": "Timmy is proficient with various construction materials, particularly stone. this pawn will construct anything out of stone three times as fast as others and smooth out your rocky base in no time.\n\n    Stone construction speed +200%",
       "stats": [
         "+200% smoothing speed",
         "+10% construct success chance"
@@ -2347,7 +2347,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a unique approach to science. he always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
+      "description": "Timmy has a unique approach to science. this pawn always thinks outside the box and finds inspiration for intellectual problems in art.\n\n    Artistic increases research speed",
       "stats": [
 
       ],
@@ -2411,7 +2411,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a special talent to grow plants and nurture them even in hostile enviroments. he can grow any plant, even if other people would fail due to their lack of skills. he would like some plants in his bedroom.\n\n    Can grow any plant regardless of skill",
+      "description": "Timmy has a special talent to grow plants and nurture them even in hostile enviroments. this pawn can grow any plant, even if other people would fail due to their lack of skills. this pawn would like some plants in their bedroom.\n\n    Can grow any plant regardless of skill",
       "stats": [
         "+80% plant work speed",
         "+10% plant harvest yield"
@@ -2443,7 +2443,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a gun nut, his life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand him a melee weapon.",
+      "description": "Timmy is a gun nut, their life revolves around guns, how they are crafted, maintained and used. Quite a handy skill in these circumstances. Just don't hand them a melee weapon.",
       "stats": [
         "+2 shooting",
         "+2 crafting",
@@ -2511,7 +2511,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a keen eye and can spot even tiny mineral deposits. he will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
+      "description": "Timmy has a keen eye and can spot even tiny mineral deposits. this pawn will occassionally find small clumps of resources when mining any sort of stone or ore. Chance increased for flatter terrain.",
       "stats": [
         "+40% mining speed"
       ],
@@ -2541,7 +2541,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has had their fair share of encounters with mechanoids. he has become an expert in mechanoid construction and combat, making him uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
+      "description": "Timmy has had their fair share of encounters with mechanoids. this pawn has become an expert in mechanoid construction and combat, making them uniquely suited to disassemble and fight them.\n\n    Damage versus mechanoids +50%",
       "stats": [
         "+50% mechanoid shredding efficiency"
       ],
@@ -2601,7 +2601,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy knows exactly the right words for every situation. This also means his insults hurt more.",
+      "description": "Timmy knows exactly the right words for every situation. This also means their insults hurt more.",
       "stats": [
         "+33.00% trade price improvement",
         "+20.00% negotiation ability",
@@ -2635,7 +2635,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has particularly steady hands, which don't even tremble in dire circumstances or when he himself is injured.\n\n    No self-tend penalty",
+      "description": "Timmy has particularly steady hands, which don't even tremble in dire circumstances or when this pawn themself is injured.\n\n    No self-tend penalty",
       "stats": [
         "+50% medical tend speed",
         "+10% medical tend quality",
@@ -2669,7 +2669,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a very strong back or is part mule or something. he can carry significantly more as a normal person.",
+      "description": "Timmy has a very strong back or is part mule or something. this pawn can carry significantly more as a normal person.",
       "stats": [
         "+20 carry weight",
         "+20 bulk capacity"
@@ -2701,7 +2701,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
+      "description": "Timmy needs a really impressive bedroom. this pawn gets a mood loss if this pawn doesn't get what this pawn wants.",
       "stats": [
 
       ],
@@ -2733,7 +2733,7 @@
       "degree": 0
     },
     {
-      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom. At least he isn't as affected by prisoners or colonists dying and he doesn't mind wearing a dead person's clothing.",
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. this pawn gets a mood loss if any colonist has a more impressive bedroom. At least this pawn isn't as affected by prisoners or colonists dying and this pawn doesn't mind wearing a dead person's clothing.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -2795,7 +2795,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has an intense fascination with chemical sources of enjoyment. he will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. he will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
+      "description": "Timmy has an intense fascination with chemical sources of enjoyment. this pawn will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. this pawn will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
       "stats": [
 
       ],
@@ -2825,7 +2825,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has an unusual interest in chemical sources of enjoyment. he will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. he will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. this pawn will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. this pawn will ignore directives to not use pleasurable drugs. If there is one upside to this it's all the inspiration one can get from drugs.",
       "stats": [
 
       ],
@@ -2855,7 +2855,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. he is a hard working individual.",
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. this pawn is a hard working individual.",
       "stats": [
         "Binging on drug mental state disabled.",
         "Binging on drug mental state disabled.",
@@ -2887,290 +2887,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
-    },
-    {
-      "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
-      "stats": [
-        "+3.0 beauty"
-      ],
-      "conflicts": [
-        "beautiful",
-        "pretty",
-        "ugly",
-        "staggeringlyugly",
-        "jealous"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Xenohumans - Anthromorphs",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "beautiful",
-          "pretty",
-          "ugly",
-          "staggeringlyugly",
-          "jealous"
-        ],
-        "stats": [
-          "+3.0 beauty"
-        ]
-      },
-      "defName": "ATK_DesignerMate",
-      "name": "designerheritage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+5 shooting",
-        "+3 animals",
-        "-5 social",
-        "+0.3 melee dodge chance",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Feles - Felines of the Rim [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 shooting",
-          "+3 animals",
-          "-5 social",
-          "+0.3 melee dodge chance",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Cheetah",
-      "name": "cheetah",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "+2 social",
-        "+0.3 shooting accuracy"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Feles - Felines of the Rim [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "+2 social",
-          "+0.3 shooting accuracy"
-        ]
-      },
-      "defName": "FFR_Leo",
-      "name": "leo",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Feles - Felines of the Rim [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Jaguar",
-      "name": "jaguar",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Feles - Felines of the Rim [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Panther",
-      "name": "panther",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Feles - Felines of the Rim [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ]
-      },
-      "defName": "FFR_Tigris",
-      "name": "tigris",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is gives a strange impression to the opponent.",
-      "stats": [
-        "+2 social",
-        "-4% mental break threshold",
-        "+15.00% train animal chance",
-        "+15.00% tame animal chance",
-        "+15.00% trade price improvement",
-        "+15.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ferian Race",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2 social",
-          "-4% mental break threshold",
-          "+15.00% train animal chance",
-          "+15.00% tame animal chance",
-          "+15.00% trade price improvement",
-          "+15.00% social impact"
-        ]
-      },
-      "defName": "Miraculous",
-      "name": "mysteriousenergy",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     },
     {
       "description": "There was once an infamous assassin, well known for her mastery in swordsmanship and her ghostly moves, a nightmare to all those nobles and bigwigs. By earning the title means that Timmy has perfected the melee skill.",
@@ -3249,7 +2965,7 @@
       "degree": 0
     },
     {
-      "description": "There was a saying about a sniper who was reluctant to kill so she aim for the knee everytime, and thus she was called The Queen. Timmy can earn this title which means that his shooting skill must has been proven many times.",
+      "description": "There was a saying about a sniper who was reluctant to kill so she aim for the knee everytime, and thus she was called The Queen. Timmy can earn this title which means that their shooting skill must has been proven many times.",
       "stats": [
         "+2 shooting",
         "-2 melee",
@@ -3315,7 +3031,7 @@
       "degree": 0
     },
     {
-      "description": "There was once a warrior who encounter 13 knights all by his own and later become the leader of reble and leading it's army invaded the kingdom, thus , getting the name Dragon. Timmy can win this title, means that his battle skill is remarkable.",
+      "description": "There was once a warrior who encounter 13 knights all by his own and later become the leader of reble and leading it's army invaded the kingdom, thus , getting the name Dragon. Timmy can win this title, means that their battle skill is remarkable.",
       "stats": [
         "Social fighting mental state disabled.",
         "-20% flammability",
@@ -3371,7 +3087,7 @@
       "degree": 0
     },
     {
-      "description": "There was a legend of a SWAT whose gun kata was tricky and deadly like a devil, therefore got the name Evil Gunner. Timmy can earn this title means that his battle skill was outstanding.",
+      "description": "There was a legend of a SWAT whose gun kata was tricky and deadly like a devil, therefore got the name Evil Gunner. Timmy can earn this title means that their battle skill was outstanding.",
       "stats": [
         "+4.0 melee hit chance",
         "+4.0 melee dodge chance",
@@ -3501,7 +3217,7 @@
       "degree": 0
     },
     {
-      "description": "There was once a mad sniper called Eagle Eye who, by his extraordinary shooting skill, only aiming for others' genital organ. Timmy can get this title means his shooting skill is extraordinary.",
+      "description": "There was once a mad sniper called Eagle Eye who, by his extraordinary shooting skill, only aiming for others' genital organ. Timmy can get this title means their shooting skill is extraordinary.",
       "stats": [
         "+2 shooting",
         "-4.0 melee hit chance",
@@ -3661,7 +3377,7 @@
       "degree": 0
     },
     {
-      "description": "There was once a pirate lord who invade every planet and every faction that he feels like to. No one dare to stand and against him, however, there were seven warrior who challenged him. After a whole night of battle, the pirate lord was defeated. his battle skill must be getting out of control to earn this title.",
+      "description": "There was once a pirate lord who invade every planet and every faction that he feels like to. No one dare to stand and against him, however, there were seven warrior who challenged him. After a whole night of battle, the pirate lord was defeated. their battle skill must be getting out of control to earn this title.",
       "stats": [
         "+3 melee",
         "+3 shooting",
@@ -3728,6 +3444,722 @@
       },
       "defName": "XTPirateLord",
       "name": "piratelord",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, this pawn is not a very Social being.",
+      "stats": [
+        "+5 shooting",
+        "+3 animals",
+        "-5 social",
+        "+0.3 melee dodge chance",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Feles - Felines of the Rim [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 shooting",
+          "+3 animals",
+          "-5 social",
+          "+0.3 melee dodge chance",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Cheetah",
+      "name": "cheetah",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "+2 social",
+        "+0.3 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Feles - Felines of the Rim [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "+2 social",
+          "+0.3 shooting accuracy"
+        ]
+      },
+      "defName": "FFR_Leo",
+      "name": "leo",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, this pawn is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Feles - Felines of the Rim [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Jaguar",
+      "name": "jaguar",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, this pawn is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Feles - Felines of the Rim [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Panther",
+      "name": "panther",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, this pawn is not a very Social being.",
+      "stats": [
+        "+3 melee",
+        "+3 animals",
+        "+2 shooting",
+        "-5 social",
+        "+0.3 shooting accuracy",
+        "-25.00% trade price improvement",
+        "-25.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Feles - Felines of the Rim [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 animals",
+          "+2 shooting",
+          "-5 social",
+          "+0.3 shooting accuracy",
+          "-25.00% trade price improvement",
+          "-25.00% social impact"
+        ]
+      },
+      "defName": "FFR_Tigris",
+      "name": "tigris",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is gives a strange impression to the opponent.",
+      "stats": [
+        "+2 social",
+        "-4% mental break threshold",
+        "+15.00% train animal chance",
+        "+15.00% tame animal chance",
+        "+15.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ferian Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-4% mental break threshold",
+          "+15.00% train animal chance",
+          "+15.00% tame animal chance",
+          "+15.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Miraculous",
+      "name": "mysteriousenergy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is the descendant of a designer mate. Though most of their ancestral traits are diluted, this pawn is still extremely beautiful and cheerful.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous"
+        ],
+        "stats": [
+          "+3.0 beauty"
+        ]
+      },
+      "defName": "ATK_DesignerMate",
+      "name": "designerheritage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a great sense for structural planning and aesthetic design, making them excellent a building both functional and beautiful things.",
+      "stats": [
+        "+4 construction",
+        "+4 artistic",
+        "+20% smoothing speed",
+        "+20% construction speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 construction",
+          "+4 artistic",
+          "+20% smoothing speed",
+          "+20% construction speed"
+        ]
+      },
+      "defName": "LCK_Architect",
+      "name": "architect",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an excellent understanding of anatomy. This makes them an excellent surgeon - and a deadly assassin.",
+      "stats": [
+        "+4 melee",
+        "+4 medical",
+        "+20% surgery success chance factor",
+        "+2.00 melee DPS"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 melee",
+          "+4 medical",
+          "+20% surgery success chance factor",
+          "+2.00 melee DPS"
+        ]
+      },
+      "defName": "LCK_Assassin",
+      "name": "anatomist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a lot of knowledge about herbs and spices, and know how to use them to cook incredibly tasty meals.",
+      "stats": [
+        "+4 cooking",
+        "+4 plants",
+        "+20% plant work speed",
+        "-20.00% food poison chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 cooking",
+          "+4 plants",
+          "+20% plant work speed",
+          "-20.00% food poison chance"
+        ]
+      },
+      "defName": "VTE_Herbalist",
+      "name": "herbalist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is skilled at hunting wild animals. They know how to blend in the environment and shoot with perfect accuracy.",
+      "stats": [
+        "+4 shooting",
+        "+4 animals",
+        "+20% hunting stealth",
+        "+2.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 shooting",
+          "+4 animals",
+          "+20% hunting stealth",
+          "+2.0 shooting accuracy"
+        ]
+      },
+      "defName": "LCK_Hunter",
+      "name": "hunter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has spent a lot of time learning, both by reading books and by talking with other people. They are well-spoken and have a brilliant mind.",
+      "stats": [
+        "+4 social",
+        "+4 intellectual",
+        "+20% global learning factor",
+        "+20.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 social",
+          "+4 intellectual",
+          "+20% global learning factor",
+          "+20.00% social impact"
+        ]
+      },
+      "defName": "LCK_Professor",
+      "name": "erudite",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is good at extracting compacted metals from ancient ruins and turning them into useful works of crafstmanship - and faster than most people.",
+      "stats": [
+        "+4 crafting",
+        "+4 mining",
+        "+20% mining speed",
+        "x120% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 crafting",
+          "+4 mining",
+          "+20% mining speed",
+          "x120% global work speed"
+        ]
+      },
+      "defName": "LCK_Scavenger",
+      "name": "scavenger",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy have had training with both melee and ranged weapons before. After fighting many battles, they became an experienced combatant.",
+      "stats": [
+        "+4 melee",
+        "+4 shooting",
+        "+20% pain shock threshold",
+        "x80% incoming damage multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[LCK] Add-On for Vanilla Traits Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 melee",
+          "+4 shooting",
+          "+20% pain shock threshold",
+          "x80% incoming damage multiplier"
+        ]
+      },
+      "defName": "LCK_Soldier",
+      "name": "soldier",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy identifies strongly as a male. Physical traits related to the Male gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "maleGender",
+      "name": "transmale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy identifies strongly as a female. Physical traits related to the Female gender give mood boosts, while traits conflicting with it will give negative mood.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "femaleGender",
+      "name": "transfemale",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy does not want to be identified as any gender. The closer to truly androgynous they are, the happier they are.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "androgyneGender",
+      "name": "trans:androgyne",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is content with their body, regardless of their identified gender. They will experience no form of dysphoria.",
+      "stats": [
+        "x0% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x0% dysphoria multiplier"
+        ]
+      },
+      "defName": "noGenderPref",
+      "name": "body-content",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is much more affected by dysphoria than normal.",
+      "stats": [
+        "x300% dysphoria multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Identity",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x300% dysphoria multiplier"
+        ]
+      },
+      "defName": "bodySensitive",
+      "name": "body-sensitive",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -3853,6 +4285,281 @@
       "enabled": true,
       "name": "neko",
       "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+5 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+70% Global work speed",
+          "+0 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+82% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+39.6F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+5.20 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+39.00 Mass",
+          "+70% Flammability",
+          "+75% Psychic sensitivity",
+          "+75% Toxic sensitivity",
+          "+18.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+$1250 Market value",
+          "+4.50 Move speed",
+          "+75 Carrying capacity",
+          "+110% Global learning factor",
+          "+80% Research speed",
+          "+130% Mining speed",
+          "+125% Mining yield",
+          "+75.00% Social impact",
+          "+105% Plant work speed",
+          "+105% Plant harvest yield",
+          "+75% Construction speed",
+          "+0.4 Melee dodge chance",
+          "+20% Trap spring chance",
+          "+110% Hunting stealth",
+          "+90% Animal gather speed",
+          "+1 Honor value",
+          "+17.5% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.",
+      "defName": "Alien_Cutebold",
+      "enabled": true,
+      "name": "Cutebold",
+      "price": 2083
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+70% Flammability",
+          "+1.5 Beauty",
+          "+60 Carrying capacity",
+          "+80% Pain shock threshold",
+          "+$3000 Market value",
+          "+8.00 Move speed",
+          "+100% Immunity gain speed",
+          "+36.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+100 Meat amount",
+          "+125% Research speed",
+          "+120% Global learning factor",
+          "+90% Mining speed",
+          "+100.00% Social impact",
+          "+90% Construction speed",
+          "+130% Animal gather speed",
+          "+125% Animal gather yield",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines.",
+      "defName": "YanzihkoCheetah",
+      "enabled": true,
+      "name": "Cheetah",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.5 Beauty",
+          "+60 Carrying capacity",
+          "+90% Pain shock threshold",
+          "+$3000 Market value",
+          "+6.00 Move speed",
+          "+100% Immunity gain speed",
+          "+36.0F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+100 Meat amount",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+100% Mining speed",
+          "+75.00% Social impact",
+          "+110% Construction speed",
+          "+125% Animal gather speed",
+          "+130% Animal gather yield",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
+      "defName": "YanzihkoJaguar",
+      "enabled": true,
+      "name": "Jaguar",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.3 Beauty",
+          "+60 Carrying capacity",
+          "+90% Pain shock threshold",
+          "+$2500 Market value",
+          "+5.50 Move speed",
+          "+100% Immunity gain speed",
+          "+36.0F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+100 Meat amount",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+100% Mining speed",
+          "+125.00% Social impact",
+          "+100% Construction speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Leo, unlike other Felines, are very social beings and feel themselves confident in all kinds of discussions.",
+      "defName": "YanzihkoLeo",
+      "enabled": true,
+      "name": "Leo",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.2 Beauty",
+          "+60 Carrying capacity",
+          "+90% Pain shock threshold",
+          "+$2500 Market value",
+          "+5.70 Move speed",
+          "+100% Immunity gain speed",
+          "+36.0F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+100 Meat amount",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+100% Mining speed",
+          "+75.00% Social impact",
+          "+100% Construction speed",
+          "+125% Animal gather speed",
+          "+130% Animal gather yield",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone.",
+      "defName": "YanzihkoPanther",
+      "enabled": true,
+      "name": "Panther",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+1.5 Beauty",
+          "+60 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+$3000 Market value",
+          "+5.50 Move speed",
+          "+100% Immunity gain speed",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+100 Meat amount",
+          "+110% Research speed",
+          "+110% Global learning factor",
+          "+125% Mining speed",
+          "+75.00% Social impact",
+          "+100% Construction speed",
+          "+125% Animal gather speed",
+          "+125% Animal gather yield",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
+      "defName": "YanzihkoTigris",
+      "enabled": true,
+      "name": "Tigris",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+$2000 Market value",
+          "+6.24 Move speed",
+          "+50% Flammability",
+          "-16.2F Minimum comfortable temperature",
+          "+43.2F Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+120% Research speed",
+          "+75% Mining speed",
+          "+120.00% Social impact",
+          "+75% Construction speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+115% Immunity gain speed",
+          "+150% Psychic sensitivity",
+          "+4.0 Shooting accuracy",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "AFerian",
+      "enabled": true,
+      "name": "Ferian",
+      "price": 3333
     },
     {
       "data": {
@@ -4218,44 +4925,6 @@
     {
       "data": {
         "stats": [
-          "+39.00 Mass",
-          "+70% Flammability",
-          "+75% Psychic sensitivity",
-          "+75% Toxic sensitivity",
-          "+18.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+$1250 Market value",
-          "+4.50 Move speed",
-          "+75 Carrying capacity",
-          "+110% Global learning factor",
-          "+80% Research speed",
-          "+130% Mining speed",
-          "+125% Mining yield",
-          "+75.00% Social impact",
-          "+105% Plant work speed",
-          "+105% Plant harvest yield",
-          "+75% Construction speed",
-          "+0.4 Melee dodge chance",
-          "+20% Trap spring chance",
-          "+110% Hunting stealth",
-          "+90% Animal gather speed",
-          "+1 Honor value",
-          "+17.5% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.",
-      "defName": "Alien_Cutebold",
-      "enabled": true,
-      "name": "Cutebold",
-      "price": 2083
-    },
-    {
-      "data": {
-        "stats": [
           "+60.00 Mass",
           "+70% Flammability",
           "+$1750 Market value",
@@ -4361,207 +5030,6 @@
     {
       "data": {
         "stats": [
-          "+40.00 Mass",
-          "+70% Flammability",
-          "+1.5 Beauty",
-          "+60 Carrying capacity",
-          "+80% Pain shock threshold",
-          "+$3000 Market value",
-          "+8.00 Move speed",
-          "+100% Immunity gain speed",
-          "+36.0F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+60 Leather amount",
-          "+100 Meat amount",
-          "+125% Research speed",
-          "+120% Global learning factor",
-          "+90% Mining speed",
-          "+100.00% Social impact",
-          "+90% Construction speed",
-          "+130% Animal gather speed",
-          "+125% Animal gather yield",
-          "+1.3 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines.",
-      "defName": "YanzihkoCheetah",
-      "enabled": true,
-      "name": "Cheetah",
-      "price": 5000
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.5 Beauty",
-          "+60 Carrying capacity",
-          "+90% Pain shock threshold",
-          "+$3000 Market value",
-          "+6.00 Move speed",
-          "+100% Immunity gain speed",
-          "+36.0F Minimum comfortable temperature",
-          "+64.8F Maximum comfortable temperature",
-          "+60 Leather amount",
-          "+100 Meat amount",
-          "+110% Research speed",
-          "+110% Global learning factor",
-          "+100% Mining speed",
-          "+75.00% Social impact",
-          "+110% Construction speed",
-          "+125% Animal gather speed",
-          "+130% Animal gather yield",
-          "+1.3 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoJaguar",
-      "enabled": true,
-      "name": "Jaguar",
-      "price": 5000
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.3 Beauty",
-          "+60 Carrying capacity",
-          "+90% Pain shock threshold",
-          "+$2500 Market value",
-          "+5.50 Move speed",
-          "+100% Immunity gain speed",
-          "+36.0F Minimum comfortable temperature",
-          "+64.8F Maximum comfortable temperature",
-          "+60 Leather amount",
-          "+100 Meat amount",
-          "+110% Research speed",
-          "+110% Global learning factor",
-          "+100% Mining speed",
-          "+125.00% Social impact",
-          "+100% Construction speed",
-          "+110% Animal gather speed",
-          "+110% Animal gather yield",
-          "+1.3 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Leo, unlike other Felines, are very social beings and feel themselves confident in all kinds of discussions.",
-      "defName": "YanzihkoLeo",
-      "enabled": true,
-      "name": "Leo",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.2 Beauty",
-          "+60 Carrying capacity",
-          "+90% Pain shock threshold",
-          "+$2500 Market value",
-          "+5.70 Move speed",
-          "+100% Immunity gain speed",
-          "+36.0F Minimum comfortable temperature",
-          "+64.8F Maximum comfortable temperature",
-          "+60 Leather amount",
-          "+100 Meat amount",
-          "+110% Research speed",
-          "+110% Global learning factor",
-          "+100% Mining speed",
-          "+75.00% Social impact",
-          "+100% Construction speed",
-          "+125% Animal gather speed",
-          "+130% Animal gather yield",
-          "+1.3 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoPanther",
-      "enabled": true,
-      "name": "Panther",
-      "price": 4167
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+1.5 Beauty",
-          "+60 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+$3000 Market value",
-          "+5.50 Move speed",
-          "+100% Immunity gain speed",
-          "+0.0F Minimum comfortable temperature",
-          "+54.0F Maximum comfortable temperature",
-          "+60 Leather amount",
-          "+100 Meat amount",
-          "+110% Research speed",
-          "+110% Global learning factor",
-          "+125% Mining speed",
-          "+75.00% Social impact",
-          "+100% Construction speed",
-          "+125% Animal gather speed",
-          "+125% Animal gather yield",
-          "+1.3 Shooting accuracy"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone.",
-      "defName": "YanzihkoTigris",
-      "enabled": true,
-      "name": "Tigris",
-      "price": 5000
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+$2000 Market value",
-          "+6.24 Move speed",
-          "+50% Flammability",
-          "-16.2F Minimum comfortable temperature",
-          "+43.2F Maximum comfortable temperature",
-          "+25 Leather amount",
-          "+120% Research speed",
-          "+75% Mining speed",
-          "+120.00% Social impact",
-          "+75% Construction speed",
-          "+120% Animal gather speed",
-          "+120% Animal gather yield",
-          "+115% Immunity gain speed",
-          "+150% Psychic sensitivity",
-          "+4.0 Shooting accuracy",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
-      "defName": "AFerian",
-      "enabled": true,
-      "name": "Ferian",
-      "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
           "+60.00 Mass",
           "+70% Flammability",
           "+$1800 Market value",
@@ -4581,42 +5049,6 @@
       "enabled": true,
       "name": "bovinemorph",
       "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+70% Global work speed",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+39.6F Minimum comfortable temperature",
-          "+72.0F Maximum comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "price": 5000
     }
   ]
 }
