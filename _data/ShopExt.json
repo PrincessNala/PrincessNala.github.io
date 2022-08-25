@@ -4165,6 +4165,118 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy has received the blessing of machine god Zir!\nTimmy is able to easily understand the inner workings of machines and devices, allowing them to craft and build items of higher quality as well as work faster.",
+      "stats": [
+        "+50% mechanoid shredding efficiency",
+        "+100% construct success chance",
+        "x125% general labor speed",
+        "x150% smelting speed",
+        "x125% construction speed",
+        "x200% mechanoid shredding speed"
+      ],
+      "conflicts": [
+        "zir'scorruption"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimForge",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "zir'scorruption"
+        ],
+        "stats": [
+          "+50% mechanoid shredding efficiency",
+          "+100% construct success chance",
+          "x125% general labor speed",
+          "x150% smelting speed",
+          "x125% construction speed",
+          "x200% mechanoid shredding speed"
+        ]
+      },
+      "defName": "RF_BlessingOfZir",
+      "name": "blessingofzir",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's mind has been twisted by Zir!\nAn obsession or hatred revolving around Machine God Zir has lead this individual to madness, but also unlocked previously unknown physical prowess.",
+      "stats": [
+        "x25% general labor speed",
+        "x300% move speed",
+        "x400% mental break threshold",
+        "x150% melee hit chance"
+      ],
+      "conflicts": [
+        "blessingofzir"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimForge",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "blessingofzir"
+        ],
+        "stats": [
+          "x25% general labor speed",
+          "x300% move speed",
+          "x400% mental break threshold",
+          "x150% melee hit chance"
+        ]
+      },
+      "defName": "RF_ZirsCorruption",
+      "name": "zir'scorruption",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a sentient granite statue. this pawn is quite durable and skilled with guns.",
+      "stats": [
+        "+4 shooting",
+        "+50% rest rate multiplier",
+        "x50% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "wimp",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Secure Contain Rimworld",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "brawler"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+50% rest rate multiplier",
+          "x50% incoming damage multiplier"
+        ]
+      },
+      "defName": "SCR_SCP011R",
+      "name": "scp-011",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -5049,6 +5161,72 @@
       "enabled": true,
       "name": "bovinemorph",
       "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "TalulahHumanRace",
+      "enabled": false,
+      "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "FrostnovaHumanRace",
+      "enabled": false,
+      "name": "human",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "PatriotHumanRace",
+      "enabled": false,
+      "name": "human",
+      "price": 2917
     }
   ]
 }
