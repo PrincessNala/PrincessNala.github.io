@@ -42,42 +42,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Boreal Forest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Desert",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Extreme Desert",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Ice Sheet",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Rainforest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Swamp",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Trunken",
     "name": "Animal Cybernetics",
     "steamId": null,
@@ -116,12 +80,6 @@
   {
     "author": "Kebeq",
     "name": "Armor & UI Uncapper",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Capi",
-    "name": "Better Cribs and Children - Babies and Children [1.3]",
     "steamId": null,
     "version": null
   },
@@ -306,14 +264,14 @@
     "version": null
   },
   {
-    "author": "Erin and AveryTheKitty",
-    "name": "Erin's Hot Drinks",
+    "author": "MrRavenFace",
+    "name": "FNF Music Pack",
     "steamId": null,
     "version": null
   },
   {
-    "author": "MrRavenFace",
-    "name": "FNF Music Pack",
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
     "steamId": null,
     "version": null
   },
@@ -338,12 +296,6 @@
   {
     "author": "Gloomylynx",
     "name": "Gloomy Hair mk2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kor_HellCross",
-    "name": "HC_Animal_3",
     "steamId": null,
     "version": null
   },
@@ -438,12 +390,6 @@
     "version": null
   },
   {
-    "author": "legodude17 and  Oskar Potocki",
-    "name": "Vanilla Skills Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Skullywag",
     "name": "MedievalShields",
     "steamId": null,
@@ -452,6 +398,12 @@
   {
     "author": "Mlie",
     "name": "Mercer's Backpacks (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BOXrsxx,  Vaniat and  LingLuo",
+    "name": "More Practical Traits",
     "steamId": null,
     "version": null
   },
@@ -470,12 +422,6 @@
   {
     "author": "Zayl",
     "name": "NakinRace",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TrahsPanda and  Noobert",
-    "name": "Noobert's Fox Overhaul",
     "steamId": null,
     "version": null
   },
@@ -596,6 +542,12 @@
   {
     "author": "Vakaria",
     "name": "RimThemes-Halloween",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
   },
@@ -726,6 +678,12 @@
     "version": null
   },
   {
+    "author": "RSev",
+    "name": "Synergistic Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Cev",
     "name": "TII Plasblue Genetics",
     "steamId": null,
@@ -774,36 +732,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Australia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Cats and Dogs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Erin",
-    "name": "Vanilla Animals Expanded — Royal Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Temperate Forest",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  xrushha and  SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
@@ -818,6 +746,12 @@
   {
     "author": "Anonymous, legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and  Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
     "steamId": null,
     "version": null
   },
