@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -121,11 +126,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Neutral"
@@ -156,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Neutral"
@@ -173,11 +168,6 @@
 	{
 		"abr": "travelergroup",
 		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -294,11 +284,6 @@
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
@@ -431,5 +416,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 86
+	"total": 83
 }

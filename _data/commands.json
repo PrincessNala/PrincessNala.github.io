@@ -1222,41 +1222,5 @@
     "userLevel": 3,
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": 0,
-    "shortcut": false,
-    "defName": "MyPawnClass"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": 0,
-    "shortcut": false,
-    "defName": "AbilityLevel"
   }
 ]
