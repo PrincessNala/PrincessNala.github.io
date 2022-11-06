@@ -281,11 +281,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -332,7 +327,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -352,7 +347,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -401,20 +396,15 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "immortality",
-		"price": 100000,
+		"price": 69420,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 83
+	"total": 81
 }
